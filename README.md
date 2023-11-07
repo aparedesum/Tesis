@@ -21,7 +21,6 @@ Comunicacion 3:https://repositorio.minedu.gob.pe/handle/20.500.12799/7853<br>
 Rural:<br>
 Comunicación 4 : cuaderno de autoaprendizaje: https://repositorio.minedu.gob.pe/handle/20.500.12799/8329<br>
 Comunicación 5 : cuaderno de autoaprendizaje: https://repositorio.minedu.gob.pe/handle/20.500.12799/8330<br>
-Comunicación 6 : cuaderno de autoaprendizaje: https://repositorio.minedu.gob.pe/handle/20.500.12799/8331<br>
 Comunicación 3 : cuaderno de autoaprendizaje: https://repositorio.minedu.gob.pe/handle/20.500.12799/8328<br>
 
 Libros 2023:<br>
@@ -29,4 +28,5 @@ Cuadernillo de Comunicación 6. Sexto grado de Primaria: https://repositorio.min
 Cuadernillo de Comunicación 3. Tercer grado de Primaria: https://repositorio.minedu.gob.pe/handle/20.500.12799/8891<br>
 
 Rural:<br>
+Comunicación 5to. grado : cuaderno de autoaprendizaje: https://repositorio.minedu.gob.pe/handle/20.500.12799/8916<br>
 Comunicación 6to. grado : cuaderno de autoaprendizaje: https://repositorio.minedu.gob.pe/handle/20.500.12799/8917<br>
