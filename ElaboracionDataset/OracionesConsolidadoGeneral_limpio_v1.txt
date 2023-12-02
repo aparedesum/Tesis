@@ -1288,7 +1288,7 @@ Busco imágenes adecuadas para mi texto y las pego.
 Busco información en libros de la biblioteca o en internet sobre el producto o el alimento que elegí.
 Busco información en libros o en internet sobre la fruta elegida.
 Busco información en los libros sobre las plantas más importantes de mi comunidad y de cómo preparar abonos naturales.
-Busco información o le pregunto a un poblador siguiente: "¿Qué instrumentos musicales son propios de la comunidad?
+Busco información o le pregunto a un poblador siguiente: ¿Qué instrumentos musicales son propios de la comunidad?
 Busco información o le pregunto a un poblador sobre los beneficios y los perjuicios de los animales vertebrados.
 Busco información o pregunto a un agricultor acerca de qué técnica o forma usa para dar de comer y beber a sus animales sin desperdiciar el alimento ni el agua.
 Busco información o pregunto a un poblador lo siguiente
@@ -2709,7 +2709,7 @@ De causa: porque, dado que, por el hecho de que, / ya que, pues, / debido a que,
 De contacto. Cuando hay contacto físico entre dos cuerpos.
 De continuar esta mortandad, el mundo experimentaría un impacto en la alimentación y hasta en la industria textil; por ejemplo, escasearía la alfalfa para el ganado, frutas, verduras, nueces, semillas aceiteras y algodón.
 De diversas maneras, por ejemplo: con circuitos turísticos que involucren a la población y a las autoridades locales, creando museos de sitio y centros de interpretación, promocionando las festividades y los calendarios turísticos, y promoviendo los nuevos usos sostenibles de monumentos históricos.
-De dónde traen tantos autos?.
+De dónde traen tantos autos?
 De encantación en un derroche, hiende leda, vaporoso tul; y me guía a través de la noche la niña de la lámpara azul.
 De esa forma, podrás ser consciente de tus errores, corregirlos y lograr aprendizajes.
 De esa manera, podrás prepararte adecuadamente.
@@ -2734,7 +2734,7 @@ De estos animales, se obtiene, principalmente, su carne, la que es consumida com
 De forma natural y en mermeladas, jugos, helados, diversos postres.
 De hecho, algunos expertos consideran que la adolescencia es como una segunda niñez temprana.
 De igual forma, bajaron río abajo del Kanus.
-De igual forma, los que serían más tarde los wampis se preguntaban: "¿A qué loro imitaremos?".
+De igual forma, los que serían más tarde los wampis se preguntaban: ¿A qué loro imitaremos?
 De igual manera, elijan a la secretaria o al secretario y a la relatora o al relator.
 De jóvenes, son de color negro.
 De la producción de ovinos se pueden extraer carne, leche y derivados (embutidos, yogur, etc.), pieles (cueros), productos para el cuidado de la piel (cosméticos y otros) y lana.
@@ -2748,7 +2748,7 @@ De no hacerlo, léela nuevamente y luego responde.
 De pelaje generalmente negro, aunque algunos tienen tonalidades castañas.
 De personalidad sencilla, simpático, afable, tímido y hasta pueril, incapaz de llamar la atención mediante excentricidades e impertinencias, se ganó el respeto y admiración de grandes hombres, como Valdelomar, Chocano y Mariátegui.
 De pronto, apareció una mujer bella.
-De pronto, escuchó un eco que le decía: "¿Qué has hecho?"; era la cueva que le hablaba.
+De pronto, escuchó un eco que le decía: ¿Qué has hecho?; era la cueva que le hablaba.
 De pronto, las aves levantaron vuelo y luego cada una volvió con una ﬂor azul en su pico.
 De pronto, se dieron cuenta, presas del pánico, de que se estaban hundiendo.
 De pronto, se topó con una piedra oscura en la que vio un rostro.
@@ -12870,7 +12870,7 @@ Pero señores, siempre ha habido pajaritos que bajan.
 Pero si pensabas que los objetos inservibles no sirven, estás muy equivocado.
 Pero solo es el inicio del descenso en vertical apoyado en la columna, que también tiene el mismo sistema de cuerdas para bajar a san Pedro, mediante pequeños descensos a modo de escalones.
 Pero surgieron muchas dudas y preguntas:
-Pero surgieron muchas dudas y preguntas: "¿Dónde habrá una buena titulería por aquí?
+Pero surgieron muchas dudas y preguntas: ¿Dónde habrá una buena titulería por aquí?
 Pero también se debe tener en cuenta que es necesario invertir tiempo, esfuerzo y recursos para generar diálogo y acción intercultural a través de la promoción de programas que la conserven, valoren e impulsen.
 Pero un día esta hierba desapareció.
 Pero yo no sabía qué quería decir "de canto".
@@ -13243,7 +13243,7 @@ Por ejemplo: La mink'a, trabajo voluntario y grupal para un fin común, se gener
 Por ejemplo: Rosalía, mono, piña, celular, Ucayali.
 Por ejemplo: ollas de barro, juguetes, bordados, canastas, objetos de madera, diseños, etc.
 Por ejemplo: praderas, punas, desiertos, selvas.
-Por ejemplo: ¿cómo es?, ¿qué color tiene?,
+Por ejemplo: ¿cómo es?, ¿qué color tiene?
 Por el color del hábito.
 Por el contrario, las carachamas pasaban desapercibidas y podían nadar libremente.
 Por ellas transitan diferentes tipos de embarcaciones que recorren diversos destinos turísticos, como comunidades étnicas y comunidades campesinas.
@@ -13448,9 +13448,9 @@ Pregunten a sus escuchas si necesitan alguna explicación adicional.
 Pregunten si tienen dudas o realicen comentarios.
 Pregunto a algunos familiares lo siguiente: ¿Por qué el agua es indispensable para la vida?
 Pregunto a algunos miembros de mi familia lo siguiente:
-Pregunto a algunos vecinos: "¿De qué manera podemos cuidar las reservas naturales cercanas a nuestra comunidad?".
+Pregunto a algunos vecinos: ¿De qué manera podemos cuidar las reservas naturales cercanas a nuestra comunidad?
 Pregunto a cuatro familiares o pobladores de la comunidad lo siguiente:
-Pregunto a cuatro o cinco familiares lo siguiente: "¿Qué artesanías de la costa peruana conocen?".
+Pregunto a cuatro o cinco familiares lo siguiente: ¿Qué artesanías de la costa peruana conocen?
 Pregunto a dos familiares lo siguiente:
 Pregunto a dos familias vecinas si saben rimas o adivinanzas propias de nuestra comunidad.
 Pregunto a los miembros de mi familia o comunidad (autoridades o ganaderos) sobre los animales que se crían en esta.
@@ -13459,17 +13459,17 @@ Pregunto a los pobladores de la comunidad el nombre de las plantas más importan
 Pregunto a los pobladores de mi comunidad lo siguiente:
 Pregunto a los pobladores lo siguiente:
 Pregunto a los pobladores si conocen y practican las 3R: reciclar, revisar y reducir. Anoto las respuestas en mi cuaderno y determino la cantidad de personas que desconocen el tema.
-Pregunto a mi familia lo siguiente: "¿Cuáles son los tipos de ecosistemas en la comunidad donde vivimos?".
+Pregunto a mi familia lo siguiente: ¿Cuáles son los tipos de ecosistemas en la comunidad donde vivimos?
 Pregunto a mis familiares acerca de las principales montañas, ríos, volcanes o lagunas que hay en la región.
 Pregunto a mis familiares adultos qué aspectos de nuestra comunidad me sugieren tomar en cuenta para elaborar un folleto.
 Pregunto a mis familiares adultos qué otros productos alimenticios se siembran en mi comunidad y hago una lista.
 Pregunto a mis familiares adultos qué podrían ellos enseñar mediante un texto instructivo.
 Pregunto a mis familiares lo siguiente:
 Pregunto a mis familiares mayores lo siguiente:
-Pregunto a mis familiares o vecinos lo siguiente: "¿Qué objetos de uso cotidiano pueden ser atraídos por un imán?".
+Pregunto a mis familiares o vecinos lo siguiente: ¿Qué objetos de uso cotidiano pueden ser atraídos por un imán?
 Pregunto a mis familiares sobre los conocimientos que tienen acerca del cuidado del ganado que escogí en la escuela para complementar mi tríptico con esa información.
 Pregunto a mis familiares sobre qué recursos naturales de la comunidad les gustaría escribir en un texto expositivo.
-Pregunto a mis familiares: "¿Qué información añadirían a la infografía?".
+Pregunto a mis familiares: ¿Qué información añadirían a la infografía?
 Pregunto a mis padres y otros familiares lo siguiente
 Pregunto a mis padres y parientes lo siguiente: ¿Qué materiales reutilizan en casa? ¿Qué hacen con los materiales que ya no utilizan?
 Pregunto a mis vecinos los siguiente:
@@ -14346,7 +14346,7 @@ Reflexiona a partir de la siguiente pregunta y luego respóndela.
 Reflexiona sobre las actividades realizadas y responde las siguientes preguntas:
 Reflexiona y responde
 Reflexiona y responde oralmente.
-Reflexionamos a partir de estas preguntas: ¿los textos leídos pueden contribuir a mejorar nuestra expresión oral y nuestra escucha?.
+Reflexionamos a partir de estas preguntas: ¿los textos leídos pueden contribuir a mejorar nuestra expresión oral y nuestra escucha?
 Reflexionamos a partir de la siguiente pregunta y la respondemos oralmente.
 Reflexionamos a partir de la siguiente pregunta y la respondemos.
 Reflexionamos a partir de las preguntas y las respondemos oralmente.
@@ -14649,7 +14649,7 @@ Responde las preguntas oralmente; para ello, ten en cuenta lo que leíste y obse
 Responde las preguntas que te hagan.
 Responde las preguntas tomando en cuenta la información de la pizarra.
 Responde las preguntas y completa el esquema.
-Responde las preguntas ¿qué?, ¿cómo?, ¿cuándo?,¿dónde?, ¿por qué?
+Responde las preguntas ¿qué?, ¿cómo?, ¿cuándo?, ¿dónde?, ¿por qué?
 Responde las siguientes preguntas
 Responde las siguientes preguntas a partir de lo que leíste y observaste en la imagen anterior.
 Responde las siguientes preguntas con ayuda de tu profesora o profesor:
@@ -15432,7 +15432,7 @@ Si esta situación continúa, ¿qué futuro le espera a esta reserva natural?
 Si estamos en la etapa de la adolescencia, ¿ya no podemos jugar con muñecas o carritos?
 Si existiera una liga de la justicia ambiental, él tendría que encabezarla con este asombroso superpoder.
 Si falta el título de uno de los cuentos, todo el libro tiene un problema, ¿no creen?
-Si falta el título de uno de los cuentos, todo el libro tiene un problema, ¿no creen?.
+Si falta el título de uno de los cuentos, todo el libro tiene un problema, ¿no creen?
 Si fuera necesario, escribo la versión final en hojas de colores.
 Si fueras a preparar la papa a la huancaína para seis personas, ¿qué cambiarías en las instrucciones?
 Si fueras dueño de la perrita y la tortuga, ¿qué harías para evitar un nuevo enfrentamiento entre las dos?
@@ -16689,7 +16689,7 @@ Una de las costumbres y formas de manejo de la economía en el Antiguo Perú era
 Una de las máquinas importantes para la elaboración de piezas cerámicas es el horno intermitente.
 Una de las más importantes es la Bajada de San Pedro, que se lleva a cabo el 27 de junio. En esta los devotos acuden a la iglesia de la ciudad para bajar la imagen desde la parte más alta del altar mayor.
 Una de las tradiciones que tienen los pueblos son sus leyendas.
-Una descripción responde la pregunta "¿Cómo es?".
+Una descripción responde la pregunta ¿Cómo es?
 Una encuesta realiza da en 2015 a ciudadanos de Lima y Callao mostró que el 75,6 % se movilizaba en transporte público o colectivo.
 Una especie depredadora caza a otra especie, la cual se convierte en presa.
 Una especie se beneficia, mientras que la otra no es perjudicada ni obtiene un provecho.
@@ -17123,7 +17123,7 @@ Vuelvan a leer la parte donde aparece la palabra o el enunciado que no entendier
 Vuelve a contar tu cuento en voz alta, tomando en cuenta las recomendaciones que te han dado.
 Vuelve a escribir tu anécdota y acompáñala con un dibujo.
 Vuelve a leer el afiche y responde estas preguntas:
-Vuelve a leer esta parte del texto: "Y tú, ¿estás cambiando?".
+Vuelve a leer esta parte del texto: "Y tú, ¿estás cambiando?
 Vuelvo a leer el texto y subrayo las palabras clave.
 Vuelvo a leer el texto.
 Vuelvo a leer y subrayo las ideas principales.
@@ -17269,7 +17269,7 @@ Yo también sé una adivinanza.
 Yo te acariciaré el lomo.
 Yo te daré el unkuch que buscas y otros alimentos.
 Yo tengo una vaca toda blanquita, con manchitas negritas y cola chiquita.
-Yo tenía tanto miedo que solo preguntaba: "¿Ahora cómo me bajo?".
+Yo tenía tanto miedo que solo preguntaba: ¿Ahora cómo me bajo?
 Yo tomé apuntes de todo aquello que me pareció interesante.
 Yo tomé apuntes de todo aquello que me pareció interesante. La ciudad de Caral se encuentra en el valle de Supe, en un lugar desértico.
 Yo tomé apuntes de todo lo que me pareció interesante.
@@ -17537,7 +17537,7 @@ manguera
 manzanilla
 mariposa
 martes
-marzo.
+marzo
 materiales
 mazamorra, cancha, mote, choclo, chochoca y maíz pelado
 maíz
@@ -18338,7 +18338,7 @@ ya no tenían título, su asombro fue enorme.
 ¿Crees que tiene razón?
 ¿Creo que es importante aprender a declamar poemas en público?
 ¿Creo que es importante lo que he aprendido en esta actividad?
-¿Creo que las mesas redondas son útiles?,
+¿Creo que las mesas redondas son útiles?
 ¿Creo que los impactos son positivos o negativos?
 ¿Creo que son positivos o negativos?
 ¿Crónica?
@@ -18417,7 +18417,7 @@ ya no tenían título, su asombro fue enorme.
 ¿Cuál es el problema?
 ¿Cuál es el procedimiento para elaborar tintes naturales?
 ¿Cuál es el proceso de elaboración del néctar de cocona?
-¿Cuál es el producto que elegiremos?,
+¿Cuál es el producto que elegiremos?
 ¿Cuál es el propósito al escribirla?
 ¿Cuál es el propósito de ambos textos?
 ¿Cuál es el propósito de escribir un tríptico?
@@ -19043,7 +19043,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Cómo se llamará el personaje?
 ¿Cómo se llamará la niña?
 ¿Cómo se manifiesta la electricidad estática?
-¿Cómo se muestran a los receptores?, ¿participativos?,
+¿Cómo se muestran a los receptores?, ¿participativos?
 ¿Cómo se organiza un conversatorio para defender las opiniones?
 ¿Cómo se organiza un foro de discusión?
 ¿Cómo se participa en un foro de discusión?
@@ -19671,7 +19671,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿La moderadora o el moderador nos dio la palabra?
 ¿La moderadora o el moderador presenta el tema, las pautas y ayuda a llegar a la conclusión?
 ¿La moderadora o el moderador presentó el tema y las pautas, y ayudó a llegar a la conclusión?
-¿La narración que hicimos fue fluida y con buena pronunciación?,
+¿La narración que hicimos fue fluida y con buena pronunciación?
 ¿La niña describe el lugar dando variados detalles?
 ¿La niña realiza la descripción considerando ese paisaje?
 ¿La noticia tiene textos en negritas, mayúsculas o subrayados?
@@ -20079,7 +20079,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Por qué discutían la nube y el Sol?
 ¿Por qué el Parque Nacional Huascarán es un lugar que debe ser protegido?
 ¿Por qué el abuelo le puso a su nieta el nombre Menin Kaisi?
-¿Por qué el aire es indispensable para la vida?"
+¿Por qué el aire es indispensable para la vida?
 ¿Por qué el aire está contaminado?
 ¿Por qué el foquito no se enciende en la situación 2?
 ¿Por qué el ganado vacuno brinda muchos beneficios a las personas?
@@ -20282,7 +20282,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Quién es el autor del afiche?
 ¿Quién es el personaje principal del cuento?
 ¿Quién es el protagonista de la noticia?
-¿Quién es este Henry que viene a fastidiar nuestra tranquilidad?.
+¿Quién es este Henry que viene a fastidiar nuestra tranquilidad?
 ¿Quién es usted?
 ¿Quién escogió mi nombre?
 ¿Quién escribe el afiche?
@@ -20408,7 +20408,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué actividad nos toca trabajar hoy?
 ¿Qué actividad observamos en la imagen?
 ¿Qué actividad realiza el señor de gorra azul?
-¿Qué actividad realiza esta familia?,
+¿Qué actividad realiza esta familia?
 ¿Qué actividad realiza esta familia?, ¿cómo colabora cada uno de sus miembros?
 ¿Qué actividad realizan las personas de la imagen?
 ¿Qué actividad realizan los pobladores en el campo?
@@ -20487,7 +20487,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué artesanía se elabora en nuestras comunidades?
 ¿Qué artesanías parecidas se elaboran en nuestra región?
 ¿Qué artesanías se desarrollan en nuestra comunidad o en nuestro departamento?
-¿Qué aspecto creo que se debe profundizar para invitar a los lectores a reflexionar sobre el cuidado de los recursos naturales del departamento?,
+¿Qué aspecto creo que se debe profundizar para invitar a los lectores a reflexionar sobre el cuidado de los recursos naturales del departamento?
 ¿Qué aspecto de mi escritura tengo que reforzar?
 ¿Qué aspecto tiene la hoja invadida por la plaga?
 ¿Qué aspectos consideraremos al describir?
@@ -20817,7 +20817,6 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué formato tienen en común?
 ¿Qué formato utilizaremos: manuscrito o virtual?
 ¿Qué fotos muestra la profesora?
-¿Qué fotos muestra la profesora?,
 ¿Qué frase emplearé como eslogan en el afiche?
 ¿Qué frases usaremos?
 ¿Qué frutas se mencionan en la rima?
@@ -20882,7 +20881,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué hacen las personas en la feria?
 ¿Qué hago ahora?
 ¿Qué han investigado sobre el tema?
-¿Qué han obtenido después de cocinar Sonia y Jorge?, ¿una mezcla o una
+¿Qué han obtenido después de cocinar Sonia y Jorge?
 ¿Qué haremos?
 ¿Qué hará Manuel después de la siembra del olluco?
 ¿Qué haré al terminar primaria?
@@ -21070,7 +21069,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué me ayudó a elaborar un buen afiche?
 ¿Qué me comprometo a reforzar?
 ¿Qué me falta aprender?
-¿Qué me fue más fácil en esta actividad: exponer, leer o escribir?,
+¿Qué me fue más fácil en esta actividad: exponer, leer o escribir?
 ¿Qué me interesó aprender de la actividad desarrollada?
 ¿Qué me sugiere el título de la fábula que leeré?
 ¿Qué medidas de higiene deben tener las personas que trabajan en la producción de alimentos lácteos?
@@ -21300,7 +21299,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué pregunta o qué respuesta me pareció más interesante en la entrevista?
 ¿Qué preguntas tendrán que hacer a los agricultores para conocer sobre la siembra y cosecha de la papa nativa?
 ¿Qué preparación se necesita para entrevistar a una persona?
-¿Qué preparará Manuel?,
+¿Qué preparará Manuel?
 ¿Qué pretende lograr el autor con este texto?
 ¿Qué problema plantea el autor del texto en el tercer párrafo?
 ¿Qué problema resolvimos?
@@ -21614,7 +21613,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué tipo de máquina es?
 ¿Qué tipo de papas están cosechando?
 ¿Qué tipo de producto creemos que se está elaborando?
-¿Qué tipo de producto creemos que se está elaborando?,
+¿Qué tipo de producto creemos que se está elaborando?
 ¿Qué tipo de productos se pueden encontrar en una expoferia?
 ¿Qué tipo de recursos emplearemos al describir?
 ¿Qué tipo de relación tienen?
@@ -21634,7 +21633,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué tipo de texto vas a leer?
 ¿Qué tipos de artesanía se darán a conocer?
 ¿Qué tipos de artesanía? Cerámica y textiles que se elaboran en la comunidad.
-¿Qué tipos de células conocen?.
+¿Qué tipos de células conocen?
 ¿Qué tipos de energía tiene?
 ¿Qué tipos de ganado se crían en mayor número?
 ¿Qué tipos de gastos creen que hay en el hogar de María y Lucio?
@@ -21648,7 +21647,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Qué trata de explicar "La leyenda de los colibríes de Nasca"?
 ¿Qué trata de explicar la leyenda "Failoc y el mar caliente de Lambayeque"?
 ¿Qué tratarán de observar la estudiante y los estudiantes cuando miran las plantas con sus lupas?
-¿Qué táctica utilizó la carachama para acercarse al cangrejo?,
+¿Qué táctica utilizó la carachama para acercarse al cangrejo?
 ¿Qué técnicas se utilizan para producir el vino en Tacna?
 ¿Qué título le pondrás a tu infografía?
 ¿Qué título le pondrás a tu texto?
@@ -21691,7 +21690,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Realizamos en nuestra comunidad alguna actividad ganadera?
 ¿Realizamos en nuestra comunidad esta actividad ganadera?, ¿cómo?
 ¿Recomendaríamos a otras personas leer afiches para informarse sobre algo?
-¿Recomendaríamos este tipo de texto en nuestra comunidad?,
+¿Recomendaríamos este tipo de texto en nuestra comunidad?
 ¿Recomendarían a sus amigas y amigos que visiten Caral?
 ¿Recomendarías este texto?
 ¿Reconozco que cada compañera y compañero es diferente?
@@ -21774,7 +21773,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Se presenta una estructura organizada de inicio, desarrollo y conclusión?
 ¿Se presentaron?
 ¿Se puede aprender jugando?
-¿Se puede deducir el tema a partir del titular?,
+¿Se puede deducir el tema a partir del titular?
 ¿Se puede separar el aceite del agua?
 ¿Se pueden regar las plantas con ella?
 ¿Se realiza alguna en nuestra comunidad?
@@ -21958,7 +21957,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿Y quién mejor que tú para saberlo? —dijeron las ﬂores—.
 ¿Y qué poderes son esos?
 ¿Y si la hacemos sobre cómo es nuestra institución educativa?
-¿Y si los títulos son demasiado caros y no nos alcanza?".
+¿Y si los títulos son demasiado caros y no nos alcanza?
 ¿Y si ningún título es adecuado para los sucesos y personajes de Cuento?
 ¿Y si no encontramos ningún título que nos guste?
 ¿Y si no encontramos ningún título que nos guste?
@@ -21975,7 +21974,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿cuál es el nombre del puente?
 ¿cuál es el significado de la palabra macrocomunidad?
 ¿cuál es la principal acción que puede realizar el hombre para garantizar la vida marina?
-¿cuál es su importancia?,
+¿cuál es su importancia?
 ¿cuál es su nombre y a qué se dedica?
 ¿cuál es?
 ¿cuál o cuáles?
@@ -22000,7 +21999,7 @@ Subrayo y explico por qué elegí esa opción.
 ¿de qué sabor será?
 ¿dónde queda?
 ¿en qué estado físico se pueden presentar los componentes de una mezcla?
-¿en qué momento es más adecuado realizar una mesa redonda?.
+¿en qué momento es más adecuado realizar una mesa redonda?
 ¿en qué momento?
 ¿es de día o de noche?
 ¿es importante conocer esta reserva natural?
@@ -22073,5 +22072,5 @@ Subrayo y explico por qué elegí esa opción.
 Órgano que se ve afectado
 Últimamente también hay cápsulas preparadas de este fruto, sin agregarle ningún aditivo artificial.
 Úsenlo y, sobre todo, ¡disfrútenlo!
-Úsenlo y, sobre todo, ¡disfrútenlo! ¡Ah!... recurran a sus profesoras o profesores cuando necesiten ayuda.
+¡Ah!... recurran a sus profesoras o profesores cuando necesiten ayuda.
 óvulo
