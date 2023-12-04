@@ -140,7 +140,7 @@ oraciones_traducidas = traducir_oraciones(oraciones_tokenizadas, dictionario_pic
 
 print("Guardando ... ")
 
-shards = 20000
+shards = 2000
 total_oraciones = len(oraciones_traducidas)
 
 print(f"total oraciones traducidas : {total_oraciones}")
