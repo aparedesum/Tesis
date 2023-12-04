@@ -8,6 +8,7 @@ from pprint import pprint
 
 import string
 import nltk
+import spacy
 
 # Descargar los datos necesarios para tokenización
 nltk.download('punkt')
@@ -19,9 +20,9 @@ class OracionTraducida:
         self.palabras_traducidas = palabras_traducidas
 
 class PalabraTraducida: 
-    def __init__(self, palabra, pictograma):
+    def __init__(self, palabra, pictogramas):
         self.palabra = palabra
-        self.pictograma = pictograma
+        self.pictogramas = pictogramas
 
 class Pictograma:
     def __init__(self, nombre, id, plural, synsets):
@@ -29,6 +30,15 @@ class Pictograma:
         self.id = id
         self.synsets = synsets
         self.plural = plural
+
+def lematizar_palabra_es(word): 
+    # Procesar la palabra con spaCy
+    doc = nlp(word)
+    
+    # Obtener el lema de la primera palabra (si hay palabras en el documento)
+    lema_palabra = next((token.lemma_ for token in doc if token.lemma_ != '-PRON-'), word)
+    
+    return lema_palabra
 
 def tokenize(text, preserve_case=True):
     #punctuation = set(string.punctuation + '"¡¿áéíóúü')
@@ -85,19 +95,24 @@ def tokenizar_oraciones():
         print(f'Error durante la tokenización: {e}')
 
 def traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas):
+    print(f'Traduciendo Oraciones.')
     oraciones_traducidas = []
-    i = 0
+    i = 1
     for oracion_tokenizada in oraciones_tokenizadas:
         palabras_traducidas = []
         for palabra in oracion_tokenizada:
-            pictograma = dictionario_pictogramas.get(palabra.lower(), {})
-            if(pictograma):
-                palabras_traducidas.append(PalabraTraducida(palabra, Pictograma(pictograma[0].nombre, pictograma[0].id, pictograma[0].plural, pictograma[0].synsets)))
+            pictogramas = dictionario_pictogramas.get(palabra.lower(), {})
+            if(pictogramas):
+                palabras_traducidas.append(PalabraTraducida(palabra, pictogramas))
             else:
-                palabras_traducidas.append(PalabraTraducida(palabra, None))
+                # Tratamos de buscar en el dictionary la palabra lematizada
+                palabra_lematizada = lematizar_palabra_es(palabra.lower())
+                pictogramas = dictionario_pictogramas.get(palabra_lematizada.lower(), {})
+                palabras_traducidas.append(PalabraTraducida(palabra, pictogramas))
 
         oraciones_traducidas.append(OracionTraducida(id = i, oracion = ' '.join(oracion_tokenizada), palabras_traducidas = palabras_traducidas))
         i = i + 1
+    print(f'Fin traducción.')
     return oraciones_traducidas
 
 # Función de serialización personalizada
@@ -113,6 +128,11 @@ def save_to_file(oraciones_traducidas, archivo):
         file.write(oraciones_traducidas_json)
 
 # Llama a la función para tokenizar las oraciones
+# Cargar el modelo en español
+ruta_modelo = r'D:\Tesis\Tesis\ElaboracionDataset\es_core_news_sm-3.7.0\es_core_news_sm\es_core_news_sm-3.7.0'
+#nlp = spacy.load('es_core_news_sm')
+nlp = spacy.load(ruta_modelo)
+
 dictionario_pictogramas = cargar_pictogramas()
 
 oraciones_tokenizadas = tokenizar_oraciones()
@@ -120,12 +140,12 @@ oraciones_traducidas = traducir_oraciones(oraciones_tokenizadas, dictionario_pic
 
 print("Guardando ... ")
 
-shards = 4000
+shards = 20000
 total_oraciones = len(oraciones_traducidas)
 
 print(f"total oraciones traducidas : {total_oraciones}")
 
-for i in range(6):
+for i in range(13):
     comienza_en = shards*i
     termina_en = shards*(i+1)
     if(termina_en > total_oraciones):
