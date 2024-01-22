@@ -2486,7 +2486,6 @@ Cuando el hombre corta demasiados árboles, destruye el lugar donde vive esta av
 Cuando el niño creció, Cavillaca hizo que las huacas y los dioses se reunieran para determinar quién era el padre del niño, y Coniyara asistió a la reunión vestido como un vagabundo.
 Cuando el pez vio a Hugo, se puso muy negro y se fue a esconder rápidamente.
 Cuando el recreo terminó y Luis abrió la puerta del salón
-Cuando el recreo terminó y Luis abrió la puerta del salón...
 Cuando empiezan a salir las hojas a la superficie, continuamos con el riego y, si es necesario, cubrimos con tierra las papas.
 Cuando en la unión no se distinguen las moléculas a simple vista se llama mezcla homogénea; cuando se distinguen a simple vista se llama mezcla heterogenea.
 Cuando entre todos lograron detenerlo y estirarlo, lo pusieron en su lugar en la página y todos pudieron ver que Cuento ya tenía título: "El cuento que perdió su título".
@@ -2915,7 +2914,6 @@ Derecho a la información
 Derecho a la privacidad
 Derecho a la protección
 Derecho a la protección y a los cuidados que sean necesarios para asegurar su bienestar.
-Derecho a la salud
 Derecho a la salud.
 Derecho a mantener su privacidad y la de su familia, así como la de su domicilio y correo personal.
 Derecho a no ser separado de sus padres, salvo cuando el Estado considere que es necesario para asegurar su bienestar (en caso de maltratos o descuido
@@ -2928,12 +2926,12 @@ Derecho a reunirse con otras niñas y niños de manera pacífica y a crear grupo
 Derecho al juego
 Derecho al juego y a realizar otras actividades recreativas propias de su edad, así como a participar en actividades culturales y artísticas
 Derecho humano a un ambiente sano.
-Derechos a la protección:
-Derechos de desarrollo:
-Derechos de participación:
-Derechos de supervivencia:
+Derechos a la protección
+Derechos de desarrollo
+Derechos de participación
+Derechos de supervivencia
 Derramar líquidos de cualquier clase en el mar.
-Desarrolla con toda el aula las siguientes actividades:
+Desarrolla con toda el aula las siguientes actividades
 Desarrolla la información completa.
 Desarrolla las ideas de forma ordenada.
 Desarrolla los siguientes ejercicios antes de escribir tu texto.
@@ -2946,18 +2944,18 @@ Desarrollar las ideas principales con ideas
 Desarrollaste tu capacidad para argumentar con ayuda de tu profesora o profesor.
 Desarrollaste tus habilidades comunicativas y aprendiste con ayuda de tu profesora o profesor.
 Desarrollaste tus habilidades comunicativas, que son hablar, escuchar, leer y escribir.
-Desarrollo
-Desarrollo Durante el desarrollo de la exposición se detallarán las ideas.
+Desarrollo 
+Durante el desarrollo de la exposición se detallarán las ideas.
 Desarrollo de argumentos
 Desarrollo de la noticia
 Desarrollo de una idea central de forma clara y detallada.
 Desarrollo económico
 Desarrollo o nudo
 Desarrollo subtemas
-Desarrollo. Es el momento en el que se explica de manera detallada el tema.
-Desarrollo. Se explica el tema de manera detallada.
-Desarrollo: Detalla la información que encontraste, la cual está reflejada en tu infografía.
-Desarrollo: Presenta la información de tu infografía.
+Es el momento en el que se explica de manera detallada el tema.
+Se explica el tema de manera detallada.
+Detalla la información que encontraste, la cual está reflejada en tu infografía.
+Presenta la información de tu infografía.
 Desarrollé mi exposición con claridad.
 Describe brevemente una situación de tu vida diaria en la que contarías una anécdota y explica por qué.
 Describe cada uno de los pasos o las instrucciones que se deben tomar en cuenta para lograr la elaboración del producto.
@@ -3008,9 +3006,8 @@ Describí un producto alimenticio de mi comunidad.
 Descripción de la técnica
 Descripción de las semejanzas y diferencias de las actividades comparadas.
 Descripción del lugar
-Descripción del lugar:
 Descriptivo
-Descríbanlo.
+Descríbanlo
 Descubrieron con laboriosidad e ingenio nuevas artes de pesca.
 Descubrimos cómo es la pesca en los ríos y las lagunas de los Andes
 Descubrimos cómo es la pesca en los ríos y las lagunas del Perú
@@ -3039,7 +3036,6 @@ Desde que te levantas, para poder caminar, bañarte, saltar, arreglar tus cosas,
 Desde que él tenía siete años, como yo, quería ser doctor y curar a las personas para que no sufrieran por las enfermedades ni por las lesiones que provocan los accidentes.
 Desenlace
 Desenlace o final
-Desenlace.
 Desesperada, pide ayuda a una señora, pero esta se la niega.
 Desglosa el poliedro y ármalo.
 Desglosa el retablo y complétalo con dibujos de productos y escenas de la vida cotidiana de tu comunidad.
@@ -3085,7 +3081,7 @@ Después de la instalación del panel
 Después de la investigación y, tomando en cuenta los conocimientos que adquirieron sobre el asunto, se han propuesto compartir y difundir esta información.
 Después de la investigación, y tomando en cuenta los conocimientos que adquirieron sobre el tema, se han propuesto realizar una exposición para compartir y difundir esta información.
 Después de la lectura
-Después de la lectura ¿Cuál es el tema central de este texto?
+¿Cuál es el tema central de este texto?
 Después de la mesa redonda
 Después de la narración
 Después de la narración oral
@@ -10097,7 +10093,6 @@ Los lugares turísticos de una comunidad son su mejor carta de presentación; po
 Los lugares turísticos son representativos de una comunidad; por eso, debemos mantenerlos en buen estado para que sus atractivos puedan ser apreciados por los visitantes.
 Los lugareños de una zona acuden, en primer lugar, como vendedores de estos productos y, en segundo lugar, como compradores.
 Los machiguenga elaboran textiles en los que representan seres de su mitología.
-Los machiguenga elaboran textiles en los que representan seres de su mitología.
 Los machos adultos tienen un pelaje alrededor del cuello, por eso, los llaman "leones marinos".
 Los machos adultos tienen un pelaje alrededor del cuello; por eso, los llaman leones marinos.
 Los machos cuentan con una gran melena que abarca todo el cuello, la cabeza (exceptuando la cara) y parte del lomo.
@@ -10156,7 +10151,7 @@ Los osos polares son mamíferos marinos.
 Los osos polares son menos agresivos que los osos andinos.
 Los osos se ven así debido a que el aire en ese canal descompone la luz, lo cual hace que parezcan blancos
 Los otros cuentos movieron sus letras, dudosos; no acababan de ver claro que el problema fuera suyo, pero luego Cuento les dijo:
-Los otros cuentos movieron sus letras, dudosos; no acababan de ver claro que el problema fuera suyo, pero luego Cuento les dijo: "Además, imagínense si un título desaparece así, nada más, y nadie hace nada por recuperarlo, al rato se van a empezar a perder los demás títulos ".
+Además, imagínense si un título desaparece así, nada más, y nadie hace nada por recuperarlo, al rato se van a empezar a perder los demás títulos.
 Los padres de Estela y Luis recibieron un díptico acerca de una feria artesanal en Quinua (Ayacucho); por ello, la visitaron junto a sus hijos.
 Los padres de Hugo y un pez que cambiaba de color.
 Los padres de Juan y María les explican a sus hijos lo que significa el derecho de tener un nombre y que este derecho les brinda otros.
@@ -10232,7 +10227,7 @@ Los proyectos deben estar dirigidos a áreas territoriales con identidad histór
 Los pulidos se efectúan apoyando lijas directamente sobre la pieza.
 Los pulmones se deshinchan y expulsan el aire.
 Los pulmones se hinchan y entra aire en ellos.
-Los puntos suspensivos representan...
+Los puntos suspensivos representan
 Los pájaros, al ver a Chogui en el suelo, se asustaron y comenzaron a volar alrededor de él.
 Los párrafos brindan detalles de la noticia.
 Los que hoy en día son los achuar se dijeron: "Nosotros imitaremos al kutuir".
@@ -10246,7 +10241,7 @@ Los recorridos se llevan a cabo los días 18,19 y 28 de octubre, con una multitu
 Los recuadros con texto, que están en la parte superior de las viñetas, se llaman cartelas.
 Los recursos naturales de las comunidades
 Los recursos naturales que proporciona el ambiente se clasifican en tres tipos diferentes:
-Los recursos naturales que proporciona el ambiente se clasifican en tres tipos diferentes: a. Recursos continuos o inagotables.
+Recursos continuos o inagotables.
 Los recursos naturales son aquellos bienes materiales y servicios que proporciona la naturaleza sin alteración por parte del ser humano.
 Los recursos no verbales de los que puedes hacer uso al declamar son los gestos, los movimientos corporales, el volumen y la entonación de la voz, entre otros.
 Los recursos no verbales que puedes usar al recitar son los gestos, los movimientos corporales, la mirada, el volumen, la entonación de la voz, la dicción, entre otros.
@@ -21734,8 +21729,8 @@ Subrayo y explico por qué elegí esa opción.
 ¿Sabías que los conectores lógicos son palabras o frases que sirven para unir las ideas en una oración, un enunciado, un párrafo o un texto?
 ¿Sabías que los trabalenguas son oraciones o textos breves de naturaleza oral, difíciles de pronunciar?
 ¿Sabías que se han encontrado huevos y larvas del zancudo del dengue en la cáscara del huevo, las chapitas de botella y la cáscara de coco?
-¿Sabías que... en una colonia de abejas solo puede haber una abeja reina?
-¿Sabías que...?
+¿Sabías que en una colonia de abejas solo puede haber una abeja reina?
+¿Sabías que?
 ¿Se animan a escribir un afiche?
 ¿Se apoyó en el gráﬁco y el organizador visual?
 ¿Se apoyó en el organizador visual?
