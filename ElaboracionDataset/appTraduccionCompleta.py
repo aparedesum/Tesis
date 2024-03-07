@@ -27,10 +27,10 @@ class PalabraTraducida:
 
 class Pictograma:
     def __init__(self, keyword, id, plural, synsets):
-        self.keyword = keyword
+        self.keyword = keyword.lower() if keyword is not None else None
         self.id = id
         self.synsets = synsets
-        self.plural = plural
+        self.plural = plural.lower() if plural is not None else None
         
 
 def cargar_pictogramas():
