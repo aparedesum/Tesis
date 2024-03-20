@@ -1,0 +1,12 @@
+
+.pictogramas-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Ajusta el espacio entre pictogramas como prefieras */
+  }
+  
+  .pictograma-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

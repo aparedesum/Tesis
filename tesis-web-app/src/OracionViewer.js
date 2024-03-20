@@ -1,33 +1,65 @@
 import React, { useState } from 'react';
-import datos from './data.json'; // Asume esta es la ruta de tu archivo JSON
-import Pictograma from './Pictograma'; // Asegúrate de implementar este componente
-import TextoComoImagen from './TextoComoImagen'; 
-import CompuestasViewer from './CompuestasViewer'; 
+import datos from './data.json';
+import Pictograma from './Pictograma';
+import TextoComoImagen from './TextoComoImagen';
+import CompuestasViewer from './CompuestasViewer';
+import './EstilosPersonalizados.css'; // Asegúrate de importar tus estilos aquí
 
 const OracionViewer = () => {
-    const [indice, setIndice] = useState(0); // Para navegar entre oraciones
+    const [indiceOracion, setIndiceOracion] = useState(0);
+    const [indicesActivos, setIndicesActivos] = useState({});
+    const [pictogramasEliminados, setPictogramasEliminados] = useState(new Set());
 
-    const oracionActual = datos[indice];
+    const oracionActual = datos[indiceOracion];
+    const palabrasTraducidas = oracionActual.palabras_traducidas;
+
+    const moverPictograma = (indexPalabra, direccion) => {
+        const cantidadPictogramas = palabrasTraducidas[indexPalabra].pictogramas.length;
+        const indiceActual = indicesActivos[indexPalabra] || 0;
+        const nuevoIndice = (indiceActual + direccion + cantidadPictogramas) % cantidadPictogramas;
+        setIndicesActivos(prev => ({ ...prev, [indexPalabra]: nuevoIndice }));
+    };
+
+    const eliminarPictograma = (indexPalabra) => {
+        setPictogramasEliminados(prev => new Set(prev).add(indexPalabra));
+    };
+
+    const imprimirIdsVisibles = () => {
+        const idsVisibles = palabrasTraducidas
+            .map((palabra, index) => !pictogramasEliminados.has(index) ? palabra.pictogramas[0]?.id : null)
+            .filter(id => id);
+        alert("IDs visibles: " + idsVisibles.join(', '));
+    };
 
     return (
         <div>
             <p>{oracionActual.oracion}</p>
-            <div>
-            {oracionActual.palabras_traducidas.map((palabra, index) => (
-                palabra.pictogramas && palabra.pictogramas.length > 0 ? (
-                    <Pictograma key={index} id={palabra.pictogramas[0].id} />
-                ) : (
-                    // Usar el nuevo componente para mostrar el texto como imagen
-                    <TextoComoImagen key={index} texto={palabra.palabra.texto} />
-                )
-            ))}
-
+            <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center' }}>
+                {palabrasTraducidas.map((palabra, indexPalabra) => (
+                    !pictogramasEliminados.has(indexPalabra) && (
+                        <div key={indexPalabra} style={{ marginRight: '10px', marginBottom: '10px' }}>
+                            {palabra.pictogramas.length > 0 ? (
+                                <>
+                                    <Pictograma id={palabra.pictogramas[0].id} />
+                                    <div>
+                                        <button onClick={() => moverPictograma(indexPalabra, -1)}>Anterior</button>
+                                        <button onClick={() => moverPictograma(indexPalabra, 1)}>Siguiente</button>
+                                        <button onClick={() => eliminarPictograma(indexPalabra)}>Eliminar</button>
+                                    </div>
+                                </>
+                            ) : (
+                                <TextoComoImagen texto={palabra.palabra.texto} />
+                            )}
+                        </div>
+                    )
+                ))}
             </div>
-            <button onClick={() => setIndice(indice - 1)} disabled={indice <= 0}>Anterior</button>
-            <button onClick={() => setIndice(indice + 1)} disabled={indice >= datos.length - 1}>Siguiente</button>
+            <button onClick={() => setIndiceOracion(Math.max(0, indiceOracion - 1))} disabled={indiceOracion === 0}>Oración Anterior</button>
+            <button onClick={() => setIndiceOracion(Math.min(datos.length - 1, indiceOracion + 1))} disabled={indiceOracion === datos.length - 1}>Oración Siguiente</button>
+            <button onClick={imprimirIdsVisibles}>Imprimir IDs</button>
             <CompuestasViewer palabrasCompuestas={oracionActual.palabras_compuestas} />
+
         </div>
     );
-}
-
+};
 export default OracionViewer;
