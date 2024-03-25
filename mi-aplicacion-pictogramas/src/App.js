@@ -44,6 +44,7 @@ function App() {
       } catch (error) {
         console.error('Error al obtener el elemento:', error);
       }
+      setIndexBusqueda("");
     };
 
     fetchElemento();
@@ -68,16 +69,8 @@ function App() {
 
   return (
     <div style={containerStyle} key={currentIndex}>
+      
       <h2>Oración: {currentIndex + 1}</h2>
-      {/* Puedes utilizar elementoActual para mostrar información específica del elemento aquí */}
-      <p>{elementoActual ? elementoActual.oracion : 'Cargando...'}</p>
-      <PictogramList key={currentIndex}
-        id_palabra={currentIndex}
-        // Asume que PictogramList puede manejar el nuevo estado "elementoActual"
-        palabrasTraducidas={elementoActual ? elementoActual.palabras_traducidas : []}
-        palabrasCompuestas={elementoActual ? elementoActual.palabras_compuestas : []}
-        oracionTraducida={elementoActual ? elementoActual.oracion_traducida : []}
-      />
       <div>
         <input 
           type="text" 
@@ -85,12 +78,22 @@ function App() {
           onChange={(e) => setIndexBusqueda(e.target.value)}
           placeholder="Ingresa un índice"
         />
-        <button onClick={handleBuscarClick}>Buscar</button>
+        <button onClick={handleBuscarClick}>Buscar Oración</button>
       </div>
+      <h2>{elementoActual ? elementoActual.oracion : 'Cargando...'}</h2>
       <div style={buttonContainerStyle}>
         <button onClick={() => navigate(-1)} style={buttonStyle}>Anterior</button>
         <button onClick={() => navigate(1)} style={buttonStyle}>Siguiente</button>
       </div>
+      <PictogramList key={currentIndex}
+        id_palabra={currentIndex}
+        // Asume que PictogramList puede manejar el nuevo estado "elementoActual"
+        palabrasTraducidas={elementoActual ? elementoActual.palabras_traducidas : []}
+        palabrasCompuestas={elementoActual ? elementoActual.palabras_compuestas : []}
+        oracionTraducida={elementoActual ? elementoActual.oracion_traducida : []}
+      />
+      
+      
     </div>
   );
 }

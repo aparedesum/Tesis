@@ -1986,18 +1986,16 @@
                 "tipo": "texto"
             },
             {
-                "id": 8578,
+                "id": 22624,
                 "isSimple": true,
-                "keyword": "experimentar",
-                "palabra": "experimenta",
+                "keyword": "qué",
+                "palabra": "qué",
                 "plural": "",
-                "pos": "VERB",
-                "tag": "VERB",
-                "tiempoVerbal": "Futuro",
+                "pos": "PRON",
+                "tag": "PRON",
+                "tiempoVerbal": "",
                 "numeroGramatical": "",
-                "synsets": [
-                    "02538261-v"
-                ]
+                "synsets": []
             }
         ]
     },
@@ -2176,6 +2174,41 @@
                         "isSimple": false
                     }
                 ]
+            }
+        ],
+        "oracion_traducida": [
+            {
+                "id": 36719,
+                "isSimple": false,
+                "keyword": "por qué",
+                "palabra": "por qué",
+                "plural": null,
+                "pos": null,
+                "tag": null,
+                "synsets": []
+            },
+            {
+                "id": 22624,
+                "isSimple": true,
+                "keyword": "qué",
+                "palabra": "qué",
+                "plural": "",
+                "pos": "PRON",
+                "tag": "PRON",
+                "tiempoVerbal": "",
+                "numeroGramatical": "",
+                "synsets": []
+            },
+            {
+                "id": 36719,
+                "isSimple": false,
+                "keyword": "por qué",
+                "palabra": "por qué",
+                "plural": null,
+                "pos": null,
+                "tag": null,
+                "tiempoVerbal": "Futuro",
+                "synsets": []
             }
         ]
     },

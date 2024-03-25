@@ -122,7 +122,6 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
             });
     
             if (response.ok) {
-                console.log("Datos guardados con éxito");
                 const responseData = await response.json();
                 console.log(responseData.message);
             } else {
@@ -178,16 +177,21 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         container: {
             display: 'flex',
             flexDirection: 'row',
-            
+            flexWrap: 'wrap', // Permite que los bloques se ajusten en filas según el ancho disponible
             justifyContent: 'center',
+            gap: '20px', // Espacio entre bloques
             padding: '10px',
-            border: '2px dotted #000',
         },
         column: {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             margin: '10px',
+            padding: '10px',
+            border: '2px dotted #000', // Borde sólido alrededor de cada bloque de pictogramas
+            borderRadius: '5px', // Opcional: bordes redondeados
+            backgroundColor: '#fff', // Opcional: fondo blanco para cada bloque
+            boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
         },
         dropArea: {
             marginTop: '10px',
@@ -213,7 +217,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         buttonStyle: {
             margin: '0 10px', // Ajuste para tener un espaciado uniforme alrededor de los botones
             padding: '5px 15px',
-            backgroundColor: '#28a745',
+            backgroundColor: '#007bff',
             color: 'white',
             border: 'none',
             borderRadius: '5px',
@@ -235,9 +239,11 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
 
     return (
     <div>
-        <div style={styles.container}>
-            <button onClick={handleShowValues} style={styles.buttonStyle} >Mostrar Valores</button>
-        </div>
+        {
+            //<div style={styles.container}>
+            //<button onClick={handleShowValues} style={styles.buttonStyle} >Mostrar Valores</button>
+            //</div>
+        }
         <h3 style={styles.itemStyle}>Pictogramas Simples</h3>
         <div style={styles.container}>
             {
@@ -248,35 +254,35 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                     if(tienePictogramas)
                     {
                         return (
-                            <div key={`${index}`} style={styles.column}>
+                            <div key={`simple-${index}`} style={styles.column}>
                                 <h3 style={{ margin: '0'}}>{pc["palabraInfo"].texto}</h3>
                                 {pc.palabraInfo.pos === 'VERB' && pc.palabraInfo.tag === 'VERB' && (
                                     <div style={{ display: 'flex', flexDirection: 'column' }}>
                                     <div>
-                                        <label><input type="radio" name={`tense-${index}`} value="Pasado" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Pasado</label>
+                                        <label><input type="radio" name={`simple-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Pasado</label>
                                     </div>
                                     <div>
-                                        <label><input type="radio" name={`tense-${index}`} value="Presente" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Presente</label>
+                                        <label><input type="radio" name={`simple-tense-${index}`} value="Presente" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Presente</label>
                                     </div>
                                     <div>
-                                        <label><input type="radio" name={`tense-${index}`} value="Futuro" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Futuro</label>
+                                        <label><input type="radio" name={`simple-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Futuro</label>
                                     </div>
                                 </div>
                                 )}
                                 {pc.palabraInfo.pos === 'NOUN' && pc.palabraInfo.tag === 'NOUN' && (
                                     <div style={{ display: 'flex', flexDirection: 'column' }}>
                                     <div>
-                                        <label><input type="radio" name={`numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalSimplesChange(pc.key)} /> Plural</label>
+                                        <label><input type="radio" name={`simple-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalSimplesChange(pc.key)} /> Plural</label>
                                     </div>
                                     <div>
-                                        <label><input type="radio" name={`numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalSimplesChange(pc.key)} /> Singular</label>
+                                        <label><input type="radio" name={`simple-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalSimplesChange(pc.key)} /> Singular</label>
                                     </div>
                                 </div>
                                 )}      
 
                                 {
                                     pc.pictogramas.map((pictograma, idx) => (
-                                        <Pictogram key={`${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasSimples[pc.key]} numeroGramatical = {numeroGramaticalPictogramasSimples[pc.key]} />
+                                        <Pictogram key={`simple-${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasSimples[pc.key]} numeroGramatical = {numeroGramaticalPictogramasSimples[pc.key]} />
                                     ))
                                 }
                             </div>
@@ -284,7 +290,11 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                     }
                     else
                     {
-                        return (<TextoComoImagen key={`${index}-${pc.palabraInfo.texto}`} texto={pc.palabraInfo.texto} />);
+                        return (
+                        <div style={styles.column}>
+                            <TextoComoImagen  key={`texto-${index}-${pc.palabraInfo.texto}`} texto={pc.palabraInfo.texto} />
+                        </div>
+                        );
                     }  
                 })
             }
@@ -299,33 +309,33 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                     if(tienePictogramas)
                     {
                         return(
-                            <div key={`${index}`} style={styles.column}>
+                            <div key={`compuesta-${index}`} style={styles.column}>
                                 <h3 style={{ margin: '0'}}>{pc["palabraInfo"].texto}</h3>
         
                                 <div style={{ display: 'flex', flexDirection: 'column' }}>
                                     <div><h3 style={{ margin: '0'}}>Tiempo Verbal</h3></div>
                                     <div>
-                                        <label><input type="radio" name={`tense-${index}`} value="Pasado" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Pasado</label>
+                                        <label><input type="radio" name={`compuesta-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Pasado</label>
                                     </div>
                                     <div>
-                                        <label><input type="radio" name={`tense-${index}`} value="Presente" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Presente</label>
+                                        <label><input type="radio" name={`compuesta-tense-${index}`} value="Presente" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Presente</label>
                                     </div>
                                     <div>
-                                        <label><input type="radio" name={`tense-${index}`} value="Futuro" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Futuro</label>
+                                        <label><input type="radio" name={`compuesta-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Futuro</label>
                                     </div>
                                 </div>
                                 <div style={{ display: 'flex', flexDirection: 'column' }}>
                                     <div><h3 style={{ margin: '0'}}>Numero Gramatical</h3></div>
                                     <div>
-                                        <label><input type="radio" name={`numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Plural</label>
+                                        <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Plural</label>
                                     </div>
                                     <div>
-                                        <label><input type="radio" name={`numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Singular</label>
+                                        <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Singular</label>
                                     </div>
                                 </div>
                                 {
                                     pc.pictogramas.map((pictograma, idx) => (
-                                        <Pictogram key={`${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasCompuestos[pc.key]} numeroGramatical = {numeroGramaticalPictogramasCompuestos[pc.key]} />
+                                        <Pictogram key={`compuesta-${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasCompuestos[pc.key]} numeroGramatical = {numeroGramaticalPictogramasCompuestos[pc.key]} />
                                     ))
                                 }  
                             </div>
@@ -343,9 +353,9 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
             <br></br>
             <div onDragOver={handleDragOver} onDrop={handleDrop} style={styles.dropArea}>
                 {droppedItems?.map((item, index) => (
-                    <div key={index} style={styles.itemStyle} draggable onDragStart={handleDragStart(index)}>
+                    <div key={index} style={styles.column} draggable onDragStart={handleDragStart(index)}>
                         <h3 style={{ margin: '0'}}>{item.palabra}</h3>
-                        <Pictogram key={`${index}`} pictogram={item} activarBotonRemover={false} tiempoVerbal={item.tiempoVerbal} numeroGramatical={item.numeroGramatical} />
+                        <Pictogram key={`drag-${index}`} pictogram={item} activarBotonRemover={false} tiempoVerbal={item.tiempoVerbal} numeroGramatical={item.numeroGramatical} />
                         <button onClick={handleRemovePictograma(index)}>X</button>
                     </div>
                 ))}
