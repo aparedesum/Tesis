@@ -3,6 +3,7 @@ import os
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+import requests
 
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}}, supports_credentials=True)
@@ -25,6 +26,16 @@ def find_element_by_id(id):
     id = id + 1
     for item in data:
         if item['id'] == id:
+            if item["palabras_traducidas"]:
+                for palabra_traducida in item["palabras_traducidas"]:
+                    if palabra_traducida["pictogramas"]:
+                        for pictograma in palabra_traducida["pictogramas"]:
+                            pictograma["key"] = palabra_traducida["key"]
+            if item["palabras_compuestas"]:       
+                for palabraCompuesta in item["palabras_compuestas"]:
+                    if palabraCompuesta["pictogramas"]:
+                        for pictograma in palabraCompuesta["pictogramas"]:
+                            pictograma["key"] = palabraCompuesta["key"]
             return item
     
     return None

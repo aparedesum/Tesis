@@ -20,7 +20,8 @@ class OracionTraducida:
         self.palabras_compuestas = palabras_compuestas
 
 class PalabraTraducida: 
-    def __init__(self, palabraInfo, pictogramas,usaLema):
+    def __init__(self, key, palabraInfo, pictogramas,usaLema):
+        self.key = key
         self.palabraInfo = palabraInfo
         self.usaLema = usaLema
         pictogramas = list(pictogramas)
@@ -114,33 +115,43 @@ def traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas_simples, d
     i = 1
     for oracion_tokenizada in oraciones_tokenizadas:
         palabras_traducidas = []
+        key_simple = 0
         for token in oracion_tokenizada["tokens"]:
             pictogramas = dictionario_pictogramas_simples.get(token["texto"].lower(), {})
             if(pictogramas):
                 pictogramasInfo = map(lambda picto: PictogramaInfo(token["texto"], token["pos"], token["tag"], picto, True), pictogramas)
-                palabras_traducidas.append(PalabraTraducida(token, pictogramasInfo, False))
+                palabras_traducidas.append(PalabraTraducida(key_simple, token, pictogramasInfo, False))
             else:
                 # Tratamos de buscar en el dictionary la palabra lematizada
                 pictogramas = dictionario_pictogramas_simples.get(token["lema"].lower(), {})
                 if(pictogramas):
                     pictogramasInfo = map(lambda picto: PictogramaInfo(token["texto"], token["pos"], token["tag"], picto, True), pictogramas)
-                    palabras_traducidas.append(PalabraTraducida(token, pictogramasInfo, True))
+                    palabras_traducidas.append(PalabraTraducida(key_simple, token, pictogramasInfo, True))
                 else:
-                    palabras_traducidas.append(PalabraTraducida(token, [], False))
+                    palabras_traducidas.append(PalabraTraducida(key_simple, token, [], False))
+            key_simple = key_simple + 1
         
         palabras_compuestas = []
         frase_agregada = set()
+        key_complex = 0
         for end_index, (pattern_idx, found) in automaton.iter(oracion_tokenizada["oracion"]):
             frase_agregada.add(found)
             pictograma_compuesta = dictionario_pictogramas_compuestos[found]
             pictogramasInfo = map(lambda picto: PictogramaInfo(found, None, None, picto, False), pictograma_compuesta)
-            palabras_compuestas.append(PalabraTraducida(found, pictogramasInfo, False))
+            properties = { "texto" : found, "lema": found, "pos": None, "tag": None}
 
+            palabras_compuestas.append(PalabraTraducida(key_complex, properties, pictogramasInfo, False))
+            key_complex = key_complex + 1
+
+        key_complex = 0
         for end_index, (pattern_idx, found) in automaton.iter(oracion_tokenizada["oracion_lematizada"]):
             if found not in frase_agregada:
                 pictograma_compuesta = dictionario_pictogramas_compuestos[found]
                 pictogramasInfo = map(lambda picto: PictogramaInfo(found, None, None, picto, False), pictograma_compuesta)
-                palabras_compuestas.append(PalabraTraducida(found, pictogramasInfo, True))
+                properties = { "texto" : found, "lema": found, "pos": None, "tag": None}
+                palabras_compuestas.append(PalabraTraducida(key_complex, properties, pictogramasInfo, True))
+                key_complex = key_complex + 1
+                
 
         oraciones_traducidas.append(OracionTraducida(id = i, oracion = oracion_tokenizada["oracion"], oracion_lematizada = oracion_tokenizada["oracion_lematizada"],palabras_traducidas = palabras_traducidas, palabras_compuestas = palabras_compuestas))
         i = i + 1

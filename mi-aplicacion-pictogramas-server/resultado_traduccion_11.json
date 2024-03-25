@@ -5,6 +5,7 @@
         "oracion_lematizada": "¿ indiferente ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -29,6 +30,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "indiferentes",
                     "lema": "indiferente",
@@ -39,6 +41,7 @@
                 "pictogramas": []
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -63,26 +66,7 @@
                 ]
             }
         ],
-        "palabras_compuestas": [],
-        "oracion_traducida": [
-            {
-                "id": 3415,
-                "isSimple": true,
-                "keyword": "¿",
-                "palabra": "¿",
-                "plural": "",
-                "pos": "PUNCT",
-                "tag": "PUNCT",
-                "synsets": [
-                    "06857090-n",
-                    "06830640-n"
-                ]
-            },
-            {
-                "keyword": "indiferentes",
-                "tipo": "texto"
-            }
-        ]
+        "palabras_compuestas": []
     },
     {
         "id": 22002,
@@ -90,6 +74,7 @@
         "oracion_lematizada": "¿ la bicicleta ser una máquina simple ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -114,6 +99,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -145,6 +131,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "bicicleta",
                     "lema": "bicicleta",
@@ -181,6 +168,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "es",
                     "lema": "ser",
@@ -230,6 +218,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "una",
                     "lema": "uno",
@@ -251,6 +240,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "máquina",
                     "lema": "máquina",
@@ -274,6 +264,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "simple",
                     "lema": "simple",
@@ -284,6 +275,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -316,6 +308,7 @@
         "oracion_lematizada": "¿ él emplear en nuestras casa ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -340,6 +333,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "él",
@@ -371,6 +365,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "empleamos",
                     "lema": "emplear",
@@ -381,6 +376,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -402,6 +398,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "nuestras",
                     "lema": "nuestro",
@@ -423,6 +420,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "casas",
                     "lema": "casa",
@@ -461,6 +459,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -493,6 +492,7 @@
         "oracion_lematizada": "¿ él lograr ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -517,6 +517,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "lo",
                     "lema": "él",
@@ -550,6 +551,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "logró",
                     "lema": "lograr",
@@ -560,6 +562,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -592,6 +595,7 @@
         "oracion_lematizada": "¿ para qué creer que la niña estar realizar la descripción de su comunidad ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -616,6 +620,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -637,6 +642,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -668,6 +674,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "crees",
                     "lema": "creer",
@@ -678,6 +685,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -701,6 +709,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -732,6 +741,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "niña",
                     "lema": "niña",
@@ -841,6 +851,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "está",
                     "lema": "estar",
@@ -888,6 +899,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "realizando",
                     "lema": "realizar",
@@ -898,6 +910,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -929,6 +942,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "descripción",
                     "lema": "descripción",
@@ -992,6 +1006,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -1013,6 +1028,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "su",
                     "lema": "su",
@@ -1044,6 +1060,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "comunidad",
                     "lema": "comunidad",
@@ -1054,6 +1071,7 @@
                 "pictogramas": []
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -1086,6 +1104,7 @@
         "oracion_lematizada": "¿ para qué elaborar tu afiche ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -1110,6 +1129,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -1131,6 +1151,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -1162,6 +1183,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "elaborarás",
                     "lema": "elaborar",
@@ -1187,6 +1209,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "tu",
                     "lema": "tu",
@@ -1208,6 +1231,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "afiche",
                     "lema": "afiche",
@@ -1218,6 +1242,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -1250,6 +1275,7 @@
         "oracion_lematizada": "¿ para qué él leer ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -1274,6 +1300,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -1295,6 +1322,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -1326,6 +1354,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "lo",
                     "lema": "él",
@@ -1359,6 +1388,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "leerás",
                     "lema": "leer",
@@ -1407,6 +1437,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -1439,6 +1470,7 @@
         "oracion_lematizada": "¿ poder grabar la exposición ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -1463,6 +1495,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "podemos",
                     "lema": "poder",
@@ -1496,6 +1529,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "grabar",
                     "lema": "grabar",
@@ -1570,6 +1604,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -1601,6 +1636,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "exposición",
                     "lema": "exposición",
@@ -1651,6 +1687,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -1683,6 +1720,7 @@
         "oracion_lematizada": "¿ por qué Katty experimentar cambio emocional ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -1707,6 +1745,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -1728,6 +1767,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -1759,6 +1799,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "Katty",
                     "lema": "Katty",
@@ -1769,6 +1810,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "experimenta",
                     "lema": "experimentar",
@@ -1792,6 +1834,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "cambios",
                     "lema": "cambio",
@@ -1841,6 +1884,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "emocionales",
                     "lema": "emocional",
@@ -1851,6 +1895,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -1877,7 +1922,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -1902,6 +1953,52 @@
                     }
                 ]
             }
+        ],
+        "oracion_traducida": [
+            {
+                "id": 36719,
+                "isSimple": false,
+                "keyword": "por qué",
+                "palabra": "por qué",
+                "plural": null,
+                "pos": null,
+                "tag": null,
+                "tiempoVerbal": "Pasado",
+                "numeroGramatical": "Plural",
+                "synsets": []
+            },
+            {
+                "id": 31955,
+                "isSimple": true,
+                "keyword": "cambio",
+                "palabra": "cambios",
+                "plural": "cambios",
+                "pos": "NOUN",
+                "tag": "NOUN",
+                "tiempoVerbal": "",
+                "numeroGramatical": "Plural",
+                "synsets": [
+                    "01111372-n"
+                ]
+            },
+            {
+                "keyword": "Katty",
+                "tipo": "texto"
+            },
+            {
+                "id": 8578,
+                "isSimple": true,
+                "keyword": "experimentar",
+                "palabra": "experimenta",
+                "plural": "",
+                "pos": "VERB",
+                "tag": "VERB",
+                "tiempoVerbal": "Futuro",
+                "numeroGramatical": "",
+                "synsets": [
+                    "02538261-v"
+                ]
+            }
         ]
     },
     {
@@ -1910,6 +2007,7 @@
         "oracion_lematizada": "¿ por qué creer ese ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -1934,6 +2032,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -1955,6 +2054,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -1986,6 +2086,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "creemos",
                     "lema": "creer",
@@ -1996,6 +2097,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "eso",
                     "lema": "ese",
@@ -2017,6 +2119,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -2043,7 +2146,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -2076,6 +2185,7 @@
         "oracion_lematizada": "¿ por qué ser importante proteger la biodiversidad ( agua , planta y animal ) del Bosque de Sho'llet ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -2100,6 +2210,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -2121,6 +2232,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -2152,6 +2264,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "es",
                     "lema": "ser",
@@ -2201,6 +2314,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "importante",
                     "lema": "importante",
@@ -2254,6 +2368,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "proteger",
                     "lema": "proteger",
@@ -2304,6 +2419,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -2335,6 +2451,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "biodiversidad",
                     "lema": "biodiversidad",
@@ -2345,6 +2462,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "(",
                     "lema": "(",
@@ -2369,6 +2487,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "agua",
                     "lema": "agua",
@@ -2419,6 +2538,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -2442,6 +2562,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "plantas",
                     "lema": "planta",
@@ -2465,6 +2586,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -2514,6 +2636,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "animales",
                     "lema": "animal",
@@ -2537,6 +2660,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": ")",
                     "lema": ")",
@@ -2561,6 +2685,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "del",
                     "lema": "del",
@@ -2582,6 +2707,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "Bosque",
                     "lema": "Bosque",
@@ -2606,6 +2732,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -2627,6 +2754,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "Sho'llet",
                     "lema": "Sho'llet",
@@ -2637,6 +2765,7 @@
                 "pictogramas": []
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -2663,7 +2792,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -2696,6 +2831,7 @@
         "oracion_lematizada": "¿ por qué él creer así ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -2720,6 +2856,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -2741,6 +2878,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -2772,6 +2910,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "lo",
                     "lema": "él",
@@ -2805,6 +2944,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "creemos",
                     "lema": "creer",
@@ -2815,6 +2955,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "así",
                     "lema": "así",
@@ -2825,6 +2966,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -2851,7 +2993,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -2884,6 +3032,7 @@
         "oracion_lematizada": "¿ por qué él creer así ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -2908,6 +3057,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -2929,6 +3079,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -2960,6 +3111,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "lo",
                     "lema": "él",
@@ -2993,6 +3145,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "creo",
                     "lema": "creer",
@@ -3003,6 +3156,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "así",
                     "lema": "así",
@@ -3013,6 +3167,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -3039,7 +3194,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -3072,6 +3233,7 @@
         "oracion_lematizada": "¿ por qué él deber difundir información sobre los maestro ceramista de Quinua para promover la artesanía como saber ancestral ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -3096,6 +3258,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -3117,6 +3280,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -3148,6 +3312,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -3213,6 +3378,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "debe",
                     "lema": "deber",
@@ -3223,6 +3389,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "difundir",
                     "lema": "difundir",
@@ -3233,6 +3400,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "información",
                     "lema": "información",
@@ -3307,6 +3475,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "sobre",
                     "lema": "sobre",
@@ -3342,6 +3511,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -3385,6 +3555,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "maestros",
                     "lema": "maestro",
@@ -3437,6 +3608,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "ceramistas",
                     "lema": "ceramista",
@@ -3447,6 +3619,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -3468,6 +3641,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "Quinua",
                     "lema": "Quinua",
@@ -3491,6 +3665,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -3512,6 +3687,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "promover",
                     "lema": "promover",
@@ -3548,6 +3724,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -3579,6 +3756,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "artesanía",
                     "lema": "artesanía",
@@ -3602,6 +3780,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "como",
                     "lema": "como",
@@ -3623,6 +3802,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "saber",
                     "lema": "saber",
@@ -3670,6 +3850,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "ancestral",
                     "lema": "ancestral",
@@ -3680,6 +3861,7 @@
                 "pictogramas": []
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -3706,7 +3888,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -3739,6 +3927,7 @@
         "oracion_lematizada": "¿ por qué él deber fomentar el turismo interno y externo en las comunidad para mejorar la calidad de vida de las persona ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -3763,6 +3952,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -3784,6 +3974,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -3815,6 +4006,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -3880,6 +4072,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "debe",
                     "lema": "deber",
@@ -3890,6 +4083,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "fomentar",
                     "lema": "fomentar",
@@ -3900,6 +4094,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -3921,6 +4116,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "turismo",
                     "lema": "turismo",
@@ -3946,6 +4142,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "interno",
                     "lema": "interno",
@@ -3956,6 +4153,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -4005,6 +4203,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "externo",
                     "lema": "externo",
@@ -4015,6 +4214,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -4036,6 +4236,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -4067,6 +4268,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "comunidades",
                     "lema": "comunidad",
@@ -4077,6 +4279,7 @@
                 "pictogramas": []
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -4098,6 +4301,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "mejorar",
                     "lema": "mejorar",
@@ -4121,6 +4325,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -4152,6 +4357,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "calidad",
                     "lema": "calidad",
@@ -4175,6 +4381,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -4196,6 +4403,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "vida",
                     "lema": "vida",
@@ -4219,6 +4427,7 @@
                 ]
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -4240,6 +4449,7 @@
                 ]
             },
             {
+                "key": 21,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -4271,6 +4481,7 @@
                 ]
             },
             {
+                "key": 22,
                 "palabraInfo": {
                     "texto": "personas",
                     "lema": "persona",
@@ -4336,6 +4547,7 @@
                 ]
             },
             {
+                "key": 23,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -4362,7 +4574,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -4395,6 +4613,7 @@
         "oracion_lematizada": "¿ por qué ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -4419,6 +4638,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -4440,6 +4660,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -4471,6 +4692,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -4497,7 +4719,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -4523,7 +4751,13 @@
                 ]
             },
             {
-                "palabraInfo": "¿por qué?",
+                "key": 1,
+                "palabraInfo": {
+                    "texto": "¿por qué?",
+                    "lema": "¿por qué?",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -4546,6 +4780,7 @@
         "oracion_lematizada": "¿ qué alimento él sembrar y cosechar en mi comunidad ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -4570,6 +4805,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -4601,6 +4837,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "alimentos",
                     "lema": "alimento",
@@ -4625,6 +4862,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -4690,6 +4928,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "siembran",
                     "lema": "sembrar",
@@ -4715,6 +4954,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -4764,6 +5004,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "cosechan",
                     "lema": "cosechar",
@@ -4800,6 +5041,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -4821,6 +5063,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "mi",
                     "lema": "mi",
@@ -4842,6 +5085,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "comunidad",
                     "lema": "comunidad",
@@ -4852,6 +5096,7 @@
                 "pictogramas": []
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -4884,6 +5129,7 @@
         "oracion_lematizada": "¿ qué diferencia haber entre el frasco con agua limpio y el frasco que tener agua con tierra ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -4908,6 +5154,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -4939,6 +5186,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "diferencia",
                     "lema": "diferencia",
@@ -4949,6 +5197,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "hay",
                     "lema": "haber",
@@ -4972,6 +5221,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "entre",
                     "lema": "entre",
@@ -4995,6 +5245,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -5016,6 +5267,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "frasco",
                     "lema": "frasco",
@@ -5040,6 +5292,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -5061,6 +5314,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "agua",
                     "lema": "agua",
@@ -5111,6 +5365,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "limpia",
                     "lema": "limpio",
@@ -5146,6 +5401,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -5195,6 +5451,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -5216,6 +5473,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "frasco",
                     "lema": "frasco",
@@ -5240,6 +5498,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -5263,6 +5522,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "tiene",
                     "lema": "tener",
@@ -5300,6 +5560,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "agua",
                     "lema": "agua",
@@ -5350,6 +5611,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -5371,6 +5633,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "tierra",
                     "lema": "tierra",
@@ -5407,6 +5670,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -5439,6 +5703,7 @@
         "oracion_lematizada": "¿ qué emoción transmitir Katty durante la narración de su anécdota ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -5463,6 +5728,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -5494,6 +5760,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "emociones",
                     "lema": "emoción",
@@ -5504,6 +5771,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "transmite",
                     "lema": "transmitir",
@@ -5514,6 +5782,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "Katty",
                     "lema": "Katty",
@@ -5524,6 +5793,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "durante",
                     "lema": "durante",
@@ -5557,6 +5827,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -5588,6 +5859,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "narración",
                     "lema": "narración",
@@ -5598,6 +5870,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -5619,6 +5892,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "su",
                     "lema": "su",
@@ -5650,6 +5924,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "anécdota",
                     "lema": "anécdota",
@@ -5660,6 +5935,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -5692,6 +5968,7 @@
         "oracion_lematizada": "¿ qué expresacer en él ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -5716,6 +5993,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -5747,6 +6025,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "expresaríamos",
                     "lema": "expresacer",
@@ -5757,6 +6036,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -5778,6 +6058,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "ellos",
                     "lema": "él",
@@ -5831,6 +6112,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -5863,6 +6145,7 @@
         "oracion_lematizada": "¿ qué hacer las persona en la feria ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -5887,6 +6170,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -5918,6 +6202,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "hacen",
                     "lema": "hacer",
@@ -5957,6 +6242,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -5988,6 +6274,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "personas",
                     "lema": "persona",
@@ -6053,6 +6340,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -6074,6 +6362,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -6105,6 +6394,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "feria",
                     "lema": "feria",
@@ -6152,6 +6442,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -6184,6 +6475,7 @@
         "oracion_lematizada": "¿ qué información ofrecer el primero párrafo del texto ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -6208,6 +6500,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -6239,6 +6532,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "información",
                     "lema": "información",
@@ -6313,6 +6607,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "ofrece",
                     "lema": "ofrecer",
@@ -6366,6 +6661,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -6387,6 +6683,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "primer",
                     "lema": "primero",
@@ -6411,6 +6708,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "párrafo",
                     "lema": "párrafo",
@@ -6421,6 +6719,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "del",
                     "lema": "del",
@@ -6442,6 +6741,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "texto",
                     "lema": "texto",
@@ -6466,6 +6766,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -6498,6 +6799,7 @@
         "oracion_lematizada": "¿ qué lugar aparecer en las foto ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -6522,6 +6824,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -6553,6 +6856,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "lugar",
                     "lema": "lugar",
@@ -6591,6 +6895,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "aparece",
                     "lema": "aparecer",
@@ -6684,6 +6989,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -6705,6 +7011,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -6736,6 +7043,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "fotos",
                     "lema": "foto",
@@ -6771,6 +7079,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -6803,6 +7112,7 @@
         "oracion_lematizada": "¿ qué material usar y qué cantidad ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -6827,6 +7137,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -6858,6 +7169,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "materiales",
                     "lema": "material",
@@ -6868,6 +7180,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "usaremos",
                     "lema": "usar",
@@ -6891,6 +7204,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -6940,6 +7254,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -6971,6 +7286,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "cantidad",
                     "lema": "cantidad",
@@ -7008,6 +7324,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -7040,6 +7357,7 @@
         "oracion_lematizada": "¿ qué mensaje brindar los siguiente símbolo del recibo ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -7064,6 +7382,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -7095,6 +7414,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "mensaje",
                     "lema": "mensaje",
@@ -7105,6 +7425,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "brindan",
                     "lema": "brindar",
@@ -7153,6 +7474,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -7196,6 +7518,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "siguientes",
                     "lema": "siguiente",
@@ -7233,6 +7556,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "símbolos",
                     "lema": "símbolo",
@@ -7243,6 +7567,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "del",
                     "lema": "del",
@@ -7264,6 +7589,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "recibo",
                     "lema": "recibo",
@@ -7287,6 +7613,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -7319,6 +7646,7 @@
         "oracion_lematizada": "¿ qué movimiento corporal usar para narrar la leyenda ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -7343,6 +7671,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -7374,6 +7703,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "movimientos",
                     "lema": "movimiento",
@@ -7397,6 +7727,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "corporales",
                     "lema": "corporal",
@@ -7407,6 +7738,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "usarás",
                     "lema": "usar",
@@ -7430,6 +7762,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -7451,6 +7784,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "narrar",
                     "lema": "narrar",
@@ -7498,6 +7832,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -7529,6 +7864,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "leyenda",
                     "lema": "leyenda",
@@ -7539,6 +7875,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -7571,6 +7908,7 @@
         "oracion_lematizada": "¿ qué opinar de la actitud de los estudiante al inicio del cuento ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -7595,6 +7933,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -7626,6 +7965,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "opinan",
                     "lema": "opinar",
@@ -7636,6 +7976,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -7657,6 +7998,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -7688,6 +8030,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "actitud",
                     "lema": "actitud",
@@ -7698,6 +8041,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -7719,6 +8063,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -7762,6 +8107,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "estudiantes",
                     "lema": "estudiante",
@@ -7797,6 +8143,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "al",
                     "lema": "al",
@@ -7818,6 +8165,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "inicio",
                     "lema": "inicio",
@@ -7857,6 +8205,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "del",
                     "lema": "del",
@@ -7878,6 +8227,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "cuento",
                     "lema": "cuento",
@@ -7965,6 +8315,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -7997,6 +8348,7 @@
         "oracion_lematizada": "¿ qué otras forma de dar de comer a los animal del corral poder utilizar sin desperdiciar el alimento y con higiene ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -8021,6 +8373,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -8052,6 +8405,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "otras",
                     "lema": "otro",
@@ -8076,6 +8430,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "formas",
                     "lema": "forma",
@@ -8099,6 +8454,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -8120,6 +8476,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "dar",
                     "lema": "dar",
@@ -8185,6 +8542,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -8206,6 +8564,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "comer",
                     "lema": "comer",
@@ -8307,6 +8666,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "a",
                     "lema": "a",
@@ -8356,6 +8716,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -8399,6 +8760,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "animales",
                     "lema": "animal",
@@ -8422,6 +8784,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "del",
                     "lema": "del",
@@ -8443,6 +8806,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "corral",
                     "lema": "corral",
@@ -8494,6 +8858,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "podemos",
                     "lema": "poder",
@@ -8527,6 +8892,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "utilizar",
                     "lema": "utilizar",
@@ -8550,6 +8916,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "sin",
                     "lema": "sin",
@@ -8573,6 +8940,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "desperdiciar",
                     "lema": "desperdiciar",
@@ -8583,6 +8951,7 @@
                 "pictogramas": []
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -8604,6 +8973,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "alimento",
                     "lema": "alimento",
@@ -8628,6 +8998,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -8677,6 +9048,7 @@
                 ]
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -8698,6 +9070,7 @@
                 ]
             },
             {
+                "key": 21,
                 "palabraInfo": {
                     "texto": "higiene",
                     "lema": "higiene",
@@ -8708,6 +9081,7 @@
                 "pictogramas": []
             },
             {
+                "key": 22,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -8740,6 +9114,7 @@
         "oracion_lematizada": "¿ qué otras idea tener ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -8764,6 +9139,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -8795,6 +9171,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "otras",
                     "lema": "otro",
@@ -8819,6 +9196,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "ideas",
                     "lema": "idea",
@@ -8829,6 +9207,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "tenemos",
                     "lema": "tener",
@@ -8866,6 +9245,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -8898,6 +9278,7 @@
         "oracion_lematizada": "¿ qué pasar si no cuidar nuestros sistema digestivo y respiratorio ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -8922,6 +9303,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -8953,6 +9335,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "pasaría",
                     "lema": "pasar",
@@ -9000,6 +9383,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "si",
                     "lema": "si",
@@ -9021,6 +9405,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "no",
                     "lema": "no",
@@ -9091,6 +9476,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "cuidamos",
                     "lema": "cuidar",
@@ -9138,6 +9524,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "nuestros",
                     "lema": "nuestro",
@@ -9159,6 +9546,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "sistemas",
                     "lema": "sistema",
@@ -9169,6 +9557,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "digestivo",
                     "lema": "digestivo",
@@ -9179,6 +9568,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -9228,6 +9618,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "respiratorio",
                     "lema": "respiratorio",
@@ -9238,6 +9629,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -9270,6 +9662,7 @@
         "oracion_lematizada": "¿ qué planta ancestral conocer ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -9294,6 +9687,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -9325,6 +9719,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "plantas",
                     "lema": "planta",
@@ -9348,6 +9743,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "ancestrales",
                     "lema": "ancestral",
@@ -9358,6 +9754,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "conoce",
                     "lema": "conocer",
@@ -9393,6 +9790,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -9425,6 +9823,7 @@
         "oracion_lematizada": "¿ qué relación tener esta información con el texto que leer ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -9449,6 +9848,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -9480,6 +9880,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "relación",
                     "lema": "relación",
@@ -9490,6 +9891,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "tendrá",
                     "lema": "tener",
@@ -9527,6 +9929,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "esta",
                     "lema": "este",
@@ -9550,6 +9953,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "información",
                     "lema": "información",
@@ -9624,6 +10028,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -9645,6 +10050,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -9666,6 +10072,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "texto",
                     "lema": "texto",
@@ -9690,6 +10097,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -9713,6 +10121,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "leeré",
                     "lema": "leer",
@@ -9761,6 +10170,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -9793,6 +10203,7 @@
         "oracion_lematizada": "¿ qué relación tener con los texto que leer ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -9817,6 +10228,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -9848,6 +10260,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "relación",
                     "lema": "relación",
@@ -9858,6 +10271,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "tendrán",
                     "lema": "tener",
@@ -9895,6 +10309,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -9916,6 +10331,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -9959,6 +10375,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "textos",
                     "lema": "texto",
@@ -9983,6 +10400,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -10006,6 +10424,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "leeremos",
                     "lema": "leer",
@@ -10054,6 +10473,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -10086,6 +10506,7 @@
         "oracion_lematizada": "¿ qué semejanza encontrar entre las célula ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -10110,6 +10531,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -10141,6 +10563,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "semejanzas",
                     "lema": "semejanza",
@@ -10151,6 +10574,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "encontramos",
                     "lema": "encontrar",
@@ -10244,6 +10668,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "entre",
                     "lema": "entre",
@@ -10267,6 +10692,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -10298,6 +10724,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "células",
                     "lema": "célula",
@@ -10321,6 +10748,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -10353,6 +10781,7 @@
         "oracion_lematizada": "¿ qué texto recomendar para motivar la reflexión ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -10377,6 +10806,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -10408,6 +10838,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "texto",
                     "lema": "texto",
@@ -10432,6 +10863,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "recomendaría",
                     "lema": "recomendar",
@@ -10456,6 +10888,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -10477,6 +10910,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "motivar",
                     "lema": "motivar",
@@ -10487,6 +10921,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -10518,6 +10953,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "reflexión",
                     "lema": "reflexión",
@@ -10528,6 +10964,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -10560,6 +10997,7 @@
         "oracion_lematizada": "¿ saco de arena en la entrada ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -10584,6 +11022,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "sacos",
                     "lema": "saco",
@@ -10621,6 +11060,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -10642,6 +11082,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "arena",
                     "lema": "arena",
@@ -10665,6 +11106,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -10686,6 +11128,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -10717,6 +11160,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "entrada",
                     "lema": "entrada",
@@ -10892,6 +11336,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -10924,6 +11369,7 @@
         "oracion_lematizada": "¿ él deber apoyar a las comunidad en la implementación de piscigranja ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -10948,6 +11394,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -11013,6 +11460,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "debe",
                     "lema": "deber",
@@ -11023,6 +11471,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "apoyar",
                     "lema": "apoyar",
@@ -11084,6 +11533,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "a",
                     "lema": "a",
@@ -11133,6 +11583,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -11164,6 +11615,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "comunidades",
                     "lema": "comunidad",
@@ -11174,6 +11626,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -11195,6 +11648,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -11226,6 +11680,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "implementación",
                     "lema": "implementación",
@@ -11236,6 +11691,7 @@
                 "pictogramas": []
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -11257,6 +11713,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "piscigranjas",
                     "lema": "piscigranja",
@@ -11267,6 +11724,7 @@
                 "pictogramas": []
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -11299,6 +11757,7 @@
         "oracion_lematizada": "¿ ser papa nativo ? , ¿ por qué ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -11323,6 +11782,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "son",
                     "lema": "ser",
@@ -11372,6 +11832,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "papas",
                     "lema": "papa",
@@ -11408,6 +11869,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "nativas",
                     "lema": "nativo",
@@ -11418,6 +11880,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -11442,6 +11905,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -11465,6 +11929,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -11489,6 +11954,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -11510,6 +11976,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "qué",
                     "lema": "qué",
@@ -11541,6 +12008,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -11567,7 +12035,13 @@
         ],
         "palabras_compuestas": [
             {
-                "palabraInfo": "por qué",
+                "key": 0,
+                "palabraInfo": {
+                    "texto": "por qué",
+                    "lema": "por qué",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -11593,7 +12067,13 @@
                 ]
             },
             {
-                "palabraInfo": "¿por qué?",
+                "key": 1,
+                "palabraInfo": {
+                    "texto": "¿por qué?",
+                    "lema": "¿por qué?",
+                    "pos": null,
+                    "tag": null
+                },
                 "usaLema": false,
                 "pictogramas": [
                     {
@@ -11616,6 +12096,7 @@
         "oracion_lematizada": "¿ tú parecer adecuado el logo de Sedapal ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -11640,6 +12121,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "te",
                     "lema": "tú",
@@ -11671,6 +12153,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "parece",
                     "lema": "parecer",
@@ -11681,6 +12164,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "adecuado",
                     "lema": "adecuado",
@@ -11691,6 +12175,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -11712,6 +12197,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "logo",
                     "lema": "logo",
@@ -11722,6 +12208,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -11743,6 +12230,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "Sedapal",
                     "lema": "Sedapal",
@@ -11753,6 +12241,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -11785,6 +12274,7 @@
         "oracion_lematizada": "¿ usar diapositiva ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -11809,6 +12299,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "usaremos",
                     "lema": "usar",
@@ -11832,6 +12323,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "diapositivas",
                     "lema": "diapositiva",
@@ -11842,6 +12334,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -11874,6 +12367,7 @@
         "oracion_lematizada": "¿ verdad ?",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¿",
                     "lema": "¿",
@@ -11898,6 +12392,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "verdad",
                     "lema": "verdad",
@@ -11924,6 +12419,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "?",
                     "lema": "?",
@@ -11956,6 +12452,7 @@
         "oracion_lematizada": "ÁNCASH : EL queso DE ocros EN busca DE nuevo mercado",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "ÁNCASH",
                     "lema": "ÁNCASH",
@@ -11966,6 +12463,7 @@
                 "pictogramas": []
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": ":",
                     "lema": ":",
@@ -11990,6 +12488,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "EL",
                     "lema": "el",
@@ -12011,6 +12510,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "QUESO",
                     "lema": "queso",
@@ -12073,6 +12573,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "DE",
                     "lema": "DE",
@@ -12094,6 +12595,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "OCROS",
                     "lema": "ocros",
@@ -12104,6 +12606,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "EN",
                     "lema": "EN",
@@ -12125,6 +12628,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "BUSCA",
                     "lema": "busca",
@@ -12135,6 +12639,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "DE",
                     "lema": "DE",
@@ -12156,6 +12661,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "NUEVOS",
                     "lema": "nuevo",
@@ -12192,6 +12698,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "MERCADOS",
                     "lema": "mercado",
@@ -12224,6 +12731,7 @@
         "oracion_lematizada": "ágil y risueño él insinuar , y su llama seductoro brillar , temblar en su cabello la garúa de la playa de la maravilla .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Ágil",
                     "lema": "ágil",
@@ -12234,6 +12742,7 @@
                 "pictogramas": []
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -12283,6 +12792,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "risueña",
                     "lema": "risueño",
@@ -12293,6 +12803,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -12358,6 +12869,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "insinúa",
                     "lema": "insinuar",
@@ -12368,6 +12880,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -12391,6 +12904,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -12440,6 +12954,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "su",
                     "lema": "su",
@@ -12471,6 +12986,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "llama",
                     "lema": "llama",
@@ -12508,6 +13024,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "seductora",
                     "lema": "seductoro",
@@ -12518,6 +13035,7 @@
                 "pictogramas": []
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "brilla",
                     "lema": "brillar",
@@ -12544,6 +13062,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -12567,6 +13086,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "tiembla",
                     "lema": "temblar",
@@ -12590,6 +13110,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -12611,6 +13132,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "su",
                     "lema": "su",
@@ -12642,6 +13164,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "cabello",
                     "lema": "cabello",
@@ -12665,6 +13188,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -12696,6 +13220,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "garúa",
                     "lema": "garúa",
@@ -12706,6 +13231,7 @@
                 "pictogramas": []
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -12727,6 +13253,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -12758,6 +13285,7 @@
                 ]
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": "playa",
                     "lema": "playa",
@@ -12794,6 +13322,7 @@
                 ]
             },
             {
+                "key": 21,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -12815,6 +13344,7 @@
                 ]
             },
             {
+                "key": 22,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -12846,6 +13376,7 @@
                 ]
             },
             {
+                "key": 23,
                 "palabraInfo": {
                     "texto": "maravilla",
                     "lema": "maravilla",
@@ -12856,6 +13387,7 @@
                 "pictogramas": []
             },
             {
+                "key": 24,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -12889,6 +13421,7 @@
         "oracion_lematizada": "árbol",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Árboles",
                     "lema": "árbol",
@@ -12932,6 +13465,7 @@
         "oracion_lematizada": "él aprovechar para conversar con SausaKocha , pero durante el día él mantener dentro de sus agua .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -12977,6 +13511,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "aprovechaba",
                     "lema": "aprovechar",
@@ -12987,6 +13522,7 @@
                 "pictogramas": []
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -13008,6 +13544,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "conversar",
                     "lema": "conversar",
@@ -13073,6 +13610,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -13094,6 +13632,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "SausaKocha",
                     "lema": "SausaKocha",
@@ -13104,6 +13643,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -13127,6 +13667,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "pero",
                     "lema": "pero",
@@ -13148,6 +13689,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "durante",
                     "lema": "durante",
@@ -13181,6 +13723,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -13202,6 +13745,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "día",
                     "lema": "día",
@@ -13262,6 +13806,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -13327,6 +13872,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "mantendría",
                     "lema": "mantener",
@@ -13351,6 +13897,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "dentro",
                     "lema": "dentro",
@@ -13375,6 +13922,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -13396,6 +13944,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "sus",
                     "lema": "su",
@@ -13431,6 +13980,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "aguas",
                     "lema": "agua",
@@ -13481,6 +14031,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -13514,6 +14065,7 @@
         "oracion_lematizada": "él ser un reconocido pescador de paiche , pez que ser conocer como el \" gigantedel Amazonas \" .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -13559,6 +14111,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "es",
                     "lema": "ser",
@@ -13608,6 +14161,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "un",
                     "lema": "uno",
@@ -13629,6 +14183,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "reconocido",
                     "lema": "reconocido",
@@ -13639,6 +14194,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "pescador",
                     "lema": "pescador",
@@ -13686,6 +14242,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -13707,6 +14264,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "paiche",
                     "lema": "paiche",
@@ -13717,6 +14275,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -13740,6 +14299,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "pez",
                     "lema": "pez",
@@ -13775,6 +14335,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -13798,6 +14359,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "es",
                     "lema": "ser",
@@ -13847,6 +14409,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "conocido",
                     "lema": "conocer",
@@ -13882,6 +14445,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "como",
                     "lema": "como",
@@ -13903,6 +14467,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -13924,6 +14489,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "\"",
                     "lema": "\"",
@@ -13948,6 +14514,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "gigantedel",
                     "lema": "gigantedel",
@@ -13958,6 +14525,7 @@
                 "pictogramas": []
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "Amazonas",
                     "lema": "Amazonas",
@@ -13968,6 +14536,7 @@
                 "pictogramas": []
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "\"",
                     "lema": "\"",
@@ -13992,6 +14561,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -14025,6 +14595,7 @@
         "oracion_lematizada": "él él contar que , lamentablemente , algunos turista lanzar botella y contaminar el hábitat de los lobo marino , los pingüino y otras ave marino .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -14070,6 +14641,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "le",
                     "lema": "él",
@@ -14093,6 +14665,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "cuenta",
                     "lema": "contar",
@@ -14176,6 +14749,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -14199,6 +14773,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -14222,6 +14797,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "lamentablemente",
                     "lema": "lamentablemente",
@@ -14232,6 +14808,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -14255,6 +14832,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "algunos",
                     "lema": "alguno",
@@ -14294,6 +14872,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "turistas",
                     "lema": "turista",
@@ -14353,6 +14932,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "lanzan",
                     "lema": "lanzar",
@@ -14429,6 +15009,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "botellas",
                     "lema": "botella",
@@ -14476,6 +15057,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -14525,6 +15107,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "contaminan",
                     "lema": "contaminar",
@@ -14579,6 +15162,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -14600,6 +15184,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "hábitat",
                     "lema": "hábitat",
@@ -14610,6 +15195,7 @@
                 "pictogramas": []
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -14631,6 +15217,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -14674,6 +15261,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "lobos",
                     "lema": "lobo",
@@ -14697,6 +15285,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "marinos",
                     "lema": "marino",
@@ -14721,6 +15310,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -14744,6 +15334,7 @@
                 ]
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -14787,6 +15378,7 @@
                 ]
             },
             {
+                "key": 21,
                 "palabraInfo": {
                     "texto": "pingüinos",
                     "lema": "pingüino",
@@ -14810,6 +15402,7 @@
                 ]
             },
             {
+                "key": 22,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -14859,6 +15452,7 @@
                 ]
             },
             {
+                "key": 23,
                 "palabraInfo": {
                     "texto": "otras",
                     "lema": "otro",
@@ -14883,6 +15477,7 @@
                 ]
             },
             {
+                "key": 24,
                 "palabraInfo": {
                     "texto": "aves",
                     "lema": "ave",
@@ -14906,6 +15501,7 @@
                 ]
             },
             {
+                "key": 25,
                 "palabraInfo": {
                     "texto": "marinas",
                     "lema": "marino",
@@ -14930,6 +15526,7 @@
                 ]
             },
             {
+                "key": 26,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -14963,6 +15560,7 @@
         "oracion_lematizada": "él mismo él explicar con detalle en una plática de TED .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -15008,6 +15606,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "mismo",
                     "lema": "mismo",
@@ -15047,6 +15646,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "lo",
                     "lema": "él",
@@ -15080,6 +15680,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "explica",
                     "lema": "explicar",
@@ -15128,6 +15729,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "con",
                     "lema": "con",
@@ -15149,6 +15751,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "detalle",
                     "lema": "detalle",
@@ -15159,6 +15762,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -15180,6 +15784,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "una",
                     "lema": "uno",
@@ -15201,6 +15806,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "plática",
                     "lema": "plática",
@@ -15211,6 +15817,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -15232,6 +15839,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "TED",
                     "lema": "TED",
@@ -15242,6 +15850,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -15275,6 +15884,7 @@
         "oracion_lematizada": "él no ser un niño como todo .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -15320,6 +15930,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "no",
                     "lema": "no",
@@ -15390,6 +16001,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "era",
                     "lema": "ser",
@@ -15439,6 +16051,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "un",
                     "lema": "uno",
@@ -15460,6 +16073,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "niño",
                     "lema": "niño",
@@ -15580,6 +16194,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "como",
                     "lema": "como",
@@ -15601,6 +16216,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "todos",
                     "lema": "todo",
@@ -15661,6 +16277,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -15694,6 +16311,7 @@
         "oracion_lematizada": "él yo haber traer esta cerámica .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -15739,6 +16357,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "nos",
                     "lema": "yo",
@@ -15780,6 +16399,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "ha",
                     "lema": "haber",
@@ -15803,6 +16423,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "traído",
                     "lema": "traer",
@@ -15866,6 +16487,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "esta",
                     "lema": "este",
@@ -15889,6 +16511,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "cerámica",
                     "lema": "cerámica",
@@ -15913,6 +16536,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -15946,6 +16570,7 @@
         "oracion_lematizada": "él yo traer esta cerámica .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -15991,6 +16616,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "nos",
                     "lema": "yo",
@@ -16032,6 +16658,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "trajo",
                     "lema": "traer",
@@ -16095,6 +16722,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "esta",
                     "lema": "este",
@@ -16118,6 +16746,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "cerámica",
                     "lema": "cerámica",
@@ -16142,6 +16771,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -16175,6 +16805,7 @@
         "oracion_lematizada": "él observar que en el camino haber una tremendo piedra que obstruir el otro lado de la pista .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -16220,6 +16851,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "observa",
                     "lema": "observar",
@@ -16276,6 +16908,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -16299,6 +16932,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -16320,6 +16954,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -16341,6 +16976,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "camino",
                     "lema": "camino",
@@ -16365,6 +17001,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "hay",
                     "lema": "haber",
@@ -16388,6 +17025,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "una",
                     "lema": "uno",
@@ -16409,6 +17047,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "tremenda",
                     "lema": "tremendo",
@@ -16419,6 +17058,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "piedra",
                     "lema": "piedra",
@@ -16442,6 +17082,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -16465,6 +17106,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "obstruye",
                     "lema": "obstruir",
@@ -16488,6 +17130,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -16509,6 +17152,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "otro",
                     "lema": "otro",
@@ -16533,6 +17177,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "lado",
                     "lema": "lado",
@@ -16543,6 +17188,7 @@
                 "pictogramas": []
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -16564,6 +17210,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -16595,6 +17242,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "pista",
                     "lema": "pista",
@@ -16644,6 +17292,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -16677,6 +17326,7 @@
         "oracion_lematizada": "él saber que deber consumir más proteína y carbohidrato por el desgaste físico que tener en los entrenamiento .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -16722,6 +17372,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "sabe",
                     "lema": "saber",
@@ -16769,6 +17420,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -16792,6 +17444,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "debe",
                     "lema": "deber",
@@ -16802,6 +17455,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "consumir",
                     "lema": "consumir",
@@ -16812,6 +17466,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "más",
                     "lema": "más",
@@ -16863,6 +17518,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "proteínas",
                     "lema": "proteína",
@@ -16886,6 +17542,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -16935,6 +17592,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "carbohidratos",
                     "lema": "carbohidrato",
@@ -16945,6 +17603,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -16966,6 +17625,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -16987,6 +17647,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "desgaste",
                     "lema": "desgaste",
@@ -16997,6 +17658,7 @@
                 "pictogramas": []
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "físico",
                     "lema": "físico",
@@ -17007,6 +17669,7 @@
                 "pictogramas": []
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -17030,6 +17693,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "tiene",
                     "lema": "tener",
@@ -17067,6 +17731,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -17088,6 +17753,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -17131,6 +17797,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "entrenamientos",
                     "lema": "entrenamiento",
@@ -17141,6 +17808,7 @@
                 "pictogramas": []
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -17174,6 +17842,7 @@
         "oracion_lematizada": "él él preguntar :",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -17219,6 +17888,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -17284,6 +17954,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "pregunta",
                     "lema": "preguntar",
@@ -17308,6 +17979,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": ":",
                     "lema": ":",
@@ -17340,6 +18012,7 @@
         "oracion_lematizada": "él él reír .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -17385,6 +18058,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -17450,6 +18124,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "ríe",
                     "lema": "reír",
@@ -17489,6 +18164,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -17522,6 +18198,7 @@
         "oracion_lematizada": "él sentir el aire fresco y frío de la mañana .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -17567,6 +18244,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "siente",
                     "lema": "sentir",
@@ -17648,6 +18326,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -17669,6 +18348,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "aire",
                     "lema": "aire",
@@ -17693,6 +18373,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "fresco",
                     "lema": "fresco",
@@ -17703,6 +18384,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -17752,6 +18434,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "frío",
                     "lema": "frío",
@@ -17822,6 +18505,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -17843,6 +18527,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -17874,6 +18559,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "mañana",
                     "lema": "mañana",
@@ -17922,6 +18608,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -17955,6 +18642,7 @@
         "oracion_lematizada": "él tener como costumbre ir todos los día a la laguna para observar su belleza .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -18000,6 +18688,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "tenía",
                     "lema": "tener",
@@ -18037,6 +18726,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "como",
                     "lema": "como",
@@ -18058,6 +18748,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "costumbre",
                     "lema": "costumbre",
@@ -18068,6 +18759,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "ir",
                     "lema": "ir",
@@ -18127,6 +18819,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "todos",
                     "lema": "todo",
@@ -18187,6 +18880,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -18230,6 +18924,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "días",
                     "lema": "día",
@@ -18290,6 +18985,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "a",
                     "lema": "a",
@@ -18339,6 +19035,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -18370,6 +19067,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "laguna",
                     "lema": "laguna",
@@ -18380,6 +19078,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -18401,6 +19100,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "observar",
                     "lema": "observar",
@@ -18457,6 +19157,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "su",
                     "lema": "su",
@@ -18488,6 +19189,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "belleza",
                     "lema": "belleza",
@@ -18498,6 +19200,7 @@
                 "pictogramas": []
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -18531,6 +19234,7 @@
         "oracion_lematizada": "él tener el poder para adoptar la forma humano , aparentar ser un hombre guapo .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -18576,6 +19280,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "tiene",
                     "lema": "tener",
@@ -18613,6 +19318,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -18634,6 +19340,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "poder",
                     "lema": "poder",
@@ -18667,6 +19374,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "para",
                     "lema": "para",
@@ -18688,6 +19396,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "adoptar",
                     "lema": "adoptar",
@@ -18723,6 +19432,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -18754,6 +19464,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "forma",
                     "lema": "forma",
@@ -18764,6 +19475,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "humana",
                     "lema": "humano",
@@ -18774,6 +19486,7 @@
                 "pictogramas": []
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -18797,6 +19510,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "aparentando",
                     "lema": "aparentar",
@@ -18807,6 +19521,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "ser",
                     "lema": "ser",
@@ -18856,6 +19571,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "un",
                     "lema": "uno",
@@ -18877,6 +19593,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "hombre",
                     "lema": "hombre",
@@ -18961,6 +19678,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "guapo",
                     "lema": "guapo",
@@ -18998,6 +19716,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -19031,6 +19750,7 @@
         "oracion_lematizada": "él trabajar manejar un camión minero en una mina de tajo abierto de la que él obtener plata , cinc y plomo .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -19076,6 +19796,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "trabaja",
                     "lema": "trabajar",
@@ -19135,6 +19856,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "manejando",
                     "lema": "manejar",
@@ -19183,6 +19905,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "un",
                     "lema": "uno",
@@ -19204,6 +19927,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "camión",
                     "lema": "camión",
@@ -19240,6 +19964,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "minero",
                     "lema": "minero",
@@ -19263,6 +19988,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "en",
                     "lema": "en",
@@ -19284,6 +20010,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "una",
                     "lema": "uno",
@@ -19305,6 +20032,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "mina",
                     "lema": "mina",
@@ -19341,6 +20069,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -19362,6 +20091,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "tajo",
                     "lema": "tajo",
@@ -19372,6 +20102,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "abierto",
                     "lema": "abierto",
@@ -19407,6 +20138,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -19428,6 +20160,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -19459,6 +20192,7 @@
                 ]
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -19482,6 +20216,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -19547,6 +20282,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "obtienen",
                     "lema": "obtener",
@@ -19572,6 +20308,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "plata",
                     "lema": "plata",
@@ -19596,6 +20333,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -19619,6 +20357,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "cinc",
                     "lema": "cinc",
@@ -19629,6 +20368,7 @@
                 "pictogramas": []
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -19678,6 +20418,7 @@
                 ]
             },
             {
+                "key": 21,
                 "palabraInfo": {
                     "texto": "plomo",
                     "lema": "plomo",
@@ -19688,6 +20429,7 @@
                 "pictogramas": []
             },
             {
+                "key": 22,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -19721,6 +20463,7 @@
         "oracion_lematizada": "él venir de un colegio de Huallaga y hablar más quechua que castellano .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Él",
                     "lema": "él",
@@ -19766,6 +20509,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "viene",
                     "lema": "venir",
@@ -19815,6 +20559,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -19836,6 +20581,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "un",
                     "lema": "uno",
@@ -19857,6 +20603,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "colegio",
                     "lema": "colegio",
@@ -19907,6 +20654,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -19928,6 +20676,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "Huallaga",
                     "lema": "Huallaga",
@@ -19938,6 +20687,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -19987,6 +20737,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "habla",
                     "lema": "hablar",
@@ -20040,6 +20791,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "más",
                     "lema": "más",
@@ -20091,6 +20843,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "quechua",
                     "lema": "quechua",
@@ -20101,6 +20854,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -20124,6 +20878,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "castellano",
                     "lema": "castellano",
@@ -20134,6 +20889,7 @@
                 "pictogramas": []
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -20167,6 +20923,7 @@
         "oracion_lematizada": "época de siembra :",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Época",
                     "lema": "época",
@@ -20177,6 +20934,7 @@
                 "pictogramas": []
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -20198,6 +20956,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "siembra",
                     "lema": "siembra",
@@ -20223,6 +20982,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": ":",
                     "lema": ":",
@@ -20255,6 +21015,7 @@
         "oracion_lematizada": "Órgano",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Órgano",
                     "lema": "Órgano",
@@ -20298,6 +21059,7 @@
         "oracion_lematizada": "órgano o parte del cuerpo que recibir una señal o estímulo ; por ejemplo , los ojo recibir la luz .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Órgano",
                     "lema": "órgano",
@@ -20333,6 +21095,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "o",
                     "lema": "o",
@@ -20382,6 +21145,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "parte",
                     "lema": "parte",
@@ -20392,6 +21156,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "del",
                     "lema": "del",
@@ -20413,6 +21178,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "cuerpo",
                     "lema": "cuerpo",
@@ -20473,6 +21239,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -20496,6 +21263,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "recibe",
                     "lema": "recibir",
@@ -20535,6 +21303,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "una",
                     "lema": "uno",
@@ -20556,6 +21325,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "señal",
                     "lema": "señal",
@@ -20579,6 +21349,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "o",
                     "lema": "o",
@@ -20628,6 +21399,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "estímulo",
                     "lema": "estímulo",
@@ -20652,6 +21424,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": ";",
                     "lema": ";",
@@ -20676,6 +21449,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -20697,6 +21471,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "ejemplo",
                     "lema": "ejemplo",
@@ -20707,6 +21482,7 @@
                 "pictogramas": []
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -20730,6 +21506,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -20773,6 +21550,7 @@
                 ]
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": "ojos",
                     "lema": "ojo",
@@ -20796,6 +21574,7 @@
                 ]
             },
             {
+                "key": 17,
                 "palabraInfo": {
                     "texto": "reciben",
                     "lema": "recibir",
@@ -20835,6 +21614,7 @@
                 ]
             },
             {
+                "key": 18,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -20866,6 +21646,7 @@
                 ]
             },
             {
+                "key": 19,
                 "palabraInfo": {
                     "texto": "luz",
                     "lema": "luz",
@@ -20890,6 +21671,7 @@
                 ]
             },
             {
+                "key": 20,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -20923,6 +21705,7 @@
         "oracion_lematizada": "órgano por donde salir las hez .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Órgano",
                     "lema": "órgano",
@@ -20958,6 +21741,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "por",
                     "lema": "por",
@@ -20979,6 +21763,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "donde",
                     "lema": "donde",
@@ -20989,6 +21774,7 @@
                 "pictogramas": []
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "salen",
                     "lema": "salir",
@@ -21048,6 +21834,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -21079,6 +21866,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "heces",
                     "lema": "hez",
@@ -21089,6 +21877,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -21122,6 +21911,7 @@
         "oracion_lematizada": "Órgano que él encargar de absorber el agua y formar las hez .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Órgano",
                     "lema": "Órgano",
@@ -21157,6 +21947,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -21180,6 +21971,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -21245,6 +22037,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "encarga",
                     "lema": "encargar",
@@ -21322,6 +22115,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -21343,6 +22137,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "absorber",
                     "lema": "absorber",
@@ -21353,6 +22148,7 @@
                 "pictogramas": []
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -21374,6 +22170,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "agua",
                     "lema": "agua",
@@ -21424,6 +22221,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -21473,6 +22271,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "formar",
                     "lema": "formar",
@@ -21483,6 +22282,7 @@
                 "pictogramas": []
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "las",
                     "lema": "el",
@@ -21514,6 +22314,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "heces",
                     "lema": "hez",
@@ -21524,6 +22325,7 @@
                 "pictogramas": []
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -21557,6 +22359,7 @@
         "oracion_lematizada": "órgano que él encargar de la absorción de los nutrient y donde él formar el quilo .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Órgano",
                     "lema": "órgano",
@@ -21592,6 +22395,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -21615,6 +22419,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -21680,6 +22485,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "encarga",
                     "lema": "encargar",
@@ -21757,6 +22563,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -21778,6 +22585,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "la",
                     "lema": "el",
@@ -21809,6 +22617,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "absorción",
                     "lema": "absorción",
@@ -21819,6 +22628,7 @@
                 "pictogramas": []
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -21840,6 +22650,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "los",
                     "lema": "el",
@@ -21883,6 +22694,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "nutrientes",
                     "lema": "nutrient",
@@ -21893,6 +22705,7 @@
                 "pictogramas": []
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -21942,6 +22755,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "donde",
                     "lema": "donde",
@@ -21952,6 +22766,7 @@
                 "pictogramas": []
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -22017,6 +22832,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "forma",
                     "lema": "formar",
@@ -22027,6 +22843,7 @@
                 "pictogramas": []
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": "el",
                     "lema": "el",
@@ -22048,6 +22865,7 @@
                 ]
             },
             {
+                "key": 15,
                 "palabraInfo": {
                     "texto": "quilo",
                     "lema": "quilo",
@@ -22058,6 +22876,7 @@
                 "pictogramas": []
             },
             {
+                "key": 16,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -22091,6 +22910,7 @@
         "oracion_lematizada": "Órgano que él ver afectado",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Órgano",
                     "lema": "Órgano",
@@ -22126,6 +22946,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "que",
                     "lema": "que",
@@ -22149,6 +22970,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "se",
                     "lema": "él",
@@ -22214,6 +23036,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "ve",
                     "lema": "ver",
@@ -22270,6 +23093,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "afectado",
                     "lema": "afectado",
@@ -22288,6 +23112,7 @@
         "oracion_lematizada": "últimamente también haber cápsula preparado de este fruto , sin agregar él ningún aditivo artificial .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Últimamente",
                     "lema": "últimamente",
@@ -22298,6 +23123,7 @@
                 "pictogramas": []
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "también",
                     "lema": "también",
@@ -22308,6 +23134,7 @@
                 "pictogramas": []
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "hay",
                     "lema": "haber",
@@ -22331,6 +23158,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "cápsulas",
                     "lema": "cápsula",
@@ -22354,6 +23182,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "preparadas",
                     "lema": "preparado",
@@ -22393,6 +23222,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "de",
                     "lema": "de",
@@ -22414,6 +23244,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "este",
                     "lema": "este",
@@ -22452,6 +23283,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "fruto",
                     "lema": "fruto",
@@ -22462,6 +23294,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -22485,6 +23318,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "sin",
                     "lema": "sin",
@@ -22508,6 +23342,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "agregarle",
                     "lema": "agregar él",
@@ -22518,6 +23353,7 @@
                 "pictogramas": []
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "ningún",
                     "lema": "ninguno",
@@ -22556,6 +23392,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "aditivo",
                     "lema": "aditivo",
@@ -22566,6 +23403,7 @@
                 "pictogramas": []
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": "artificial",
                     "lema": "artificial",
@@ -22576,6 +23414,7 @@
                 "pictogramas": []
             },
             {
+                "key": 14,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -22609,6 +23448,7 @@
         "oracion_lematizada": "úsenlo y , sobre todo , ¡ disfrútenlo !",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "Úsenlo",
                     "lema": "úsenlo",
@@ -22619,6 +23459,7 @@
                 "pictogramas": []
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "y",
                     "lema": "y",
@@ -22668,6 +23509,7 @@
                 ]
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -22691,6 +23533,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "sobre",
                     "lema": "sobre",
@@ -22726,6 +23569,7 @@
                 ]
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "todo",
                     "lema": "todo",
@@ -22776,6 +23620,7 @@
                 ]
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": ",",
                     "lema": ",",
@@ -22799,6 +23644,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "¡",
                     "lema": "¡",
@@ -22823,6 +23669,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "disfrútenlo",
                     "lema": "disfrútenlo",
@@ -22833,6 +23680,7 @@
                 "pictogramas": []
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "!",
                     "lema": "!",
@@ -22864,6 +23712,7 @@
         "oracion_lematizada": "¡ Ah ! ... recurran a sus profesora o profesor cuando necesitar ayuda .",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "¡",
                     "lema": "¡",
@@ -22888,6 +23737,7 @@
                 ]
             },
             {
+                "key": 1,
                 "palabraInfo": {
                     "texto": "Ah",
                     "lema": "Ah",
@@ -22898,6 +23748,7 @@
                 "pictogramas": []
             },
             {
+                "key": 2,
                 "palabraInfo": {
                     "texto": "!",
                     "lema": "!",
@@ -22921,6 +23772,7 @@
                 ]
             },
             {
+                "key": 3,
                 "palabraInfo": {
                     "texto": "...",
                     "lema": "...",
@@ -22931,6 +23783,7 @@
                 "pictogramas": []
             },
             {
+                "key": 4,
                 "palabraInfo": {
                     "texto": "recurran",
                     "lema": "recurran",
@@ -22941,6 +23794,7 @@
                 "pictogramas": []
             },
             {
+                "key": 5,
                 "palabraInfo": {
                     "texto": "a",
                     "lema": "a",
@@ -22990,6 +23844,7 @@
                 ]
             },
             {
+                "key": 6,
                 "palabraInfo": {
                     "texto": "sus",
                     "lema": "su",
@@ -23025,6 +23880,7 @@
                 ]
             },
             {
+                "key": 7,
                 "palabraInfo": {
                     "texto": "profesoras",
                     "lema": "profesora",
@@ -23091,6 +23947,7 @@
                 ]
             },
             {
+                "key": 8,
                 "palabraInfo": {
                     "texto": "o",
                     "lema": "o",
@@ -23140,6 +23997,7 @@
                 ]
             },
             {
+                "key": 9,
                 "palabraInfo": {
                     "texto": "profesores",
                     "lema": "profesor",
@@ -23205,6 +24063,7 @@
                 ]
             },
             {
+                "key": 10,
                 "palabraInfo": {
                     "texto": "cuando",
                     "lema": "cuando",
@@ -23226,6 +24085,7 @@
                 ]
             },
             {
+                "key": 11,
                 "palabraInfo": {
                     "texto": "necesiten",
                     "lema": "necesitar",
@@ -23250,6 +24110,7 @@
                 ]
             },
             {
+                "key": 12,
                 "palabraInfo": {
                     "texto": "ayuda",
                     "lema": "ayuda",
@@ -23319,6 +24180,7 @@
                 ]
             },
             {
+                "key": 13,
                 "palabraInfo": {
                     "texto": ".",
                     "lema": ".",
@@ -23352,6 +24214,7 @@
         "oracion_lematizada": "óvulo",
         "palabras_traducidas": [
             {
+                "key": 0,
                 "palabraInfo": {
                     "texto": "óvulo",
                     "lema": "óvulo",
@@ -23375,20 +24238,6 @@
                 ]
             }
         ],
-        "palabras_compuestas": [],
-        "oracion_traducida": [
-            {
-                "id": 14999,
-                "isSimple": true,
-                "keyword": "óvulo",
-                "palabra": "óvulo",
-                "plural": "óvulos",
-                "pos": "NOUN",
-                "tag": "NOUN",
-                "synsets": [
-                    "05465549-n"
-                ]
-            }
-        ]
+        "palabras_compuestas": []
     }
 ]
