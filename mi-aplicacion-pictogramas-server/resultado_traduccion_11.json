@@ -1963,39 +1963,48 @@
                 "plural": null,
                 "pos": null,
                 "tag": null,
-                "tiempoVerbal": "Pasado",
-                "numeroGramatical": "Plural",
                 "synsets": []
-            },
-            {
-                "id": 31955,
-                "isSimple": true,
-                "keyword": "cambio",
-                "palabra": "cambios",
-                "plural": "cambios",
-                "pos": "NOUN",
-                "tag": "NOUN",
-                "tiempoVerbal": "",
-                "numeroGramatical": "Plural",
-                "synsets": [
-                    "01111372-n"
-                ]
             },
             {
                 "keyword": "Katty",
                 "tipo": "texto"
             },
             {
-                "id": 22624,
+                "id": 8578,
                 "isSimple": true,
-                "keyword": "qué",
-                "palabra": "qué",
+                "keyword": "experimentar",
+                "palabra": "experimenta",
                 "plural": "",
-                "pos": "PRON",
-                "tag": "PRON",
-                "tiempoVerbal": "",
-                "numeroGramatical": "",
-                "synsets": []
+                "pos": "VERB",
+                "tag": "VERB",
+                "synsets": [
+                    "02538261-v"
+                ]
+            },
+            {
+                "id": 12244,
+                "isSimple": true,
+                "keyword": "cambio",
+                "palabra": "cambios",
+                "plural": "cambios",
+                "pos": "NOUN",
+                "tag": "NOUN",
+                "synsets": [
+                    "01111372-n"
+                ]
+            },
+            {
+                "id": 3418,
+                "isSimple": true,
+                "keyword": "?",
+                "palabra": "?",
+                "plural": "",
+                "pos": "PUNCT",
+                "tag": "PUNCT",
+                "synsets": [
+                    "06857090-n",
+                    "06830640-n"
+                ]
             }
         ]
     },
@@ -2178,6 +2187,19 @@
         ],
         "oracion_traducida": [
             {
+                "id": 3415,
+                "isSimple": true,
+                "keyword": "¿",
+                "palabra": "¿",
+                "plural": "",
+                "pos": "PUNCT",
+                "tag": "PUNCT",
+                "synsets": [
+                    "06857090-n",
+                    "06830640-n"
+                ]
+            },
+            {
                 "id": 36719,
                 "isSimple": false,
                 "keyword": "por qué",
@@ -2188,27 +2210,47 @@
                 "synsets": []
             },
             {
-                "id": 22624,
+                "id": 7186,
                 "isSimple": true,
-                "keyword": "qué",
-                "palabra": "qué",
+                "keyword": "nosotros",
+                "palabra": "nosotros",
+                "plural": "",
+                "synsets": []
+            },
+            {
+                "id": 38796,
+                "isSimple": true,
+                "keyword": "pensar",
+                "palabra": "pensar",
+                "synsets": [
+                    "00630153-v",
+                    "01640708-v",
+                    "00710367-v",
+                    "00610362-v"
+                ]
+            },
+            {
+                "id": 7091,
+                "isSimple": true,
+                "keyword": "eso",
+                "palabra": "eso",
                 "plural": "",
                 "pos": "PRON",
                 "tag": "PRON",
-                "tiempoVerbal": "",
-                "numeroGramatical": "",
                 "synsets": []
             },
             {
-                "id": 36719,
-                "isSimple": false,
-                "keyword": "por qué",
-                "palabra": "por qué",
-                "plural": null,
-                "pos": null,
-                "tag": null,
-                "tiempoVerbal": "Futuro",
-                "synsets": []
+                "id": 3418,
+                "isSimple": true,
+                "keyword": "?",
+                "palabra": "?",
+                "plural": "",
+                "pos": "PUNCT",
+                "tag": "PUNCT",
+                "synsets": [
+                    "06857090-n",
+                    "06830640-n"
+                ]
             }
         ]
     },

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Pictogram from './Pictogram';
 import TextoComoImagen from './TextoComoImagen';
+import PictogramSearch from './PictogramSearch';
 
 function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, oracionTraducida }) {
     const [droppedItems, setDroppedItems] = useState(oracionTraducida || []);
@@ -60,9 +61,9 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         const savedData = droppedItems?.map(item => {
             if (item.id) {
                 // Si el item tiene un id, guardamos todas las propiedades relevantes
-                let tiempoVerbal = "";
-                let numeroGramatical = "";
-                
+                let tiempoVerbal = item.tiempoVerbal;
+                let numeroGramatical = item.numeroGramatical;
+                /*
                 if(item.isSimple)
                 {
                     if(item.pos === "VERB" && item.tag ==="VERB")
@@ -80,7 +81,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                     tiempoVerbal = item.tiempoVerbal;
                     numeroGramatical = item.numeroGramatical;
                 }
-                
+                */
 
                 return {
                     id: item.id,
@@ -148,29 +149,47 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         // Si no, procesar el pictograma arrastrado como nuevo
         const data = e.dataTransfer.getData('text');
         const pictograma = JSON.parse(data);
-        if(pictograma.isSimple)
+
+        /*
+        if(pictograma.isSearch)
         {
-            pictograma["tiempoVerbal"] = tiempoVerbalPictogramasSimples[pictograma["key"]];
-            pictograma["numeroGramatical"] = numeroGramaticalPictogramasSimples[pictograma["key"]];
+                //do nothing
         }
         else
         {
-            pictograma["tiempoVerbal"] = tiempoVerbalPictogramasCompuestos[pictograma["key"]];
-            pictograma["numeroGramatical"] = numeroGramaticalPictogramasCompuestos[pictograma["key"]];
+            if(pictograma.isSimple)
+            {
+                pictograma["tiempoVerbal"] = tiempoVerbalPictogramasSimples[pictograma["key"]];
+                pictograma["numeroGramatical"] = numeroGramaticalPictogramasSimples[pictograma["key"]];
+            }
+            else
+            {
+                pictograma["tiempoVerbal"] = tiempoVerbalPictogramasCompuestos[pictograma["key"]];
+                pictograma["numeroGramatical"] = numeroGramaticalPictogramasCompuestos[pictograma["key"]];
+            }
         }
         
+        */
+
         setDroppedItems(prevItems => [...(prevItems || []), pictograma]);
     };
 
     const handleDragStart = (index) => (e) => {
         const item = droppedItems[index];
-        const itemWithTense = {
-            ...item,
-            tiempoVerbal: tiempoVerbalPictogramasSimples[item.key], // Asegúrate de que 'id' sea la propiedad correcta que relaciona el pictograma con su tiempo verbal seleccionado
-            numeroGramatical: numeroGramaticalPictogramasSimples[item.key]
-        };
+
+        if(item.isSimple)
+        {
+            item["tiempoVerbal"] = tiempoVerbalPictogramasSimples[item["key"]];
+            item["numeroGramatical"] = numeroGramaticalPictogramasSimples[item["key"]];
+        }
+        else
+        {
+            item["tiempoVerbal"] = tiempoVerbalPictogramasCompuestos[item["key"]];
+            item["numeroGramatical"] = numeroGramaticalPictogramasCompuestos[item["key"]];
+        }
+
         e.dataTransfer.setData('application/pictogram-index', index.toString());
-        e.dataTransfer.setData('text', JSON.stringify(itemWithTense)); // Ahora también pasamos el tiempo verbal seleccionado
+        e.dataTransfer.setData('text', JSON.stringify(item)); // Ahora también pasamos el tiempo verbal seleccionado
     };
 
     const styles = {
@@ -364,6 +383,9 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         <div style={styles.buttonsContainer}>
             <button onClick={cleanDroppedPictogramas} style={styles.buttonStyle}>Limpiar Pictogramas</button>
             <button onClick={handleSave} style={styles.buttonStyle}>Guardar</button>
+        </div>
+        <div style={styles.container}>
+            <PictogramSearch /> 
         </div>
     </div>
   );

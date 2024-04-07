@@ -21,7 +21,10 @@ function Pictogram({ pictogram, activarBotonRemover, tiempoVerbal, numeroGramati
   if (!pictogram) return null;
 
   if (!isVisible) return null;
-   
+
+  pictogram["tiempoVerbal"] = tiempoVerbal;
+  pictogram["numeroGramatical"] = numeroGramatical;
+
   const imageUrl = `https://api.arasaac.org/api/pictograms/${pictogram.id}?download=false`;
   const containerStyle = {
     position: 'relative', // Posición relativa para el contenedor
