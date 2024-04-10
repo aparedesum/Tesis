@@ -1,10 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import PictogramList from './PictogramList';
+import LoginForm from './LoginForm';
+import { useAuth } from './AuthContext';
 
 function App() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [elementoActual, setElementoActual] = useState(null); // Estado para almacenar el elemento actual
   const [indexBusqueda, setIndexBusqueda] = useState(""); // Estado para almacenar el valor del input de búsqueda
+  const { token, logout, isLoggedIn } = useAuth(); 
 
   // Estilos en línea para botones
   const buttonStyle = {
@@ -34,28 +37,40 @@ function App() {
   // Fetch elemento actualizado desde el backend cuando currentIndex cambia
   useEffect(() => {
     const fetchElemento = async () => {
+      if (!isLoggedIn) return; // No intenta cargar si no está logueado
+
       try {
-        const response = await fetch(`http://localhost:5000/api/getElemento?id=${currentIndex}`);
+        const response = await fetch(`http://localhost:5000/api/getElemento?id=${currentIndex}`, {
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`, // Incluye el token en la petición
+          },
+        });
         if (!response.ok) {
+          if(response.status == 401)
+          {
+            logout();
+          }
           throw new Error('Respuesta del servidor no fue OK');
         }
         const data = await response.json();
         setElementoActual(data); // Actualiza el estado con los datos recibidos
       } catch (error) {
         console.error('Error al obtener el elemento:', error);
+        
       }
       setIndexBusqueda("");
     };
 
     fetchElemento();
-  }, [currentIndex]);
+  }, [currentIndex, isLoggedIn, token]);
 
 
   const navigate = (direction) => {
     const newIndex = currentIndex + direction;
     console.log(newIndex);
 
-    if (newIndex < 0 || newIndex >= 22071) return;
+    if (newIndex < 0 || newIndex >= 21997) return;
     setCurrentIndex(newIndex);
   };
 
@@ -66,6 +81,10 @@ function App() {
       setCurrentIndex(indexInt - 1); // Ajusta según sea necesario
     }
   };
+
+  if (!isLoggedIn) {
+    return <LoginForm />; // Si no está loggeado, muestra LoginForm
+  }
 
   return (
     <div style={containerStyle} key={currentIndex}>

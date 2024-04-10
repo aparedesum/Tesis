@@ -86,7 +86,7 @@ def cargar_pictogramas():
 
 def tokenizar_lematizar_oraciones():
     try:
-        with open("OracionesConsolidadoGeneral_limpio_v1.txt", 'r', encoding='utf-8') as archivo_texto:
+        with open("OracionesConsolidadoGeneral_limpio_v2.txt", 'r', encoding='utf-8') as archivo_texto:
             lineas = archivo_texto.readlines()
             lineas = [linea.strip() for linea in lineas]
             oraciones_lematizadas = []
@@ -171,12 +171,12 @@ def save_to_file(oraciones_traducidas, archivo):
         file.write(oraciones_traducidas_json)
 
 def sharding():
-    shards = 2000
+    shards = 800
     total_oraciones = len(oraciones_traducidas)
 
     print(f"total oraciones traducidas : {total_oraciones}")
 
-    for i in range(12):
+    for i in range(29):
         comienza_en = shards*i
         termina_en = shards*(i+1)
         if(termina_en > total_oraciones):

@@ -1,17 +1,41 @@
+from flask import Flask, request, jsonify
+from flask_cors import CORS, cross_origin
+from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
 import json
 import os
+import secrets
 
-from flask import Flask, request, jsonify
-from flask_cors import CORS
-import requests
+clave_secreta = secrets.token_hex(16)
+print(clave_secreta)
 
 app = Flask(__name__)
-CORS(app, resources={r"/api/*": {"origins": "*"}}, supports_credentials=True)
+CORS(app, origins=["http://localhost:3000"], supports_credentials=True)
+
+# Configura la clave secreta JWT y el tiempo de expiración
+app.config['JWT_SECRET_KEY'] = clave_secreta
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = 60  # 30 minutos
+jwt = JWTManager(app)
+
+
+# Simula una base de datos de usuarios
+USUARIOS = {"usuario1": None, "usuario2": None, "usuario3": None, "usuario4": None, "usuario5": None}
+
+@app.route('/login', methods=['POST'])
+def login():
+    username = request.json.get('username', None)
+    if username in USUARIOS:
+        # Si el usuario existe, crea un token JWT
+        access_token = create_access_token(identity=username)
+        return jsonify(access_token=access_token), 200
+    else:
+        return jsonify({"msg": "Nombre de usuario no encontrado"}), 401
+
+
 
 def find_element_by_id(id):
     # Calcula el nombre del archivo basado en el ID
     
-    file_index = id // 2000  # Esto asume que cada archivo tiene 2000 elementos, excepto el último
+    file_index = id // 800  # Esto asume que cada archivo tiene 800 elementos, excepto el último
     filename = f"resultado_traduccion_{file_index}.json"
     
     # Asegúrate de que el archivo exista
@@ -43,7 +67,7 @@ def find_element_by_id(id):
 
 def find_and_update_oracion(id, oracion_traducida):
     # Calcula el nombre del archivo basado en el ID
-    file_index = (id-1)  // 2000  # Esto asume que cada archivo tiene 2000 elementos, excepto el último
+    file_index = (id-1)  // 800  # Esto asume que cada archivo tiene 800 elementos, excepto el último
     filename = f"resultado_traduccion_{file_index}.json"
 
     # Asegúrate de que el archivo exista
@@ -69,6 +93,7 @@ def find_and_update_oracion(id, oracion_traducida):
     return True
 
 @app.route('/api/save', methods=['POST'])
+@jwt_required()  # Requiere que el usuario esté autenticado
 def save_pictogram_data():
     data = request.json
 
@@ -83,7 +108,10 @@ def save_pictogram_data():
 
     return jsonify({"message": "Datos guardados con éxito"}), 200
 
+
+
 @app.route('/api/getElemento', methods=['GET'])
+@jwt_required()  # Requiere que el usuario esté autenticado
 def get_elemento():
     id = request.args.get('id', default=None, type=int)
     

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Pictogram from './Pictogram';
 import TextoComoImagen from './TextoComoImagen';
 import PictogramSearch from './PictogramSearch';
+import { useAuth } from './AuthContext';
 
 function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, oracionTraducida }) {
     const [droppedItems, setDroppedItems] = useState(oracionTraducida || []);
@@ -10,6 +11,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
     const [tiempoVerbalPictogramasCompuestos, setTiempoVerbalPictogramasCompuestos] = useState({}); 
     const [numeroGramaticalPictogramasSimples, setNumeroGramaticalPictogramasSimples] = useState({});
     const [numeroGramaticalPictogramasCompuestos, setNumeroGramaticalPictogramasCompuestos] = useState({});
+    const { token, logout, isLoggedIn } = useAuth(); 
 
     useEffect(() => {
         // Actualiza droppedItems cada vez que oracionTraducida cambie.
@@ -26,10 +28,6 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
       
     const handleRemovePictograma = (index) => () => {
         setDroppedItems((prevItems) => prevItems.filter((_, idx) => idx !== index));
-    };
-
-    const handleShowValues = () => {
-        console.log('Dropped Items:', droppedItems);
     };
 
     const cleanDroppedPictogramas = () => {
@@ -63,25 +61,6 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                 // Si el item tiene un id, guardamos todas las propiedades relevantes
                 let tiempoVerbal = item.tiempoVerbal;
                 let numeroGramatical = item.numeroGramatical;
-                /*
-                if(item.isSimple)
-                {
-                    if(item.pos === "VERB" && item.tag ==="VERB")
-                    {
-                        tiempoVerbal = item.tiempoVerbal;
-                    }
-                    
-                    if(item.pos === "NOUN" && item.tag ==="NOUN")
-                    {
-                        numeroGramatical = item.numeroGramatical;
-                    }
-                }
-                else
-                {
-                    tiempoVerbal = item.tiempoVerbal;
-                    numeroGramatical = item.numeroGramatical;
-                }
-                */
 
                 return {
                     id: item.id,
@@ -109,15 +88,13 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
             "id": id_palabra + 1,
             "oracion_traducida": savedData
         };
-    
-        console.log('Datos preparados para guardar:', JSON.stringify(dataToSave));
-        // Aquí podrías usar algo como localStorage para "guardar" los datos temporalmente o enviarlos a un servidor
 
         try {
             const response = await fetch('http://localhost:5000/api/save', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${token}`, // Incluye el token en la petición
                 },
                 body: JSON.stringify(dataToSave),
             });
@@ -126,7 +103,11 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                 const responseData = await response.json();
                 console.log(responseData.message);
             } else {
-                console.error("Error al guardar los datos");
+                console.error("Error al guardar los datos", response);
+                if(response.status == 401)
+                {
+                    logout();
+                }
             }
         } catch (error) {
             console.error("Error al guardar los datos", error);
@@ -149,27 +130,6 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         // Si no, procesar el pictograma arrastrado como nuevo
         const data = e.dataTransfer.getData('text');
         const pictograma = JSON.parse(data);
-
-        /*
-        if(pictograma.isSearch)
-        {
-                //do nothing
-        }
-        else
-        {
-            if(pictograma.isSimple)
-            {
-                pictograma["tiempoVerbal"] = tiempoVerbalPictogramasSimples[pictograma["key"]];
-                pictograma["numeroGramatical"] = numeroGramaticalPictogramasSimples[pictograma["key"]];
-            }
-            else
-            {
-                pictograma["tiempoVerbal"] = tiempoVerbalPictogramasCompuestos[pictograma["key"]];
-                pictograma["numeroGramatical"] = numeroGramaticalPictogramasCompuestos[pictograma["key"]];
-            }
-        }
-        
-        */
 
         setDroppedItems(prevItems => [...(prevItems || []), pictograma]);
     };
@@ -258,11 +218,6 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
 
     return (
     <div>
-        {
-            //<div style={styles.container}>
-            //<button onClick={handleShowValues} style={styles.buttonStyle} >Mostrar Valores</button>
-            //</div>
-        }
         <h3 style={styles.itemStyle}>Pictogramas Simples</h3>
         <div style={styles.container}>
             {
