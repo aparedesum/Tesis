@@ -274,7 +274,10 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
             }
         </div>
 
-        <h3 style={styles.itemStyle}>Pictogramas Compuestos</h3>
+        {palabrasCompuestas && palabrasCompuestas.length > 0 && (
+            <h3 style={styles.itemStyle}>Pictogramas Compuestos</h3>
+        )}
+        
         <div style={styles.container}>
             {
                 palabrasCompuestas.map((pc, index) => 

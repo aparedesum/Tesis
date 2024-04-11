@@ -13,20 +13,28 @@ CORS(app, origins=["http://localhost:3000"], supports_credentials=True)
 
 # Configura la clave secreta JWT y el tiempo de expiración
 app.config['JWT_SECRET_KEY'] = clave_secreta
-app.config['JWT_ACCESS_TOKEN_EXPIRES'] = 60  # 30 minutos
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = 3600  # 1 hora
 jwt = JWTManager(app)
 
 
 # Simula una base de datos de usuarios
-USUARIOS = {"usuario1": None, "usuario2": None, "usuario3": None, "usuario4": None, "usuario5": None}
+USUARIOS = {"usuario1": {"nombre": "Chili", "id": "usuario1"}, 
+            "usuario2": {"nombre": "Mamayo", "id": "usuario2"}, 
+            "usuario3": {"nombre": "Hermano", "id": "usuario3"},
+            "usuario4": {"nombre": "Mori", "id": "usuario4"},
+            "usuario5": {"nombre": "Buitre", "id": "usuario5"}
+            }
+
 
 @app.route('/login', methods=['POST'])
 def login():
     username = request.json.get('username', None)
     if username in USUARIOS:
+        user = USUARIOS[username]
         # Si el usuario existe, crea un token JWT
-        access_token = create_access_token(identity=username)
-        return jsonify(access_token=access_token), 200
+        access_token = create_access_token(identity=user["id"])
+        userResponse = { "access_token": access_token, "nombre": user["nombre"], "id": user["id"] }
+        return jsonify(userResponse), 200
     else:
         return jsonify({"msg": "Nombre de usuario no encontrado"}), 401
 
