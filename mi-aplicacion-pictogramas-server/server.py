@@ -73,7 +73,7 @@ def find_element_by_id(id):
     return None
 
 
-def find_and_update_oracion(id, oracion_traducida):
+def find_and_update_oracion(id, oracion_traducida, usuario, comentario, traduccionCompleja):
     # Calcula el nombre del archivo basado en el ID
     file_index = (id-1)  // 800  # Esto asume que cada archivo tiene 800 elementos, excepto el último
     filename = f"resultado_traduccion_{file_index}.json"
@@ -90,6 +90,9 @@ def find_and_update_oracion(id, oracion_traducida):
     for item in data:
         if item['id'] == id:
             item['oracion_traducida'] = oracion_traducida
+            item['usuario'] = usuario
+            item['comentario'] = comentario if comentario else ""
+            item['traduccionCompleja'] = traduccionCompleja if traduccionCompleja else False
             break
     else:
         return False  # Si no se encontró el ID
@@ -109,7 +112,7 @@ def save_pictogram_data():
     if 'id' not in data or 'oracion_traducida' not in data:
         return jsonify({"message": "Datos incompletos"}), 400
 
-    success = find_and_update_oracion(data['id'], data['oracion_traducida'])
+    success = find_and_update_oracion(data['id'], data['oracion_traducida'], data['usuario'], data['comentarios'], data['traduccionCompleja'])
 
     if not success:
         return jsonify({"message": "Error al guardar los datos"}), 500

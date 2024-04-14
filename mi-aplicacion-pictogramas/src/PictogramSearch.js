@@ -78,7 +78,7 @@ function PictogramSearch() {
                     type="text"
                     value={searchTerm}
                     onChange={handleSearchChange}
-                    placeholder="Buscar pictograma..."
+                    placeholder="Buscar más pictogramas..."
                 />
                 <button onClick={handleSearchClick}>Buscar</button>
             </div>
