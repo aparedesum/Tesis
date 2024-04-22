@@ -92,7 +92,7 @@ function App() {
         <h3>Hola {userName} - Muchas gracias por ayudar</h3>
       </div>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}> {/* Alinea la imagen y el texto */}
-      <h2 style={{ marginRight: '20px' }}>Oración: {currentIndex + 1}</h2>
+        <h2 style={{ marginRight: '20px' }}>Oración: {currentIndex + 1}</h2>
         <div >
           <input
             type="text"
@@ -100,7 +100,7 @@ function App() {
             onChange={(e) => setIndexBusqueda(e.target.value)}
             placeholder="Ingresa un índice"
             style={{ marginRight: '10px', width: '115px' }} // Ajusta el ancho aquí
-            />
+          />
           <button onClick={handleBuscarClick}>Buscar Oración</button>
         </div>
       </div>

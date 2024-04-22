@@ -64,7 +64,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
             html:
                 '<div style="text-align: left;">' + // Alinea el texto de los inputs a la izquierda
                 '<textarea id="swal-input1" class="swal2-input" placeholder="Ingrese sus comentarios" rows="8" style="width: 90%; margin-bottom: 10px;"></textarea>' + // Se utiliza un <textarea> para los comentarios
-                '<label style="display: block; margin-bottom: 10px;"><input type="checkbox" id="swal-input2" style="margin-right: 5px;">La traducción es compleja</label>' + // Encerrar el checkbox y el texto en un <label> para mejorar la accesibilidad
+                '<label style="display: block; margin-bottom: 10px;"><input type="checkbox" id="swal-input2" style="margin-right: 5px;">Se necesita más contexto para traducir la oración.</label>' + // Encerrar el checkbox y el texto en un <label> para mejorar la accesibilidad
                 '</div>',
             focusConfirm: false,
             showCancelButton: true, // Opción para mostrar un botón de cancelar
@@ -235,10 +235,13 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
         container: {
             display: 'flex',
             flexDirection: 'row',
-            flexWrap: 'wrap', // Permite que los bloques se ajusten en filas según el ancho disponible
+            flexWrap: 'wrap',
             justifyContent: 'center',
-            gap: '20px', // Espacio entre bloques
+            gap: '20px',
             padding: '10px',
+            border: '1px solid #ccc', // Un borde ligero alrededor de todo el contenedor de pictogramas
+            borderRadius: '10px', // Bordes más redondeados
+            backgroundColor: '#f9f9f9', // Un fondo ligeramente gris para destacar el área
         },
         column: {
             display: 'flex',
@@ -246,14 +249,14 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
             alignItems: 'center',
             margin: '10px',
             padding: '10px',
-            border: '2px dotted #000', // Borde sólido alrededor de cada bloque de pictogramas
-            borderRadius: '5px', // Opcional: bordes redondeados
-            backgroundColor: '#fff', // Opcional: fondo blanco para cada bloque
+            border: '2px solid #0047ab', // Cambia el color y el estilo del borde para hacerlo más visible
+            borderRadius: '5px',
+            backgroundColor: '#fff',
             boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
         },
         dropArea: {
             marginTop: '10px',
-            border: '2px dashed grey',
+            border: '3px dashed #008000', // Usa un color verde con un estilo de línea discontinua
             minHeight: '100px',
             display: 'flex',
             flexDirection: 'row',
@@ -297,7 +300,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
 
     return (
         <div>
-            <h3 key={`pictogramas-simples-${id_palabra}`} style={styles.itemStyle}>Pictogramas Simples</h3>
+            <h3 key={`pictogramas-simples-${id_palabra}`} style={styles.itemStyle}>Secuencia de Pictograma Sugeridas - Simples</h3>
             <div style={styles.container}>
                 {
 
@@ -350,57 +353,54 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                 }
             </div>
 
-            {palabrasCompuestas && palabrasCompuestas.length > 0 && (
-                <h3 style={styles.itemStyle}>Pictogramas Compuestos</h3>
-            )}
+            <div>
+                {palabrasCompuestas && palabrasCompuestas.length > 0 && (
+                    <>
+                        <h3 style={styles.itemStyle}>Secuencia de Pictograma Sugeridas - Compuestas</h3>
+                        <div style={styles.container}>
+                            {palabrasCompuestas.map((pc, index) => {
+                                const tienePictogramas = pc.pictogramas && pc.pictogramas.length > 0;
+                                if (tienePictogramas) {
+                                    return (
+                                        <div key={`compuesta-${index}`} style={styles.column}>
+                                            <h3 style={{ margin: '0' }}>{pc["palabraInfo"].texto}</h3>
 
-            <div style={styles.container}>
-                {
-                    palabrasCompuestas.map((pc, index) => {
-                        const tienePictogramas = pc.pictogramas && pc.pictogramas.length > 0;
-                        if (tienePictogramas) {
-                            return (
-                                <div key={`compuesta-${index}`} style={styles.column}>
-                                    <h3 style={{ margin: '0' }}>{pc["palabraInfo"].texto}</h3>
-
-                                    <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                        <div><h3 style={{ margin: '0' }}>Tiempo Verbal</h3></div>
-                                        <div>
-                                            <label><input type="radio" name={`compuesta-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Pasado</label>
+                                            <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                                <div><h3 style={{ margin: '0' }}>Tiempo Verbal</h3></div>
+                                                <div>
+                                                    <label><input type="radio" name={`compuesta-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Pasado</label>
+                                                </div>
+                                                <div>
+                                                    <label><input type="radio" name={`compuesta-tense-${index}`} value="Presente" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Presente</label>
+                                                </div>
+                                                <div>
+                                                    <label><input type="radio" name={`compuesta-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Futuro</label>
+                                                </div>
+                                            </div>
+                                            <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                                <div><h3 style={{ margin: '0' }}>Numero Gramatical</h3></div>
+                                                <div>
+                                                    <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Plural</label>
+                                                </div>
+                                                <div>
+                                                    <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Singular</label>
+                                                </div>
+                                            </div>
+                                            {pc.pictogramas.map((pictograma, idx) => (
+                                                <Pictogram key={`compuesta-${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasCompuestos[pc.key]} numeroGramatical={numeroGramaticalPictogramasCompuestos[pc.key]} />
+                                            ))}
                                         </div>
-                                        <div>
-                                            <label><input type="radio" name={`compuesta-tense-${index}`} value="Presente" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Presente</label>
-                                        </div>
-                                        <div>
-                                            <label><input type="radio" name={`compuesta-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Futuro</label>
-                                        </div>
-                                    </div>
-                                    <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                        <div><h3 style={{ margin: '0' }}>Numero Gramatical</h3></div>
-                                        <div>
-                                            <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Plural</label>
-                                        </div>
-                                        <div>
-                                            <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Singular</label>
-                                        </div>
-                                    </div>
-                                    {
-                                        pc.pictogramas.map((pictograma, idx) => (
-                                            <Pictogram key={`compuesta-${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasCompuestos[pc.key]} numeroGramatical={numeroGramaticalPictogramasCompuestos[pc.key]} />
-                                        ))
-                                    }
-                                </div>
-                            );
-                        }
-                        else {
-                            return (<div></div>);
-                        }
-                    })
-                }
+                                    );
+                                } else {
+                                    return null; // Aquí puedes devolver null en lugar de un div vacío
+                                }
+                            })}
+                        </div>
+                    </>
+                )}
             </div>
             <div>
-                <h3 style={styles.itemStyle}>Área de Soltar Pictogramas</h3>
-                <br></br>
+                <h3 style={styles.itemStyle}>Oración Traducida</h3>
                 <div onDragOver={handleDragOver} onDrop={handleDrop} style={styles.dropArea}>
                     {droppedItems?.map((item, index) => (
                         <div key={index} style={styles.column} draggable onDragStart={handleDragStart(index)}>
