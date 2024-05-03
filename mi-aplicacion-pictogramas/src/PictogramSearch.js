@@ -4,6 +4,7 @@ import Pictogram from './Pictogram';
 function PictogramSearch() {
     const [searchTerm, setSearchTerm] = useState('');
     const [results, setResults] = useState([]);
+    const [hizoClick, setHizoClick] = useState(false)
 
     const [tiempoVerbalPictogramasBuscados, setTiempoVerbalPictogramasBuscados] = useState({});
     const [numeroGramaticalPictogramasBuscados, setNumeroGramaticalPictogramasBuscados] = useState({});
@@ -43,6 +44,7 @@ function PictogramSearch() {
             })));
 
             setResults(pictogramResults);
+            setHizoClick(true);
         } catch (error) {
             console.error("Error fetching data:", error);
         }
@@ -83,39 +85,37 @@ function PictogramSearch() {
                 <button onClick={handleSearchClick}>Buscar</button>
             </div>
             <div style={resultsContainerStyle}>
-                {results.length > 0 ? (
-                    results.map((pictogram, index) => (
-                        <div key={`search-${index}`} style={pictogramContainerStyle}>
-                            <h3 style={{ margin: '0' }}>{pictogram.palabra}</h3>
-                            <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                <div><h3 style={{ margin: '0' }}>Tiempo Verbal</h3></div>
-                                <div>
-                                    <label><input type="radio" name={`search-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalBuscadosChange(index)} /> Pasado</label>
-                                </div>
-                                <div>
-                                    <label><input type="radio" name={`search-tense-${index}`} value="Presente" onChange={handleTiempoVerbalBuscadosChange(index)} /> Presente</label>
-                                </div>
-                                <div>
-                                    <label><input type="radio" name={`search-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalBuscadosChange(index)} /> Futuro</label>
-                                </div>
-                            </div>
-                            <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                <div><h3 style={{ margin: '0' }}>Numero Gramatical</h3></div>
-                                <div>
-                                    <label><input type="radio" name={`search-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalBuscadosChange(index)} /> Plural</label>
-                                </div>
-                                <div>
-                                    <label><input type="radio" name={`search-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalBuscadosChange(index)} /> Singular</label>
-                                </div>
-                            </div>
-                            <Pictogram pictogram={pictogram} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasBuscados[index]} numeroGramatical={numeroGramaticalPictogramasBuscados[index]} />
-                        </div>
-                    ))
-                ) : (
+                {hizoClick && results.length === 0 ? (
                     <div style={{ textAlign: 'center', width: '100%' }}>
                         <h2>No hay resultados</h2>
                     </div>
-                )}
+                ) : results.map((pictogram, index) => (
+                    <div key={`search-${index}`} style={pictogramContainerStyle}>
+                        <h3 style={{ margin: '0' }}>{pictogram.palabra}</h3>
+                        <div style={{ display: 'flex', flexDirection: 'column' }}>
+                            <div><h3 style={{ margin: '0' }}>Tiempo Verbal</h3></div>
+                            <div>
+                                <label><input type="radio" name={`search-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalBuscadosChange(index)} /> Pasado</label>
+                            </div>
+                            <div>
+                                <label><input type="radio" name={`search-tense-${index}`} value="Presente" onChange={handleTiempoVerbalBuscadosChange(index)} /> Presente</label>
+                            </div>
+                            <div>
+                                <label><input type="radio" name={`search-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalBuscadosChange(index)} /> Futuro</label>
+                            </div>
+                        </div>
+                        <div style={{ display: 'flex', flexDirection: 'column' }}>
+                            <div><h3 style={{ margin: '0' }}>Numero Gramatical</h3></div>
+                            <div>
+                                <label><input type="radio" name={`search-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalBuscadosChange(index)} /> Plural</label>
+                            </div>
+                            <div>
+                                <label><input type="radio" name={`search-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalBuscadosChange(index)} /> Singular</label>
+                            </div>
+                        </div>
+                        <Pictogram pictogram={pictogram} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasBuscados[index]} numeroGramatical={numeroGramaticalPictogramasBuscados[index]} />
+                    </div>
+                ))}
             </div>
         </div>
     );

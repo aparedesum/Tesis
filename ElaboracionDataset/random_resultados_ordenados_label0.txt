@@ -1,0 +1,40 @@
+{"label": "LABEL_0", "score": 0.9950602650642395, "oracion": "Disfrutamos mucho en la laguna de Choclococha, porque jugamos y les dimos de comer a las vicuñas"}
+{"label": "LABEL_0", "score": 0.9947143197059631, "oracion": "No es necesario memorizar los diálogos; estos se pueden leer durante la representación"}
+{"label": "LABEL_0", "score": 0.989613950252533, "oracion": "La oca se siembra en un campo, después de la cosecha de papas; por eso, requiere poca labor de preparación del suelo"}
+{"label": "LABEL_0", "score": 0.9848871827125549, "oracion": "Buscamos información sobre el producto alimenticio que describiremos"}
+{"label": "LABEL_0", "score": 0.9843724966049194, "oracion": "Observamos las imágenes"}
+{"label": "LABEL_0", "score": 0.9829264879226685, "oracion": "Elaboramos la primera versión de nuestra infografía en una hoja de papel"}
+{"label": "LABEL_0", "score": 0.9819808602333069, "oracion": "¿Consideramos que los productos elaborados en las comunidades, como los de la imagen, generan beneficios para la localidad?"}
+{"label": "LABEL_0", "score": 0.9801647663116455, "oracion": "Invito a los pobladores a leer las fichas y a escuchar la exposición sobre ellas"}
+{"label": "LABEL_0", "score": 0.9721118807792664, "oracion": "Describí oralmente usando adjetivos o haciendo comparaciones y empleando un vocabulario variado"}
+{"label": "LABEL_0", "score": 0.9675182700157166, "oracion": "Indagamos sobre el agua contaminada"}
+{"label": "LABEL_0", "score": 0.9634289741516113, "oracion": "Piensa en la anécdota que contarás y escribe algunas ideas que te servirán de guía cuando la cuentes"}
+{"label": "LABEL_0", "score": 0.9358895421028137, "oracion": "¿Cómo es la artesanía de nuestras comunidades?"}
+{"label": "LABEL_0", "score": 0.9356787800788879, "oracion": "Observamos la imagen y escribimos con nuestras propias palabras las características señaladas en el texto"}
+{"label": "LABEL_0", "score": 0.9129945039749146, "oracion": "Es un mito que el dengue solo esté presente en las zonas de Selva"}
+{"label": "LABEL_0", "score": 0.9123514294624329, "oracion": "En nuestros cuadernos, escribimos la información que daremos considerando las partes del texto instructivo: los materiales y los pasos"}
+{"label": "LABEL_0", "score": 0.8976712822914124, "oracion": "Observamos el título, las imágenes y la forma del poema de la página 60"}
+{"label": "LABEL_0", "score": 0.8917214870452881, "oracion": "Socializamos en equipo"}
+{"label": "LABEL_0", "score": 0.8875893950462341, "oracion": "¿Qué clase de texto hemos leído? Lo mencionamos"}
+{"label": "LABEL_0", "score": 0.8646854162216187, "oracion": "¿Qué problema resolvimos?"}
+{"label": "LABEL_0", "score": 0.8480471968650818, "oracion": "Persona que cuenta dónde y cuándo suceden los hechos"}
+{"label": "LABEL_0", "score": 0.8360294103622437, "oracion": "¿Qué le gusta a Daniela?"}
+{"label": "LABEL_0", "score": 0.8279248476028442, "oracion": "Importancia de una buena alimentación"}
+{"label": "LABEL_0", "score": 0.8244137167930603, "oracion": "El centro poblado de Magollo es una zona vitivinícola debido a sus actividades productivas"}
+{"label": "LABEL_0", "score": 0.8229489326477051, "oracion": "¿Has entrevistado alguna vez a alguien?"}
+{"label": "LABEL_0", "score": 0.8180429935455322, "oracion": "Las celebraciones religiosas o las actividades festivas de una comunidad forman parte de su tradición, historia y cultura"}
+{"label": "LABEL_0", "score": 0.8156763315200806, "oracion": "Recuerden repetir las terminaciones finales en cada verso de la rima y aplicar las reglas de tildación general"}
+{"label": "LABEL_0", "score": 0.8110406398773193, "oracion": "Me sueno diariamente la nariz para limpiarla y no escupo en cualquier sitio"}
+{"label": "LABEL_0", "score": 0.7969502806663513, "oracion": "Expongo los trabajos que realicé en esta unidad"}
+{"label": "LABEL_0", "score": 0.7925979495048523, "oracion": "Se realiza desde la época de los incas, en la que era conocida como trueque"}
+{"label": "LABEL_0", "score": 0.7662588357925415, "oracion": "Escribimos para mostrar los resultados de nuestra investigación"}
+{"label": "LABEL_0", "score": 0.7637529373168945, "oracion": "¿Qué es?"}
+{"label": "LABEL_0", "score": 0.7428961992263794, "oracion": "¿Qué tienen en común ambos textos?"}
+{"label": "LABEL_0", "score": 0.7413147687911987, "oracion": "¿Cómo se enteraron de los efectos del fenómeno de El Niño en el país?"}
+{"label": "LABEL_0", "score": 0.7285798192024231, "oracion": "Cuanto más se aprenda acerca de los problemas que se enfrentan, más se ayudará a asegurar la vida de todos"}
+{"label": "LABEL_0", "score": 0.6984455585479736, "oracion": "Una de las actividades se realizó en la plaza de Armas de Caraz"}
+{"label": "LABEL_0", "score": 0.6955122947692871, "oracion": "La actividad económica que posibilita que lo logremos es el turismo"}
+{"label": "LABEL_0", "score": 0.6930839419364929, "oracion": "Pidió permiso a la moderadora o al moderador para realizar una pregunta"}
+{"label": "LABEL_0", "score": 0.6380767226219177, "oracion": "Para eso, invitamos a nuestras compañeras y nuestros compañeros de todos los grados"}
+{"label": "LABEL_0", "score": 0.568008542060852, "oracion": "Cumple con las normas de higiene y saneamiento de las barcas"}
+{"label": "LABEL_0", "score": 0.5283560752868652, "oracion": "Reposapiés"}

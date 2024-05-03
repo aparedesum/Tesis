@@ -91,19 +91,7 @@ function App() {
         <img src={`${process.env.PUBLIC_URL}/hola.png`} alt="Hola" style={{ width: '30px', height: '30px', marginRight: '5px' }} />
         <h3>Hola {userName} - Muchas gracias por ayudar</h3>
       </div>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}> {/* Alinea la imagen y el texto */}
-        <h2 style={{ marginRight: '20px' }}>Oración: {currentIndex + 1}</h2>
-        <div >
-          <input
-            type="text"
-            value={indexBusqueda}
-            onChange={(e) => setIndexBusqueda(e.target.value)}
-            placeholder="Ingresa un índice"
-            style={{ marginRight: '10px', width: '115px' }} // Ajusta el ancho aquí
-          />
-          <button onClick={handleBuscarClick}>Buscar Oración</button>
-        </div>
-      </div>
+      
 
       <h2>{elementoActual ? elementoActual.oracion : 'Cargando...'}</h2>
       <div style={buttonContainerStyle}>
