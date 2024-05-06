@@ -2,6 +2,7 @@
 from transformers import pipeline
 import json
 import random
+from collections import defaultdict
 
 pipe = pipeline("text-classification", model="lmvasque/readability-es-benchmark-mbert-es-paragraphs-2class")
 
@@ -60,7 +61,7 @@ def leer_y_ordenar(archivo_entrada, archivo_salida, cantidad_random, orden_ascen
 
         colecciones_ordenadas_filtradas = [colecciones_ordenadas[i] for i in range(len(colecciones_ordenadas)) if i not in indices_random_unicos]
 
-                # Escribir las colecciones ordenadas al archivo de salida
+        # Escribir las colecciones ordenadas al archivo de salida
         with open(archivo_salida, 'w', encoding='utf-8') as archivo:
             for coleccion in colecciones_ordenadas_filtradas:
                 archivo.write(json.dumps(coleccion, ensure_ascii=False) + '\n')
@@ -89,14 +90,41 @@ def guardar_oraciones(archivo_entrada, archivo_salida):
     except Exception as e:
         print(f"Error al procesar el archivo {archivo_entrada}: {e}")
 
-# Llamada a la función para ambos archivos de resultados
+
+def calcular_promedio(scores):
+    return sum(scores) / len(scores)
+
+def ordenar_oraciones(oraciones):
+    oraciones_ordenadas = []
+    for num_palabras, datos_oraciones in sorted(oraciones.items()):
+        promedio = calcular_promedio([d['score'] for d in datos_oraciones])
+        oraciones_ordenadas.extend(sorted(datos_oraciones, key=lambda x: (x['score'], promedio)))
+    return oraciones_ordenadas
+
+def procesar_archivo(archivo_entrada, archivo_salida):
+    oraciones_por_num_palabras = defaultdict(list)
+
+    with open(archivo_entrada, 'r', encoding='utf-8') as f:
+        for linea in f:
+            data = json.loads(linea.strip())
+            num_palabras = len(data['oracion'].split())
+            oraciones_por_num_palabras[num_palabras].append(data)
+
+    with open(archivo_salida, 'w', encoding='utf-8') as f:
+        for oracion in ordenar_oraciones(oraciones_por_num_palabras):
+            f.write(json.dumps(oracion, ensure_ascii=False) + '\n')
+
 
 
 procesar_complejidad_oraciones()
 leer_y_ordenar('resultados_label0.txt', 'resultados_ordenados_label0.txt', 40)
 leer_y_ordenar('resultados_label1.txt', 'resultados_ordenados_label1.txt', 10, orden_ascendente=True)
-guardar_oraciones('resultados_ordenados_label0.txt', 'OracionesOrdenadas_Simples.txt')
-guardar_oraciones('resultados_ordenados_label1.txt', 'OracionesOrdenadas_Complejas.txt')
+procesar_archivo('resultados_ordenados_label0.txt', 'resultados_ordenados_label0_Penalizacion.txt')
+procesar_archivo('resultados_ordenados_label1.txt', 'resultados_ordenados_label1_Penalizacion.txt')
+
+guardar_oraciones('resultados_ordenados_label0_Penalizacion.txt', 'OracionesOrdenadas_Simples.txt')
+guardar_oraciones('resultados_ordenados_label1_Penalizacion.txt', 'OracionesOrdenadas_Complejas.txt')
+
 guardar_oraciones('random_resultados_ordenados_label0.txt', 'OracionesOrdenadasRandom_Simples.txt')
 guardar_oraciones('random_resultados_ordenados_label1.txt', 'OracionesOrdenadasRandom_Complejas.txt')
 

@@ -1,10 +1,10 @@
-{"label": "LABEL_1", "score": 0.5264872908592224, "oracion": "Luego, lo coloco en un recipiente seguro para llevarlo al aula"}
-{"label": "LABEL_1", "score": 0.5803034901618958, "oracion": "Pero en realidad, la espinilla es pequeñita y la esconde el cabello)"}
-{"label": "LABEL_1", "score": 0.6040249466896057, "oracion": "¡Failoc, Failoc!, y así fue como los pescadores lo bautizaron"}
-{"label": "LABEL_1", "score": 0.6140331029891968, "oracion": "Escribo un compromiso de aprendizaje"}
-{"label": "LABEL_1", "score": 0.7004085183143616, "oracion": "¿Qué les parece si, al igual que Luis, elaboramos una exposición sobre el derecho que mencionamos en nuestro texto expositivo u otro que nos llame la atención?"}
-{"label": "LABEL_1", "score": 0.8126721382141113, "oracion": "Esta denominación se concretó debido a que gran parte de la población de esa jurisdicción se dedica a la actividad ganadera"}
-{"label": "LABEL_1", "score": 0.8128442764282227, "oracion": "Evalúen la participación de una compañera o un compañero de su grupo marcando con un \"Sí\" o \"No\", según corresponda"}
-{"label": "LABEL_1", "score": 0.9328094720840454, "oracion": "Escribo en un cuadro los niveles tróficos (productores, consumidores de primer orden, de segundo orden, de tercer orden, descomponedores) con los nombres de las plantas, los animales y los microorganismos que los conforman"}
-{"label": "LABEL_1", "score": 0.9459360241889954, "oracion": "Arcoíris sintió celos de tanta devoción hacia su hermana, así que decidió envenenar a las truchas que había ahí para que, de esta manera, los huamachuquinos murieran y ya no rindieran homenaje a Luz de Luna"}
-{"label": "LABEL_1", "score": 0.9720940589904785, "oracion": "El portero, al ver al niño desconcertado y triste por fallar la respuesta, le dijo"}
+{"label": "LABEL_1", "score": 0.5326964259147644, "oracion": "¿Las hipótesis que realicé fueron acertadas?"}
+{"label": "LABEL_1", "score": 0.6103126406669617, "oracion": "Identificar los animales invertebrados de nuestro departamento"}
+{"label": "LABEL_1", "score": 0.7131636738777161, "oracion": "Hecha la maldad, Arcoíris huyó y se escondió en una cueva muy lejana"}
+{"label": "LABEL_1", "score": 0.7371023893356323, "oracion": "Converso con los pobladores acerca de los datos obtenidos en los libros"}
+{"label": "LABEL_1", "score": 0.7451303601264954, "oracion": "Todos los días ayudo a mis padres a vender"}
+{"label": "LABEL_1", "score": 0.7455612421035767, "oracion": "Lee y toma en cuenta estas sugerencias"}
+{"label": "LABEL_1", "score": 0.8713277578353882, "oracion": "Indico cómo me siento al compartir mi poema con las niñas y los niños menores de otros grados, y señalo el porqué"}
+{"label": "LABEL_1", "score": 0.8841074705123901, "oracion": "El grupo le da sugerencias para mejorar su lectura apoyándose en una ﬁcha (actividad 5)"}
+{"label": "LABEL_1", "score": 0.9115936756134033, "oracion": "Elaboro un esquema en el que escribo los estímulos que percibo desde que entro a mi casa"}
+{"label": "LABEL_1", "score": 0.9481269121170044, "oracion": "Esto hizo que Wiracocha de Joaquín en lanzara amenazas contra Joaquín"}

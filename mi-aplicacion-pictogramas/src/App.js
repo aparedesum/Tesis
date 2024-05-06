@@ -7,7 +7,7 @@ function App() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [elementoActual, setElementoActual] = useState(null); // Estado para almacenar el elemento actual
   const [indexBusqueda, setIndexBusqueda] = useState(""); // Estado para almacenar el valor del input de búsqueda
-  const { token, userName, userId, logout, isLoggedIn } = useAuth();
+  const { token, userName, userId, start, end, current, logout, isLoggedIn } = useAuth();
 
   // Estilos en línea para botones
   const buttonStyle = {
@@ -39,6 +39,7 @@ function App() {
     const fetchElemento = async () => {
       if (!isLoggedIn) return; // No intenta cargar si no está logueado
 
+      setCurrentIndex(current);
       try {
         const response = await fetch(`http://localhost:5000/api/getElemento?id=${currentIndex}`, {
           headers: {
@@ -69,7 +70,7 @@ function App() {
     const newIndex = currentIndex + direction;
     console.log(newIndex);
 
-    if (newIndex < 0 || newIndex >= 21997) return;
+    if (newIndex < start || newIndex >= end) return;
     setCurrentIndex(newIndex);
   };
 

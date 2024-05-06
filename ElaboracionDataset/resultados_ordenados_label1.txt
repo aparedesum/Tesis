@@ -310,6 +310,7 @@
 {"label": "LABEL_1", "score": 0.5264204144477844, "oracion": "Observo el título y completo la siguiente tabla"}
 {"label": "LABEL_1", "score": 0.5264621376991272, "oracion": "pequeñas"}
 {"label": "LABEL_1", "score": 0.5264779925346375, "oracion": "Hábitats acuáticos"}
+{"label": "LABEL_1", "score": 0.5264872908592224, "oracion": "Luego, lo coloco en un recipiente seguro para llevarlo al aula"}
 {"label": "LABEL_1", "score": 0.5266455411911011, "oracion": "¡Animales en peligro de extinción!"}
 {"label": "LABEL_1", "score": 0.5266812443733215, "oracion": "Luego completa la siguiente ficha"}
 {"label": "LABEL_1", "score": 0.5266931653022766, "oracion": "Juan organiza una limpieza de las laderas del río Ichu en Huancavelica"}
@@ -378,7 +379,6 @@
 {"label": "LABEL_1", "score": 0.5323470234870911, "oracion": "Completamos la siguiente tabla sobre los textos leídos"}
 {"label": "LABEL_1", "score": 0.5326648354530334, "oracion": "La oca es el tubérculo más antiguo de los Andes"}
 {"label": "LABEL_1", "score": 0.532670259475708, "oracion": "¿Por qué la gente llamó Failoc al pescador misterioso?"}
-{"label": "LABEL_1", "score": 0.5326964259147644, "oracion": "¿Las hipótesis que realicé fueron acertadas?"}
 {"label": "LABEL_1", "score": 0.5327838659286499, "oracion": "¿De qué hablaré al inicio de mi crónica?"}
 {"label": "LABEL_1", "score": 0.5330043435096741, "oracion": "¿Con qué propósito fue escrito?"}
 {"label": "LABEL_1", "score": 0.5331478714942932, "oracion": "Copia y completa este organizador en tu cuaderno"}
@@ -855,6 +855,7 @@
 {"label": "LABEL_1", "score": 0.5795412659645081, "oracion": "¿Por qué la Reserva Nacional de Tumbes constituye uno de los recursos turísticos más importantes del departamento?"}
 {"label": "LABEL_1", "score": 0.5795872807502747, "oracion": "Con ayuda de la profesora o el profesor, tú y tus compañeras o compañeros establezcan lo siguiente"}
 {"label": "LABEL_1", "score": 0.5797739028930664, "oracion": "Escribimos tres casos que se llevarán a juicio"}
+{"label": "LABEL_1", "score": 0.5803034901618958, "oracion": "Pero en realidad, la espinilla es pequeñita y la esconde el cabello)"}
 {"label": "LABEL_1", "score": 0.5805608630180359, "oracion": "Completé una ficha con los rasgos físicos y cualidades que me brindó el texto que leí"}
 {"label": "LABEL_1", "score": 0.580657422542572, "oracion": "Comparto con amigos y vecinos de mi comunidad el resultado del ejercicio 2 y 3, y les pido que me cuenten sobre alguna feria que ellos conozcan"}
 {"label": "LABEL_1", "score": 0.5806793570518494, "oracion": "Observo y escribo los estados en los que se encuentra la materia"}
@@ -1064,6 +1065,7 @@
 {"label": "LABEL_1", "score": 0.6038079857826233, "oracion": "Escribo dos ideas que me sugiere el título de la siguiente lectura"}
 {"label": "LABEL_1", "score": 0.6038642525672913, "oracion": "Departamento de Cusco"}
 {"label": "LABEL_1", "score": 0.6038837432861328, "oracion": "Los orígenes de la televisión van hasta Galileo Galilei y su telescopio"}
+{"label": "LABEL_1", "score": 0.6040249466896057, "oracion": "¡Failoc, Failoc!, y así fue como los pescadores lo bautizaron"}
 {"label": "LABEL_1", "score": 0.6040648221969604, "oracion": "Editorial de un recurso de mi comunidad"}
 {"label": "LABEL_1", "score": 0.6042977571487427, "oracion": "Actualmente, existen alrededor de 590 hectáreas de vid, de los cuales el 95,9 % le corresponde a la provincia de Tacna y el 4,1 % a Jorge Basadre"}
 {"label": "LABEL_1", "score": 0.6043115854263306, "oracion": "Dialogamos con nuestras compañeras y nuestros compañeros acerca de cómo hemos construido y validado nuestra polea"}
@@ -1129,7 +1131,6 @@
 {"label": "LABEL_1", "score": 0.6099113821983337, "oracion": "Ejemplo: \"como aprendices que se empoderan día a día en esta práctica comercial\""}
 {"label": "LABEL_1", "score": 0.6100292801856995, "oracion": "Entrevisto a algunos pobladores y anoto sus respuestas en el cuadro"}
 {"label": "LABEL_1", "score": 0.610271155834198, "oracion": "Pídele a una de tus compañeras o a uno de tus compañeros que lea la ficha de evaluación y que evalúe tu participación"}
-{"label": "LABEL_1", "score": 0.6103126406669617, "oracion": "Identificar los animales invertebrados de nuestro departamento"}
 {"label": "LABEL_1", "score": 0.610357403755188, "oracion": "Utilízala como se te indica en la actividad de la unidad 4 de tu cuaderno de autoaprendizaje"}
 {"label": "LABEL_1", "score": 0.6104961633682251, "oracion": "Elaboro las fichas y escribo los datos más importantes de cada planta, como se muestra a continuación"}
 {"label": "LABEL_1", "score": 0.6106064319610596, "oracion": "Luego, reparto los dípticos entre los pobladores"}
@@ -1156,6 +1157,7 @@
 {"label": "LABEL_1", "score": 0.6136367917060852, "oracion": "Ensaya tu descripción oral frente a una compañera o un compañero"}
 {"label": "LABEL_1", "score": 0.6136504411697388, "oracion": "Esto se conoce como zonificación, y determina, por ejemplo, que no se construyan fábricas en una zona residencial"}
 {"label": "LABEL_1", "score": 0.6137427091598511, "oracion": "Recuerda que para dar instrucciones orales sobre cómo elaborar un objeto, debes considerar lo siguiente"}
+{"label": "LABEL_1", "score": 0.6140331029891968, "oracion": "Escribo un compromiso de aprendizaje"}
 {"label": "LABEL_1", "score": 0.6142259836196899, "oracion": "¿Le he dedicado suficiente atención a mi aprendizaje durante este año?"}
 {"label": "LABEL_1", "score": 0.6146185994148254, "oracion": "Al concluir, pregunta al público si tiene alguna interrogante"}
 {"label": "LABEL_1", "score": 0.6146860122680664, "oracion": "La comunidad de Raqchi está compuesta por ochenta familias dedicadas a la agricultura, la cerámica y al turismo vivencial"}
@@ -1782,6 +1784,7 @@
 {"label": "LABEL_1", "score": 0.6999788880348206, "oracion": "Corrige tu texto teniendo en cuenta la revisión que has hecho y las orientaciones que te brindó tu profesora o profesor"}
 {"label": "LABEL_1", "score": 0.7000423669815063, "oracion": "Esta actividad se extendió desde el 27 de agosto hasta el 3 de setiembre de 2017"}
 {"label": "LABEL_1", "score": 0.7001924514770508, "oracion": "Informal"}
+{"label": "LABEL_1", "score": 0.7004085183143616, "oracion": "¿Qué les parece si, al igual que Luis, elaboramos una exposición sobre el derecho que mencionamos en nuestro texto expositivo u otro que nos llame la atención?"}
 {"label": "LABEL_1", "score": 0.7004789113998413, "oracion": "Los pobladores que vivían en las orillas de la laguna Sausa-Kocha admiraban la belleza esta; sin embargo, no podían encontrar ningún pez que les sirviera dealimento"}
 {"label": "LABEL_1", "score": 0.7007243633270264, "oracion": "Escribí un folleto de acuerdo con su estructura"}
 {"label": "LABEL_1", "score": 0.7008763551712036, "oracion": "Explica oralmente a tu compañera o compañero, con ayuda de la infografía de la página 73, el funcionamiento del convertidor"}
@@ -1878,7 +1881,6 @@
 {"label": "LABEL_1", "score": 0.7130422592163086, "oracion": "Aprendió de su abuela, Manuela Momediano, el oficio de santolinero e imaginero"}
 {"label": "LABEL_1", "score": 0.7130708694458008, "oracion": "También llevo a cabo uno de los experimentos que he investigado"}
 {"label": "LABEL_1", "score": 0.7131221890449524, "oracion": "En efecto, al observar desde el mirador del distrito de San José (Ingenio), uno puede constatar la sorprendente tecnología geométrica nasca, contrapuesta con las líneas de los waris y los trazos de los paracas (siglos I-VII a. C.)"}
-{"label": "LABEL_1", "score": 0.7131636738777161, "oracion": "Hecha la maldad, Arcoíris huyó y se escondió en una cueva muy lejana"}
 {"label": "LABEL_1", "score": 0.7132143378257751, "oracion": "Pidan a sus compañeras o compañeros de otro equipo que observen su ensayo y que les indiquen en qué aspectos pueden mejorar"}
 {"label": "LABEL_1", "score": 0.7132237553596497, "oracion": "Respondemos de manera oral sobre lo escuchado en la noticia"}
 {"label": "LABEL_1", "score": 0.7133961915969849, "oracion": "¿A qué público irá dirigido tu mensaje?"}
@@ -2036,7 +2038,6 @@
 {"label": "LABEL_1", "score": 0.7369861602783203, "oracion": "¿Cuántos vehículos viejos y otras fuentes contaminantes aumentaron este año?"}
 {"label": "LABEL_1", "score": 0.7370129823684692, "oracion": "Escribimos nombres comunes de animales de nuestra comunidad o nuestro departamento, según el beneficio que nos proporcionan"}
 {"label": "LABEL_1", "score": 0.7370623350143433, "oracion": "¿Cómo me siento con respecto a mis avances?"}
-{"label": "LABEL_1", "score": 0.7371023893356323, "oracion": "Converso con los pobladores acerca de los datos obtenidos en los libros"}
 {"label": "LABEL_1", "score": 0.7371538877487183, "oracion": "Observa si cada uno de los informes de investigación presenta introducción, desarrollo y conclusión"}
 {"label": "LABEL_1", "score": 0.7371639013290405, "oracion": "Escribir un afiche de acuerdo con el plan de escritura"}
 {"label": "LABEL_1", "score": 0.7373808026313782, "oracion": "Un grupo de estudiantes del quinto grado comenta lo interesante que les ha parecido la lectura del libro Mitos y leyendas del antiguo Perú"}
@@ -2087,9 +2088,7 @@
 {"label": "LABEL_1", "score": 0.7446282505989075, "oracion": "Luego, pedimos a nuestra profesora o nuestro profesor que lo vuelva a revisar"}
 {"label": "LABEL_1", "score": 0.744697630405426, "oracion": "Completa este esquema con la ayuda de tus compañeras y compañeros"}
 {"label": "LABEL_1", "score": 0.7450540661811829, "oracion": "También ventila el panal agitando sus alas y cuida que ningún intruso entre a la colmena"}
-{"label": "LABEL_1", "score": 0.7451303601264954, "oracion": "Todos los días ayudo a mis padres a vender"}
 {"label": "LABEL_1", "score": 0.7454912662506104, "oracion": "Tener derecho a un ambiente sano implica comprender que nuestras actividades, potencialmente, generan contaminación y daños al ambiente"}
-{"label": "LABEL_1", "score": 0.7455612421035767, "oracion": "Lee y toma en cuenta estas sugerencias"}
 {"label": "LABEL_1", "score": 0.7456449270248413, "oracion": "¿Qué relación significativa existe entre las palabras \"montaña\" y \"llanura\"?"}
 {"label": "LABEL_1", "score": 0.7457326054573059, "oracion": "Un material impermeabilizante impide que el agua pase a través de este, ya que actúa como paraguas protector sobre la superficie en la que se ha aplicado"}
 {"label": "LABEL_1", "score": 0.7462438941001892, "oracion": "Empleo recursos verbales y no verbales"}
@@ -2552,6 +2551,8 @@
 {"label": "LABEL_1", "score": 0.8124522566795349, "oracion": "La ganadería ha sido fundamental en la historia de la humanidad, ya que permitió a nuestros antepasados cubrir sus necesidades de proteínas, tan importantes para la nutrición"}
 {"label": "LABEL_1", "score": 0.8124770522117615, "oracion": "Preocupados por esta situación, han investigado qué son los derechos, cuáles son y en qué consisten"}
 {"label": "LABEL_1", "score": 0.8125949501991272, "oracion": "Ellos han heredado este saber ancestral de sus padres"}
+{"label": "LABEL_1", "score": 0.8126721382141113, "oracion": "Esta denominación se concretó debido a que gran parte de la población de esa jurisdicción se dedica a la actividad ganadera"}
+{"label": "LABEL_1", "score": 0.8128442764282227, "oracion": "Evalúen la participación de una compañera o un compañero de su grupo marcando con un \"Sí\" o \"No\", según corresponda"}
 {"label": "LABEL_1", "score": 0.8128916025161743, "oracion": "Los tejidos de la etnia de la comunidad nativa Diamante, en Madre de Dios, son elaborados con tintes naturales y preparados con plantas y semillas de la Amazonía"}
 {"label": "LABEL_1", "score": 0.8128975033760071, "oracion": "Participar en la comunicación de resultados a mis compañeras y compañeros"}
 {"label": "LABEL_1", "score": 0.812983512878418, "oracion": "¿Por dónde ingresa el aire al cuerpo de César?"}
@@ -2972,7 +2973,6 @@
 {"label": "LABEL_1", "score": 0.8710770010948181, "oracion": "Converso con ellos sobre sus opiniones para tener los argumentos claros y sustentar su punto de vista"}
 {"label": "LABEL_1", "score": 0.8711115121841431, "oracion": "Corrige tu afiche teniendo en cuenta la revisión de tu compañera o compañero"}
 {"label": "LABEL_1", "score": 0.8712952733039856, "oracion": "Y él me respondía: \"Matías, pronto volveré a abrazarte y pasearemos juntos por las calles del barrio\""}
-{"label": "LABEL_1", "score": 0.8713277578353882, "oracion": "Indico cómo me siento al compartir mi poema con las niñas y los niños menores de otros grados, y señalo el porqué"}
 {"label": "LABEL_1", "score": 0.8717420101165771, "oracion": "El trabajo en equipo ayuda a desarrollar valores, como el respeto, la tolerancia, el compañerismo y la responsabilidad"}
 {"label": "LABEL_1", "score": 0.8718130588531494, "oracion": "Lima, Perú: Asociación Fe y Alegría del Perú y Centro Amazónico de Antropología y Aplicación Práctica (CAAAP)"}
 {"label": "LABEL_1", "score": 0.8718770146369934, "oracion": "Sobre sus metas a corto plazo"}
@@ -3069,7 +3069,6 @@
 {"label": "LABEL_1", "score": 0.8838791251182556, "oracion": "Conseguimos con nuestras compañeras y nuestros compañeros los siguientes materiales"}
 {"label": "LABEL_1", "score": 0.8839962482452393, "oracion": "Escribe la primera versión de tu autorretrato, de acuerdo con el organizador que completaste"}
 {"label": "LABEL_1", "score": 0.8840166330337524, "oracion": "En una época en que la vida marina era la única fuente económica delos antiguos talareños, hubo un gobernante llamado Cojinova, que era el hijo preferido del dios Sol"}
-{"label": "LABEL_1", "score": 0.8841074705123901, "oracion": "El grupo le da sugerencias para mejorar su lectura apoyándose en una ﬁcha (actividad 5)"}
 {"label": "LABEL_1", "score": 0.8841423988342285, "oracion": "Si no se toman medidas inmediatas, es probable la extinción de especies"}
 {"label": "LABEL_1", "score": 0.8842083811759949, "oracion": "Leemos las siguientes indicaciones para exponer frente a nuestras compañeras y nuestros compañeros"}
 {"label": "LABEL_1", "score": 0.8842645287513733, "oracion": "Escribió párrafos que brindaron detalles de la noticia"}
@@ -3301,7 +3300,6 @@
 {"label": "LABEL_1", "score": 0.9111983776092529, "oracion": "Después de una semana, saqué la moneda y vi que la gaseosa le había quitado el moho y la había aclarado"}
 {"label": "LABEL_1", "score": 0.9112637042999268, "oracion": "La familia Rojas viajó a Tacna para comprar un auto en Zofratacna"}
 {"label": "LABEL_1", "score": 0.9113836884498596, "oracion": "Antes de ingresar a la reserva, deberán leer las normas sobre el cuidado de la misma"}
-{"label": "LABEL_1", "score": 0.9115936756134033, "oracion": "Elaboro un esquema en el que escribo los estímulos que percibo desde que entro a mi casa"}
 {"label": "LABEL_1", "score": 0.9117113947868347, "oracion": "Registra la tesis y los argumentos que se presentaron"}
 {"label": "LABEL_1", "score": 0.91182941198349, "oracion": "Luego, se la leo al resto de mi familia"}
 {"label": "LABEL_1", "score": 0.9122036099433899, "oracion": "Contextura: gruesa, delgada, fuerte, robusta, maciza,mediana, menuda, sólida, vigorosa, atlética, débil,endeble, frágil, esbelta"}
@@ -3471,6 +3469,7 @@
 {"label": "LABEL_1", "score": 0.9324886202812195, "oracion": "Una vez terminado el conversatorio por equipos, compartan los acuerdos a los que han llegado y elaboren sus conclusiones"}
 {"label": "LABEL_1", "score": 0.9326536655426025, "oracion": "Escucha con atención a tus compañeras y compañeros, y guarda silencio"}
 {"label": "LABEL_1", "score": 0.9326996207237244, "oracion": "Tiene razón, ayer me miré al espejo y mi cara ahora es un poco más alargada y, como dice mi tía, ahora soy un poco más alta"}
+{"label": "LABEL_1", "score": 0.9328094720840454, "oracion": "Escribo en un cuadro los niveles tróficos (productores, consumidores de primer orden, de segundo orden, de tercer orden, descomponedores) con los nombres de las plantas, los animales y los microorganismos que los conforman"}
 {"label": "LABEL_1", "score": 0.9329354763031006, "oracion": "Tomado y adaptado de Red Internacional para los Derechos Económicos, Sociales y Culturales"}
 {"label": "LABEL_1", "score": 0.9330275654792786, "oracion": "La madre, al notar que su hijo no retornaba de su paseo, fue a buscarlo, y lo encontró sumergido en las aguas de la laguna"}
 {"label": "LABEL_1", "score": 0.9331072568893433, "oracion": "Converso con un agricultor sobre la importancia del sol en sus cultivos y cómo influye en el crecimiento de sus plantas"}
@@ -3586,6 +3585,7 @@
 {"label": "LABEL_1", "score": 0.9453426003456116, "oracion": "Me pongo de acuerdo con mis familiares para elaborar un texto instructivo de alguna artesanía de mi comunidad mediante dibujos"}
 {"label": "LABEL_1", "score": 0.94569993019104, "oracion": "El hombre no debe agotar los recursos naturales ni provocar desequilibrios, ya que no solo está perjudicando a la naturaleza, sino que, a la larga, se perjudica a sí mismo"}
 {"label": "LABEL_1", "score": 0.9458433389663696, "oracion": "Su producción y venta se han convertido en la principal fuente de ingresos de estas familias y fortalecen la confianza de las productoras provenientes de las localidades de Pachachaca, Yanagaga, Chaupiloma, Ocshapampa, Tashta, Sharco, entre otras"}
+{"label": "LABEL_1", "score": 0.9459360241889954, "oracion": "Arcoíris sintió celos de tanta devoción hacia su hermana, así que decidió envenenar a las truchas que había ahí para que, de esta manera, los huamachuquinos murieran y ya no rindieran homenaje a Luz de Luna"}
 {"label": "LABEL_1", "score": 0.9461014866828918, "oracion": "Leo mi descripción a mis compañeras y compañeros de los otros grados"}
 {"label": "LABEL_1", "score": 0.946261465549469, "oracion": "Un ecosistema fragmentado es aquel que, debido a cambios producidos en un hábitat, bien como consecuencia de procesos geológicos, bien por actividades humanas (agricultura, industria, urbanización, etc.), que alteran el medio ambiente, presenta discontinuidades que afectan las condiciones de vida de las especies que lo habitan"}
 {"label": "LABEL_1", "score": 0.9463700652122498, "oracion": "Escribo en mi cuaderno, con ayuda de mi familia, la respuesta a esta interrogante"}
@@ -3610,7 +3610,6 @@
 {"label": "LABEL_1", "score": 0.9479131698608398, "oracion": "Tomado y adaptado de Comisión de Derechos Humanos del Estado de México"}
 {"label": "LABEL_1", "score": 0.9479243159294128, "oracion": "Si tomas todas las precauciones con la debida información, estarás seguro"}
 {"label": "LABEL_1", "score": 0.9480367302894592, "oracion": "Además de ser un país multicultural, el Perú goza de una gran diversidad biológica y geográfica, lo que trae grandes ventajas si se considera que la diversidad es fuente de desarrollo"}
-{"label": "LABEL_1", "score": 0.9481269121170044, "oracion": "Esto hizo que Wiracocha de Joaquín en lanzara amenazas contra Joaquín"}
 {"label": "LABEL_1", "score": 0.9481603503227234, "oracion": "Preguntar cualquier duda a los encargados del cuidado de la reserva"}
 {"label": "LABEL_1", "score": 0.9482288360595703, "oracion": "Me reúno con mis compañeras y compañeros de sexto grado y organizo la escenificación de una actividad comercial"}
 {"label": "LABEL_1", "score": 0.9483233094215393, "oracion": "¿Qué recomendaciones para escribir un texto poético les daría a mis compañeras y compañeros?"}
@@ -3906,6 +3905,7 @@
 {"label": "LABEL_1", "score": 0.9716557264328003, "oracion": "Bienvenidos a cuarto grado"}
 {"label": "LABEL_1", "score": 0.9717575907707214, "oracion": "¿Qué opinas de la reacción de Fiorella Palacios frente a la situación que atraviesa?"}
 {"label": "LABEL_1", "score": 0.9718413352966309, "oracion": "Es un cangrejo ermitaño y está acostumbrado a vivir solo\"?"}
+{"label": "LABEL_1", "score": 0.9720940589904785, "oracion": "El portero, al ver al niño desconcertado y triste por fallar la respuesta, le dijo"}
 {"label": "LABEL_1", "score": 0.9721027612686157, "oracion": "Esto luego que en el 2002, el Congreso de la República, estableció a través de la Ley N° 27666, que se celebrara a los infantes el segundo domingo de abril"}
 {"label": "LABEL_1", "score": 0.9721091389656067, "oracion": "Los estudiantes de quinto grado de la Institución Educativa N.° 2576 de Huancavelica dialogan sobre lo que han investigado acerca de las principales reservas naturales y zonas protegidas del Perú"}
 {"label": "LABEL_1", "score": 0.9721376895904541, "oracion": "Marco con un visto según corresponda"}

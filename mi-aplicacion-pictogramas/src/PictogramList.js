@@ -310,7 +310,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                             return (
                                 <div key={`simple-${index}`} style={styles.column}>
                                     <h3 style={{ margin: '0' }}>{pc["palabraInfo"].texto}</h3>
-                                    {pc.palabraInfo.pos === 'VERB' && pc.palabraInfo.tag === 'VERB' && (
+                                    {((pc.palabraInfo.pos === null || pc.palabraInfo.tag === null) || (pc.palabraInfo.pos === 'VERB' && pc.palabraInfo.tag === 'VERB')) && (
                                         <div style={{ display: 'flex', flexDirection: 'column' }}>
                                             <div>
                                                 <label><input type="radio" name={`simple-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalSimplesChange(pc.key)} /> Pasado</label>
@@ -323,7 +323,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                                             </div>
                                         </div>
                                     )}
-                                    {pc.palabraInfo.pos === 'NOUN' && pc.palabraInfo.tag === 'NOUN' && (
+                                    {((pc.palabraInfo.pos === null || pc.palabraInfo.tag === null) || (pc.palabraInfo.pos === 'NOUN' && pc.palabraInfo.tag === 'NOUN')) && (
                                         <div style={{ display: 'flex', flexDirection: 'column' }}>
                                             <div>
                                                 <label><input type="radio" name={`simple-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalSimplesChange(pc.key)} /> Plural</label>
@@ -353,52 +353,6 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
                 }
             </div>
 
-            <div>
-                {palabrasCompuestas && palabrasCompuestas.length > 0 && (
-                    <>
-                        <h3 style={styles.itemStyle}>Secuencia de Pictograma Sugeridas - Compuestas</h3>
-                        <div style={styles.container}>
-                            {palabrasCompuestas.map((pc, index) => {
-                                const tienePictogramas = pc.pictogramas && pc.pictogramas.length > 0;
-                                if (tienePictogramas) {
-                                    return (
-                                        <div key={`compuesta-${index}`} style={styles.column}>
-                                            <h3 style={{ margin: '0' }}>{pc["palabraInfo"].texto}</h3>
-
-                                            <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                                <div><h3 style={{ margin: '0' }}>Tiempo Verbal</h3></div>
-                                                <div>
-                                                    <label><input type="radio" name={`compuesta-tense-${index}`} value="Pasado" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Pasado</label>
-                                                </div>
-                                                <div>
-                                                    <label><input type="radio" name={`compuesta-tense-${index}`} value="Presente" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Presente</label>
-                                                </div>
-                                                <div>
-                                                    <label><input type="radio" name={`compuesta-tense-${index}`} value="Futuro" onChange={handleTiempoVerbalCompuestosChange(pc.key)} /> Futuro</label>
-                                                </div>
-                                            </div>
-                                            <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                                <div><h3 style={{ margin: '0' }}>Numero Gramatical</h3></div>
-                                                <div>
-                                                    <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Plural" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Plural</label>
-                                                </div>
-                                                <div>
-                                                    <label><input type="radio" name={`compuesta-numeroGramatical-${index}`} value="Singular" onChange={handleNumeroGramaticalCompuestosChange(pc.key)} /> Singular</label>
-                                                </div>
-                                            </div>
-                                            {pc.pictogramas.map((pictograma, idx) => (
-                                                <Pictogram key={`compuesta-${index}-${idx}`} pictogram={pictograma} activarBotonRemover={false} tiempoVerbal={tiempoVerbalPictogramasCompuestos[pc.key]} numeroGramatical={numeroGramaticalPictogramasCompuestos[pc.key]} />
-                                            ))}
-                                        </div>
-                                    );
-                                } else {
-                                    return null; // Aquí puedes devolver null en lugar de un div vacío
-                                }
-                            })}
-                        </div>
-                    </>
-                )}
-            </div>
             <div>
                 <h3 style={styles.itemStyle}>Oración Traducida</h3>
                 <div onDragOver={handleDragOver} onDrop={handleDrop} style={styles.dropArea}>

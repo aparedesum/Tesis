@@ -13,7 +13,7 @@
 {"label": "LABEL_0", "score": 0.7899670600891113, "oracion": "1 huevo duro pelado"}
 {"label": "LABEL_0", "score": 0.7890208959579468, "oracion": "1 kilogramo de sangre de pollo"}
 {"label": "LABEL_0", "score": 0.6926320195198059, "oracion": "1 limón"}
-{"label": "LABEL_0", "score": 0.754063069820404, "oracion": "1 metro de manguerilla transparente"}
+{"label": "LABEL_0", "score": 0.5874887704849243, "oracion": "1 metro de manguerilla Cañamazo"}
 {"label": "LABEL_0", "score": 0.675432562828064, "oracion": "1 olla"}
 {"label": "LABEL_0", "score": 0.7941733002662659, "oracion": "1 par de broches pequeños"}
 {"label": "LABEL_0", "score": 0.7221447825431824, "oracion": "1 pedazo de tela"}
@@ -127,7 +127,6 @@
 {"label": "LABEL_0", "score": 0.9487653970718384, "oracion": "A través de esta forma de comunicación, desarrollamos nuestra participación activa dentro de la escuela, el hogar y la comunidad"}
 {"label": "LABEL_0", "score": 0.762919545173645, "oracion": "A través de hermosos poemas, explorarán mundos imaginarios y expresarán sentimientos e ideas"}
 {"label": "LABEL_0", "score": 0.9186935424804688, "oracion": "A través de los textos podrán imaginar, aprender y disfrutar de historias fascinantes"}
-{"label": "LABEL_0", "score": 0.9186935424804688, "oracion": "A través de los textos podrán imaginar,aprender y disfrutar de historias fascinantes"}
 {"label": "LABEL_0", "score": 0.9823341369628906, "oracion": "A uno solo que tiene muchos puestos de venta: de frutas, verduras, quesos, también de ropa, juguetes"}
 {"label": "LABEL_0", "score": 0.8665260076522827, "oracion": "A veces Katty no tiene el control de sus emociones"}
 {"label": "LABEL_0", "score": 0.9747990369796753, "oracion": "A veces yo encuentro primero y le aviso, a veces el gallinazo encuentra primero y me avisa"}
@@ -148,7 +147,6 @@
 {"label": "LABEL_0", "score": 0.8905792236328125, "oracion": "Acercamos el imán a la mezcla"}
 {"label": "LABEL_0", "score": 0.8742546439170837, "oracion": "Acercamos las diferentes sustancias al circuito eléctrico de conductividad"}
 {"label": "LABEL_0", "score": 0.8507205843925476, "oracion": "Acomoda el espacio para empezar a trabajar"}
-{"label": "LABEL_0", "score": 0.8939791917800903, "oracion": "Acomoda el espacio paraempezar a trabajar"}
 {"label": "LABEL_0", "score": 0.5722411870956421, "oracion": "Acomodo y pego el algodón encima de los pulmones"}
 {"label": "LABEL_0", "score": 0.9376612305641174, "oracion": "Acompaña tu respuesta con un dibujo"}
 {"label": "LABEL_0", "score": 0.9804962277412415, "oracion": "Acompañamos nuestra presentación con gestos adecuados"}
@@ -412,7 +410,7 @@
 {"label": "LABEL_0", "score": 0.7880337238311768, "oracion": "Al ecosistema en donde crecen los aguajes se le conoce como aguajal"}
 {"label": "LABEL_0", "score": 0.8394465446472168, "oracion": "Al elaborar el afiche"}
 {"label": "LABEL_0", "score": 0.9460529685020447, "oracion": "Al elaborar una ficha informativa, pones en práctica tu capacidad de síntesis porque haces un resumen de las ideas principales y las escribes con tus propias palabras"}
-{"label": "LABEL_0", "score": 0.9485799074172974, "oracion": "Al emplear el lenguaje literario, podemos expresar nuestros sentimientos sobre la persona o animal de quien escribimos usando figuras literarias como las comparaciones: \"ojos como dos luceros¨, \"alta como un árbol¨"}
+{"label": "LABEL_0", "score": 0.9827080368995667, "oracion": "Al emplear el lenguaje literario, podemos expresar nuestros sentimientos sobre la persona o animal de quien escribimos usando figuras literarias como las comparaciones: \"ojos como dos luceros\", \"alta como un árbol\""}
 {"label": "LABEL_0", "score": 0.5625610947608948, "oracion": "Al escribir"}
 {"label": "LABEL_0", "score": 0.8788287043571472, "oracion": "Al escribir el tríptico, utiliza el verbo"}
 {"label": "LABEL_0", "score": 0.8202090859413147, "oracion": "Al escribir la historieta tomé en cuenta todo lo que planifiqué"}
@@ -1102,7 +1100,6 @@
 {"label": "LABEL_0", "score": 0.5891802906990051, "oracion": "Causar desorden"}
 {"label": "LABEL_0", "score": 0.5222623348236084, "oracion": "Causas"}
 {"label": "LABEL_0", "score": 0.6594744920730591, "oracion": "Caída la tarde, Susana y su mamá caminan por la playa"}
-{"label": "LABEL_0", "score": 0.5414465665817261, "oracion": "Cañamazo"}
 {"label": "LABEL_0", "score": 0.9692087173461914, "oracion": "Ceci: En Comunicación podemos hacer afiches para educar a todos acerca de no botar su basura o de llevarla en los bolsillos hasta encontrar un tacho"}
 {"label": "LABEL_0", "score": 0.6519879102706909, "oracion": "Celular"}
 {"label": "LABEL_0", "score": 0.6645026206970215, "oracion": "Cementosos"}
@@ -1167,7 +1164,6 @@
 {"label": "LABEL_0", "score": 0.5269924998283386, "oracion": "Clima"}
 {"label": "LABEL_0", "score": 0.9060922861099243, "oracion": "Clima: Cálido durante todo el año"}
 {"label": "LABEL_0", "score": 0.6625745892524719, "oracion": "Clorofila"}
-{"label": "LABEL_0", "score": 0.6123684644699097, "oracion": "Cnidarios"}
 {"label": "LABEL_0", "score": 0.9922593235969543, "oracion": "Cocinar la corteza de la caoba para hacer la tinta y preparar el pincel con rayos de paraguas (se aplasta el cañito con un martillo)"}
 {"label": "LABEL_0", "score": 0.9618218541145325, "oracion": "Coge una manzana de su chacra la lava y se dispone a comerla"}
 {"label": "LABEL_0", "score": 0.7383649945259094, "oracion": "Cogemos el cartón y lo arreglamos a nuestro gusto"}
@@ -1898,7 +1894,6 @@
 {"label": "LABEL_0", "score": 0.5698118805885315, "oracion": "Cuando llegó a casa, le dio el regalo a Qusi y ella pudo ver lo bonita que era"}
 {"label": "LABEL_0", "score": 0.8953399062156677, "oracion": "Cuando llegó el momento de compartir nuestra propuesta en el aula, la presentamos así"}
 {"label": "LABEL_0", "score": 0.5700175762176514, "oracion": "Cuando llegó el momento de partir, observé que las personas dejaban bolsas de plástico con desperdicios en cualquier lugar de la laguna"}
-{"label": "LABEL_0", "score": 0.9589353203773499, "oracion": "Cuando llegó la hora, las niñas y los niños de Monte Hermoso se dirigieron hacia el río y subieron en la barca con todas las cosas para la fiesta"}
 {"label": "LABEL_0", "score": 0.9284321069717407, "oracion": "Cuando lo encontraron, todas se llevaron una gran sorpresa, vieron al gallinazo y al cóndor comiendo juntos"}
 {"label": "LABEL_0", "score": 0.9500417113304138, "oracion": "Cuando los demás integrantes escuchen una palabra o un enunciado que no entiendan, deberán levantar la mano y la compañera o el compañero que lee en voz alta dejará de leer"}
 {"label": "LABEL_0", "score": 0.6837061047554016, "oracion": "Cuando los encuentra, se lleva el alma de la madre o del niño"}
@@ -4451,7 +4446,6 @@
 {"label": "LABEL_0", "score": 0.7428967952728271, "oracion": "Escribe, con tus propias palabras, el significado de los siguientes términos"}
 {"label": "LABEL_0", "score": 0.8210470080375671, "oracion": "Escribe, en los espacios correspondientes, el tema del texto y el número del párrafo que contiene la información señalada"}
 {"label": "LABEL_0", "score": 0.9332802891731262, "oracion": "Escribe, en los recuadros, las palabras que usa la niña para expresar cómo son algunos elementos de su comunidad"}
-{"label": "LABEL_0", "score": 0.786963701248169, "oracion": "Escribimos"}
 {"label": "LABEL_0", "score": 0.6836742162704468, "oracion": "Escribimos acerca de nuestros derechos para explicarlos"}
 {"label": "LABEL_0", "score": 0.9636861085891724, "oracion": "Escribimos al lado de cada frase el tipo de energía que se manifiesta"}
 {"label": "LABEL_0", "score": 0.8795047998428345, "oracion": "Escribimos al lado de cada imagen el cambio o efecto que causan las fuerzas"}
@@ -4568,7 +4562,6 @@
 {"label": "LABEL_0", "score": 0.9508355855941772, "oracion": "Escribimos un afiche sobre el cuidado ambiental"}
 {"label": "LABEL_0", "score": 0.8797047138214111, "oracion": "Escribimos un afiche sobre el cuidado de nuestro entorno"}
 {"label": "LABEL_0", "score": 0.9615565538406372, "oracion": "Escribimos un borrador de nuestra fábula, teniendo en cuenta la estructura, el orden de las ideas y el uso de adjetivos para caracterizar a los personajes"}
-{"label": "LABEL_0", "score": 0.9740395545959473, "oracion": "Escribimos un guion teatral para representar una leyenda"}
 {"label": "LABEL_0", "score": 0.9740395545959473, "oracion": "Escribimos un guión teatral para representar una leyenda"}
 {"label": "LABEL_0", "score": 0.7484156489372253, "oracion": "Escribimos un poema para expresarnos"}
 {"label": "LABEL_0", "score": 0.910465657711029, "oracion": "Escribimos un poema sobre el universo"}
@@ -4837,7 +4830,6 @@
 {"label": "LABEL_0", "score": 0.6302282214164734, "oracion": "Escuché atentamente y en silencio las declamaciones"}
 {"label": "LABEL_0", "score": 0.983730673789978, "oracion": "Escuché atentamente y observé las diferentes representaciones teatrales"}
 {"label": "LABEL_0", "score": 0.9057954549789429, "oracion": "Escuché atentamente y observé toda la representación teatral"}
-{"label": "LABEL_0", "score": 0.9239369034767151, "oracion": "Escuché con atención todas las exposiciones"}
 {"label": "LABEL_0", "score": 0.5098638534545898, "oracion": "Escuché con mucha atención a mis compañeras y compañeros"}
 {"label": "LABEL_0", "score": 0.970607578754425, "oracion": "Escuché las opiniones"}
 {"label": "LABEL_0", "score": 0.7573570609092712, "oracion": "Escuché mirando al narrador del cuento"}
@@ -5464,7 +5456,6 @@
 {"label": "LABEL_0", "score": 0.8228425979614258, "oracion": "Extraje el mensaje principal que transmite el cuento"}
 {"label": "LABEL_0", "score": 0.8321273326873779, "oracion": "Facilita el desplazamiento de un objeto, ya que se usa menos fuerza que cuando se carga directamente"}
 {"label": "LABEL_0", "score": 0.8212136626243591, "oracion": "Faltan tachos de basura y están ausentes las normas para su ingreso"}
-{"label": "LABEL_0", "score": 0.8597149848937988, "oracion": "¿Qué podemos hacer para cuidarla?"}
 {"label": "LABEL_0", "score": 0.6741565465927124, "oracion": "Familia: hílidos"}
 {"label": "LABEL_0", "score": 0.6588242053985596, "oracion": "Fauna"}
 {"label": "LABEL_0", "score": 0.6847110390663147, "oracion": "Fecha de fundación"}
@@ -5636,7 +5627,6 @@
 {"label": "LABEL_0", "score": 0.644442617893219, "oracion": "Gabriela"}
 {"label": "LABEL_0", "score": 0.7650532722473145, "oracion": "Gana quien más aciertos consigue"}
 {"label": "LABEL_0", "score": 0.9447596669197083, "oracion": "Gané una competencia que organizó la Municipalidad y desde ahí comencé a soñar"}
-{"label": "LABEL_0", "score": 0.9447596669197083, "oracion": "Gané una competencia que organizó la municipalidad y desde ahí comencé a soñar"}
 {"label": "LABEL_0", "score": 0.5662499070167542, "oracion": "Garras: largas, curvas y afiladas"}
 {"label": "LABEL_0", "score": 0.5371426939964294, "oracion": "Garras: similares a las de los felinos, adaptación que les permite aferrarse a la presa cuando esta trata de escapar"}
 {"label": "LABEL_0", "score": 0.6925973892211914, "oracion": "Gastos de alimentación"}
@@ -5664,7 +5654,6 @@
 {"label": "LABEL_0", "score": 0.966350793838501, "oracion": "Graben la entrevista o tomen nota para compartirla en clase"}
 {"label": "LABEL_0", "score": 0.7526055574417114, "oracion": "Tengan en cuenta lo siguiente"}
 {"label": "LABEL_0", "score": 0.7478174567222595, "oracion": "Gracias"}
-{"label": "LABEL_0", "score": 0.821422278881073, "oracion": "Después de un desayuno reparador, es tiempo de iniciar el recorrido"}
 {"label": "LABEL_0", "score": 0.6019935607910156, "oracion": "Gracias a Dios, vimos nacer el Sol"}
 {"label": "LABEL_0", "score": 0.9950767159461975, "oracion": "Gracias a ella, las personas siembran y cosechan diferentes alimentos como las verduras o las frutas"}
 {"label": "LABEL_0", "score": 0.9104440212249756, "oracion": "Gracias a eso, ella está conociendo aspectos muy importantes de nuestro país"}
@@ -5876,7 +5865,6 @@
 {"label": "LABEL_0", "score": 0.643258273601532, "oracion": "HÁbitat natural"}
 {"label": "LABEL_0", "score": 0.5839046835899353, "oracion": "Hábitats terrestres"}
 {"label": "LABEL_0", "score": 0.6979381442070007, "oracion": "INFOGRAFÍAS"}
-{"label": "LABEL_0", "score": 0.8759629726409912, "oracion": "INGREDIENTES"}
 {"label": "LABEL_0", "score": 0.6282457709312439, "oracion": "INSTINTO MATERNAL"}
 {"label": "LABEL_0", "score": 0.6404848098754883, "oracion": "ISLA DE LOS PÁJAROS EN PUERTO PIZARRO"}
 {"label": "LABEL_0", "score": 0.5904005169868469, "oracion": "Ica"}
@@ -6641,7 +6629,6 @@
 {"label": "LABEL_0", "score": 0.9960283041000366, "oracion": "La primera razón es que el cultivo de camu camu contribuye con nuestra economía, porque nuestros agricultores pueden llevarlo a distintos mercados del país"}
 {"label": "LABEL_0", "score": 0.9193931221961975, "oracion": "La primera se inventó en Europa y fue para el rey Felipe II de España, pero el modelo que hoy conocemos fue creado por el ingeniero Harry Jennings, en 1932, para un amigo suyo"}
 {"label": "LABEL_0", "score": 0.8703704476356506, "oracion": "La principal fuente de alimento de los osos son las focas y los peces que logran cazar durante el invierno, cuando su comida es abundante"}
-{"label": "LABEL_0", "score": 0.7792150974273682, "oracion": "La procesión"}
 {"label": "LABEL_0", "score": 0.8320935368537903, "oracion": "La producción es básicamente de leche, de la cual se obtienen diversos productos lácteos."}
 {"label": "LABEL_0", "score": 0.9372994303703308, "oracion": "¿Cómo es el comercio que realizan en nuestras comunidades?"}
 {"label": "LABEL_0", "score": 0.9936916828155518, "oracion": "La profesora Justina nos felicitó por la participación y el aporte, y la clase decidió que todas las propuestas se presentaran con normas y tareas"}
@@ -7124,7 +7111,6 @@
 {"label": "LABEL_0", "score": 0.9728577733039856, "oracion": "Lee nuevamente el párrafo donde se encuentra esa palabra y responde la pregunta"}
 {"label": "LABEL_0", "score": 0.9592043161392212, "oracion": "Lee nuevamente el texto con una compañera o un compañero y realicen lo siguiente"}
 {"label": "LABEL_0", "score": 0.9746698141098022, "oracion": "Lee nuevamente el texto y ubica el eslogan."}
-{"label": "LABEL_0", "score": 0.8312729597091675, "oracion": "Luego, responde"}
 {"label": "LABEL_0", "score": 0.7132249474525452, "oracion": "Lee nuevamente esta parte del texto"}
 {"label": "LABEL_0", "score": 0.990587592124939, "oracion": "Lee nuevamente la infografía y responde las preguntas"}
 {"label": "LABEL_0", "score": 0.587528645992279, "oracion": "Lee nuevamente lo que expuso Luis"}
@@ -7411,7 +7397,6 @@
 {"label": "LABEL_0", "score": 0.6077245473861694, "oracion": "Leo nuevamente estos párrafos del texto \"El derecho a nuestra diversión\""}
 {"label": "LABEL_0", "score": 0.6674087643623352, "oracion": "Leo todo el texto en silencio"}
 {"label": "LABEL_0", "score": 0.8309192657470703, "oracion": "Leo una vez más los textos y subrayo las palabras clave en cada uno"}
-{"label": "LABEL_0", "score": 0.9647603631019592, "oracion": "Luego, respondo las preguntas"}
 {"label": "LABEL_0", "score": 0.9410477876663208, "oracion": "Leo y respondo las preguntas"}
 {"label": "LABEL_0", "score": 0.8286712169647217, "oracion": "Les coloco números del 1 al 9"}
 {"label": "LABEL_0", "score": 0.6331562995910645, "oracion": "Les comento acerca de las células reproductoras de nuestro cuerpo y la función que cumplen en el inicio de la vida"}
@@ -7636,7 +7621,6 @@
 {"label": "LABEL_0", "score": 0.8144989609718323, "oracion": "Los demás serán el público"}
 {"label": "LABEL_0", "score": 0.8001642227172852, "oracion": "Los derechos sociales surgen con la Revolución Industrial"}
 {"label": "LABEL_0", "score": 0.9401499032974243, "oracion": "Los derivados de la leche son llamados productos lácteos, los cuales son muy importantes para la alimentación por sus propiedades nutritivas"}
-{"label": "LABEL_0", "score": 0.9401499032974243, "oracion": "Los derivados de la leche son llamados productos lácteos,los cuales son muy importantes para la alimentación por sus propiedades nutritivas"}
 {"label": "LABEL_0", "score": 0.7752028703689575, "oracion": "Los describimos"}
 {"label": "LABEL_0", "score": 0.5374290943145752, "oracion": "Los describo"}
 {"label": "LABEL_0", "score": 0.8926284313201904, "oracion": "Los devotos, sorprendidos, hicieron una copia de la imagen en un lienzo y salieron en procesión con ella; dando inicio así a una gran tradición que hasta ahora existe en el Perú y en el mundo entero"}
@@ -8370,7 +8354,6 @@
 {"label": "LABEL_0", "score": 0.5329673290252686, "oracion": "Me cazan por mi caparazón"}
 {"label": "LABEL_0", "score": 0.8420614004135132, "oracion": "Me conocen también como conejo de cola larga"}
 {"label": "LABEL_0", "score": 0.6892741322517395, "oracion": "Me conocen también como conejo de cola larga."}
-{"label": "LABEL_0", "score": 0.8941251635551453, "oracion": "Vivo en las serranías del Perú, en las zonas rocosas"}
 {"label": "LABEL_0", "score": 0.9106108546257019, "oracion": "Me conocen también como ukuku, ukumari e isnachi"}
 {"label": "LABEL_0", "score": 0.948901355266571, "oracion": "Me conocen también con el nombre de carachupa"}
 {"label": "LABEL_0", "score": 0.9636169075965881, "oracion": "Me conocen también con el nombre de kuntur"}
@@ -9065,7 +9048,6 @@
 {"label": "LABEL_0", "score": 0.984228253364563, "oracion": "Nuestro planeta Tierra está siendo contaminado con diferentes agentes; por ejemplo, la basura que se tira en el suelo y en el agua"}
 {"label": "LABEL_0", "score": 0.7690901756286621, "oracion": "Nuestro planeta nos pide tomar conciencia sobre el uso de los recursos que nos proporciona"}
 {"label": "LABEL_0", "score": 0.7399954795837402, "oracion": "Nuestro recorrido continúa"}
-{"label": "LABEL_0", "score": 0.737212061882019, "oracion": "Nuestro reto será"}
 {"label": "LABEL_0", "score": 0.8680734634399414, "oracion": "Nuestro tema"}
 {"label": "LABEL_0", "score": 0.9894128441810608, "oracion": "Nuestros nidos son muy característicos porque son colgantes"}
 {"label": "LABEL_0", "score": 0.9943095445632935, "oracion": "Nuestros productos se consumen en Huaraz y ya están llegando a Lima"}
@@ -9499,7 +9481,6 @@
 {"label": "LABEL_0", "score": 0.6464728116989136, "oracion": "PARTICIPANTES"}
 {"label": "LABEL_0", "score": 0.6548110246658325, "oracion": "PATAS DELANTERAS"}
 {"label": "LABEL_0", "score": 0.6728232502937317, "oracion": "PIEL HÚMEDA"}
-{"label": "LABEL_0", "score": 0.7852240204811096, "oracion": "PRIMERA FERIA ESCOLAR DE ARTESANÍAS"}
 {"label": "LABEL_0", "score": 0.7465465664863586, "oracion": "PRODUCTORES DE GANADO OVINO"}
 {"label": "LABEL_0", "score": 0.5412716269493103, "oracion": "PUBLICACIÓN"}
 {"label": "LABEL_0", "score": 0.6365250945091248, "oracion": "Pabilo"}
@@ -9650,7 +9631,6 @@
 {"label": "LABEL_0", "score": 0.7280373573303223, "oracion": "Para escribir el informe de investigación, necesitamos"}
 {"label": "LABEL_0", "score": 0.6512006521224976, "oracion": "Para escribir mi texto expositivo, elegí el siguiente derecho"}
 {"label": "LABEL_0", "score": 0.9598317742347717, "oracion": "Para escribir tu ficha informativa, numera los pasos que se deben seguir para elaborarla"}
-{"label": "LABEL_0", "score": 0.9207327365875244, "oracion": "Luego responde oralmente las preguntas del esquema"}
 {"label": "LABEL_0", "score": 0.8264194130897522, "oracion": "Para escribir un poema, podemos elegir diversos temas: la naturaleza, la institución educativa, la familia, una mascota, entre otros"}
 {"label": "LABEL_0", "score": 0.993097722530365, "oracion": "Para eso, buscamos información en la biblioteca del aula o preguntamos a personas de la comunidad sobre el tema guiándonos de la siguiente tabla"}
 {"label": "LABEL_0", "score": 0.834272027015686, "oracion": "Para eso, elaboraré una infografía"}
@@ -9954,7 +9934,6 @@
 {"label": "LABEL_0", "score": 0.7568033337593079, "oracion": "Personajes: Principales"}
 {"label": "LABEL_0", "score": 0.7821548581123352, "oracion": "Persuadimos con nuestras ideas"}
 {"label": "LABEL_0", "score": 0.6327795386314392, "oracion": "Persuadimos y tratamos de convencer según el rol que nos corresponde representar."}
-{"label": "LABEL_0", "score": 0.959308922290802, "oracion": "Respondemos oralmente las siguientes preguntas"}
 {"label": "LABEL_0", "score": 0.9694806933403015, "oracion": "Persuadir y hacer reflexionar sobre hábitos o costumbres"}
 {"label": "LABEL_0", "score": 0.8643258213996887, "oracion": "Perteneciente a la familia Fringilidae, estas aves difieren en su coloración según el sexo"}
 {"label": "LABEL_0", "score": 0.6692135334014893, "oracion": "Pesca artesanal"}
@@ -10070,7 +10049,6 @@
 {"label": "LABEL_0", "score": 0.6013144850730896, "oracion": "Pinta los recuadros que señalen qué lograste al leer la descripción de Daniela"}
 {"label": "LABEL_0", "score": 0.8829752206802368, "oracion": "Pinta qué actividad podrían organizar las niñas y los niños para dar a conocer sus poemas"}
 {"label": "LABEL_0", "score": 0.5759522318840027, "oracion": "Pinta"}
-{"label": "LABEL_0", "score": 0.7335246205329895, "oracion": "¿Cuál es el propósito del texto que has leído?"}
 {"label": "LABEL_0", "score": 0.9583753943443298, "oracion": "Pintamos cada círculo como si fueran los planetas"}
 {"label": "LABEL_0", "score": 0.9833282232284546, "oracion": "Pintamos el cuadro que responde la pregunta"}
 {"label": "LABEL_0", "score": 0.8362177014350891, "oracion": "Pintamos la Tierra y el Sol"}
@@ -12522,7 +12500,6 @@
 {"label": "LABEL_0", "score": 0.9270719885826111, "oracion": "También vamos a utilizar los materiales del kit de ciencias"}
 {"label": "LABEL_0", "score": 0.9891069531440735, "oracion": "También veremos cómo preparan la tierra para sembrar la papa"}
 {"label": "LABEL_0", "score": 0.984704852104187, "oracion": "También, buscarán en libros de la biblioteca e Internet"}
-{"label": "LABEL_0", "score": 0.984704852104187, "oracion": "También, buscarán en libros de la biblioteca e internet"}
 {"label": "LABEL_0", "score": 0.9815133810043335, "oracion": "También, conocerán palabras nuevas, leerán con y para los demás, e intercambiarán ideas y opiniones"}
 {"label": "LABEL_0", "score": 0.9935814142227173, "oracion": "También, la niña les enseñó a cultivar la yuca a las personas"}
 {"label": "LABEL_0", "score": 0.9587449431419373, "oracion": "También, podemos hacer comparaciones"}
@@ -12590,7 +12567,6 @@
 {"label": "LABEL_0", "score": 0.8505885601043701, "oracion": "Tener un nombre es uno de los derechos de las personas"}
 {"label": "LABEL_0", "score": 0.9233332276344299, "oracion": "Tener una buena alimentación es una preocupación que cada día se hace más notoria debido a los índices de anemia que se están elevando en algunas comunidades del país"}
 {"label": "LABEL_0", "score": 0.8439059257507324, "oracion": "Tengan en cuenta las siguientes indicaciones para participar hablando o escuchando"}
-{"label": "LABEL_0", "score": 0.7526055574417114, "oracion": "Tengan en cuenta lo siguiente"}
 {"label": "LABEL_0", "score": 0.7365259528160095, "oracion": "Tengo en cuenta las siguientes indicaciones"}
 {"label": "LABEL_0", "score": 0.8105782866477966, "oracion": "Tengo la cabeza alargada y el cabello negro; ojos marrones claros y vivaces"}
 {"label": "LABEL_0", "score": 0.9455381035804749, "oracion": "Tengo muchas ideas y quiero desarrollarlas"}
@@ -12666,7 +12642,6 @@
 {"label": "LABEL_0", "score": 0.7549586296081543, "oracion": "Tienen agua emulsionada, poliéster y fibras de vidrio"}
 {"label": "LABEL_0", "score": 0.786379337310791, "oracion": "Tienen exoesqueleto y su cuerpo está dividido en segmentos"}
 {"label": "LABEL_0", "score": 0.8685415387153625, "oracion": "Tienen grandes escamas y boca angosta, y prefieren las aguas tranquilas"}
-{"label": "LABEL_0", "score": 0.9624096751213074, "oracion": "Su carne es de buen sabor y suave textura"}
 {"label": "LABEL_0", "score": 0.9315394759178162, "oracion": "Tienen grandes extensiones, como las selvas, las praderas y los océanos"}
 {"label": "LABEL_0", "score": 0.884719729423523, "oracion": "Tienen información del tema"}
 {"label": "LABEL_0", "score": 0.6693019866943359, "oracion": "Tienen un inicio un nudo y un desenlace"}
@@ -13073,7 +13048,6 @@
 {"label": "LABEL_0", "score": 0.9790363907814026, "oracion": "Usamos una cuchara para no hincarnos"}
 {"label": "LABEL_0", "score": 0.9783037304878235, "oracion": "Usamos una entonación apropiada"}
 {"label": "LABEL_0", "score": 0.5385889410972595, "oracion": "Usar con respeto la costa"}
-{"label": "LABEL_0", "score": 0.7951352596282959, "oracion": "Usar expresiones como \"a la derecha\", \"delante de \", \"en la parte de arriba\", \"cerca de\", entre otras, para ubicar con precisión el lugar de los elementos"}
 {"label": "LABEL_0", "score": 0.7951352596282959, "oracion": "Usar expresiones como \"a la derecha\", \"delante de\", \"en la parte de arriba\", \"cerca de\", entre otras, para ubicar con precisión el lugar de los elementos"}
 {"label": "LABEL_0", "score": 0.9304080009460449, "oracion": "Usar expresiones como a la derecha, delante de, en la parte de arriba, cerca de, entre otras, para ubicar con precisión el lugar de los elementos"}
 {"label": "LABEL_0", "score": 0.9796326160430908, "oracion": "Usar gestos y movimientos adecuados para enfatizar las ideas"}
@@ -13309,8 +13283,7 @@
 {"label": "LABEL_0", "score": 0.9548149704933167, "oracion": "Visual: Organiza los textos, las imágenes, los colores, las formas y los tamaños para facilitar una mejor comprensión"}
 {"label": "LABEL_0", "score": 0.7181652784347534, "oracion": "Vitamina"}
 {"label": "LABEL_0", "score": 0.7300547361373901, "oracion": "Vive a 4000 metros de profundidad del mar, por lo que es muy difícil verlo y capturarlo vivo"}
-{"label": "LABEL_0", "score": 0.7488752007484436, "oracion": "Vive en la región amazónica, mide de 1,7 a 2,5 metros de largo y pesa hasta 300 kg"}
-{"label": "LABEL_0", "score": 0.9630429744720459, "oracion": "Viven a orillas de los ríos"}
+{"label": "LABEL_0", "score": 0.9432522058486938, "oracion": "Vive en la región amazónica, mide de 1,7 a 2,5 metros de largo y pesa hasta 300 kgA través de los textos podrán imaginar,aprender y disfrutar de historias fascinantes"}
 {"label": "LABEL_0", "score": 0.9678682684898376, "oracion": "Viven a orillas de los ríos Alto y Bajo Urubamba, en Madre de Dios"}
 {"label": "LABEL_0", "score": 0.8983222842216492, "oracion": "Viven en Sudamérica"}
 {"label": "LABEL_0", "score": 0.7875609397888184, "oracion": "Vivimos el arte y la creatividad de nuestros pueblos"}
@@ -13438,7 +13411,6 @@
 {"label": "LABEL_0", "score": 0.6394782662391663, "oracion": "Yo soy el oso de anteojos"}
 {"label": "LABEL_0", "score": 0.9028964638710022, "oracion": "Yo soy muy rápido en las carreras"}
 {"label": "LABEL_0", "score": 0.8969240784645081, "oracion": "Yo soy quechua y me llamo Vicente"}
-{"label": "LABEL_0", "score": 0.9547374844551086, "oracion": "En mi pueblo se dice que las mujeres jóvenes no deben acercarse al arcoíris o k\"uychi, porque no podrán tener hijos"}
 {"label": "LABEL_0", "score": 0.9316980838775635, "oracion": "Yo sí soy muy macho –grita uno–"}
 {"label": "LABEL_0", "score": 0.8362755179405212, "oracion": "Yo también he soñado lo mismo"}
 {"label": "LABEL_0", "score": 0.9462063908576965, "oracion": "Yo también quiero aprender jugando y declamando"}
@@ -13468,8 +13440,6 @@
 {"label": "LABEL_0", "score": 0.7225874066352844, "oracion": "además de despertarlos, registran entre nuestras páginas como si fuéramos ladrones"}
 {"label": "LABEL_0", "score": 0.8206399083137512, "oracion": "además, los costos disminuyen, ya que se eliminan muchas partes mecánicas y móviles que se usan en el diseño tradicional"}
 {"label": "LABEL_0", "score": 0.5940402746200562, "oracion": "adivinanza"}
-{"label": "LABEL_0", "score": 0.8767709732055664, "oracion": "agua con azúcar"}
-{"label": "LABEL_0", "score": 0.8203094005584717, "oracion": "agua con sal"}
 {"label": "LABEL_0", "score": 0.8170936107635498, "oracion": "aguijón en la piel"}
 {"label": "LABEL_0", "score": 0.7389504313468933, "oracion": "aire espirado"}
 {"label": "LABEL_0", "score": 0.6859797239303589, "oracion": "aire inspirado"}
@@ -13525,7 +13495,6 @@
 {"label": "LABEL_0", "score": 0.673023521900177, "oracion": "chinche mariposa"}
 {"label": "LABEL_0", "score": 0.7061017751693726, "oracion": "choclo"}
 {"label": "LABEL_0", "score": 0.68641197681427, "oracion": "ciempiés"}
-{"label": "LABEL_0", "score": 0.6788920760154724, "oracion": "cinta adhesiva"}
 {"label": "LABEL_0", "score": 0.6141353249549866, "oracion": "cinta adhesiva o masking tape"}
 {"label": "LABEL_0", "score": 0.7416710257530212, "oracion": "cintas, grecas o telas de colores"}
 {"label": "LABEL_0", "score": 0.6667574644088745, "oracion": "cinética"}
@@ -13557,7 +13526,6 @@
 {"label": "LABEL_0", "score": 0.5512472987174988, "oracion": "delgado"}
 {"label": "LABEL_0", "score": 0.6510984301567078, "oracion": "diafragma"}
 {"label": "LABEL_0", "score": 0.9151204228401184, "oracion": "dialogarán y se expresarán identificando la problemática y planteando posibles soluciones, y aplicarán estrategias de indagación para construir nuevos conocimientos y resolver situaciones"}
-{"label": "LABEL_0", "score": 0.7590015530586243, "oracion": "dibujo"}
 {"label": "LABEL_0", "score": 0.6062564253807068, "oracion": "disminución de temperatura"}
 {"label": "LABEL_0", "score": 0.6463876366615295, "oracion": "dióxido de carbono"}
 {"label": "LABEL_0", "score": 0.5613629221916199, "oracion": "domingo"}
@@ -13627,7 +13595,6 @@
 {"label": "LABEL_0", "score": 0.7107389569282532, "oracion": "intestino delgado"}
 {"label": "LABEL_0", "score": 0.6415610313415527, "oracion": "intestino grueso"}
 {"label": "LABEL_0", "score": 0.6247445344924927, "oracion": "invierno"}
-{"label": "LABEL_0", "score": 0.501417338848114, "oracion": "jaguar"}
 {"label": "LABEL_0", "score": 0.7714881896972656, "oracion": "juego de tumbalatas"}
 {"label": "LABEL_0", "score": 0.6644955277442932, "oracion": "jueves"}
 {"label": "LABEL_0", "score": 0.6285457015037537, "oracion": "juguete"}
@@ -13659,7 +13626,6 @@
 {"label": "LABEL_0", "score": 0.6266438364982605, "oracion": "los cambios de estado de la materia"}
 {"label": "LABEL_0", "score": 0.6003916263580322, "oracion": "los derechos del niño"}
 {"label": "LABEL_0", "score": 0.8933857679367065, "oracion": "luego, evalúalo tú"}
-{"label": "LABEL_0", "score": 0.9657574892044067, "oracion": "luego, respondan las siguientes preguntas"}
 {"label": "LABEL_0", "score": 0.6378423571586609, "oracion": "lugar de encuentro de nacionalidades"}
 {"label": "LABEL_0", "score": 0.6675121784210205, "oracion": "lunes"}
 {"label": "LABEL_0", "score": 0.6936334371566772, "oracion": "lupas"}
@@ -13675,7 +13641,6 @@
 {"label": "LABEL_0", "score": 0.5600547194480896, "oracion": "medidas para la mejora de todos los aspectos de la higiene ambiental"}
 {"label": "LABEL_0", "score": 0.5982358455657959, "oracion": "medusa"}
 {"label": "LABEL_0", "score": 0.63162761926651, "oracion": "membrana"}
-{"label": "LABEL_0", "score": 0.6696983575820923, "oracion": "menta"}
 {"label": "LABEL_0", "score": 0.6516085863113403, "oracion": "meseta"}
 {"label": "LABEL_0", "score": 0.982583224773407, "oracion": "mi nariz es pequeña y tiene algunas pecas"}
 {"label": "LABEL_0", "score": 0.9945929646492004, "oracion": "mi nariz es pequeña y tiene algunas pecas; mis labios son delgados y mi boca es pequeña"}
@@ -13691,7 +13656,6 @@
 {"label": "LABEL_0", "score": 0.6446962952613831, "oracion": "neblina"}
 {"label": "LABEL_0", "score": 0.6431759595870972, "oracion": "negro"}
 {"label": "LABEL_0", "score": 0.6475978493690491, "oracion": "noche"}
-{"label": "LABEL_0", "score": 0.6730582118034363, "oracion": "nombre"}
 {"label": "LABEL_0", "score": 0.8354500532150269, "oracion": "nombre de la escuela"}
 {"label": "LABEL_0", "score": 0.9692704081535339, "oracion": "nuestra recitación? Respondemos oralmente"}
 {"label": "LABEL_0", "score": 0.7587672472000122, "oracion": "nuestro departamento?"}
@@ -13733,7 +13697,6 @@
 {"label": "LABEL_0", "score": 0.7959785461425781, "oracion": "plumones de colores o tintes naturales"}
 {"label": "LABEL_0", "score": 0.6877011060714722, "oracion": "plumones o tintes"}
 {"label": "LABEL_0", "score": 0.6791571378707886, "oracion": "plumones o tintes naturales"}
-{"label": "LABEL_0", "score": 0.6973974108695984, "oracion": "plástico"}
 {"label": "LABEL_0", "score": 0.6519947648048401, "oracion": "polea"}
 {"label": "LABEL_0", "score": 0.5881628394126892, "oracion": "polo sur"}
 {"label": "LABEL_0", "score": 0.5662840008735657, "oracion": "por el autor con números ordinales"}
@@ -13752,7 +13715,6 @@
 {"label": "LABEL_0", "score": 0.6477279663085938, "oracion": "receta"}
 {"label": "LABEL_0", "score": 0.7043985724449158, "oracion": "reciclados"}
 {"label": "LABEL_0", "score": 0.9701407551765442, "oracion": "recursos que nos brinda la naturaleza; tendremos en cuenta, también, los elementos propios de este tipo de texto, así como los diversos recursos que se emplean en su elaboración"}
-{"label": "LABEL_0", "score": 0.5458083152770996, "oracion": "regla"}
 {"label": "LABEL_0", "score": 0.6051235795021057, "oracion": "regla o cinta métrica"}
 {"label": "LABEL_0", "score": 0.651587724685669, "oracion": "reguladores"}
 {"label": "LABEL_0", "score": 0.6576429605484009, "oracion": "reptiles"}
@@ -13790,7 +13752,6 @@
 {"label": "LABEL_0", "score": 0.9458484649658203, "oracion": "tengo la piel blanca y mis brazos y piernas son largos"}
 {"label": "LABEL_0", "score": 0.6630279421806335, "oracion": "textil"}
 {"label": "LABEL_0", "score": 0.6905955672264099, "oracion": "tijera"}
-{"label": "LABEL_0", "score": 0.6789290904998779, "oracion": "tijeras"}
 {"label": "LABEL_0", "score": 0.8689086437225342, "oracion": "tinte blanco"}
 {"label": "LABEL_0", "score": 0.8189290761947632, "oracion": "tinte de colores"}
 {"label": "LABEL_0", "score": 0.7536327242851257, "oracion": "tiras de cinta gruesa"}
@@ -14200,7 +14161,6 @@
 {"label": "LABEL_0", "score": 0.9760019779205322, "oracion": "¿Con lo que ganan se pueden pagar todos los gastos?"}
 {"label": "LABEL_0", "score": 0.983382523059845, "oracion": "¿Con los ingresos se pueden pagar todos los gastos?"}
 {"label": "LABEL_0", "score": 0.9017938375473022, "oracion": "¿Con minúscula o con mayúscula?"}
-{"label": "LABEL_0", "score": 0.8865036368370056, "oracion": "¿Con que otro producto lo podemos comparar?"}
 {"label": "LABEL_0", "score": 0.7939043641090393, "oracion": "¿Con quién o quiénes vas a compartirla?"}
 {"label": "LABEL_0", "score": 0.8096219301223755, "oracion": "¿Con quién vamos a debatir?"}
 {"label": "LABEL_0", "score": 0.8091536164283752, "oracion": "¿Con quiénes compartirán sus aportes?"}
@@ -17580,20 +17540,14 @@
 {"label": "LABEL_0", "score": 0.8096747994422913, "oracion": "¿a qué tipo de ganado pertenecen?"}
 {"label": "LABEL_0", "score": 0.8692755103111267, "oracion": "¿con cuáles sí y con cuáles no?"}
 {"label": "LABEL_0", "score": 0.8120839595794678, "oracion": "¿construir una canaleta?"}
-{"label": "LABEL_0", "score": 0.8624276518821716, "oracion": "¿cuál es el nombre de la feria?"}
 {"label": "LABEL_0", "score": 0.8467422127723694, "oracion": "¿cuál es el nombre del puente?"}
 {"label": "LABEL_0", "score": 0.787854790687561, "oracion": "¿cuál es el significado de la palabra macrocomunidad?"}
-{"label": "LABEL_0", "score": 0.7371631860733032, "oracion": "¿cuál es su importancia?"}
 {"label": "LABEL_0", "score": 0.7037400007247925, "oracion": "¿cuál es su nombre y a qué se dedica?"}
 {"label": "LABEL_0", "score": 0.7684822678565979, "oracion": "¿cuál es?"}
 {"label": "LABEL_0", "score": 0.7434467673301697, "oracion": "¿cuál o cuáles?"}
-{"label": "LABEL_0", "score": 0.7261157631874084, "oracion": "¿cuál sería?"}
-{"label": "LABEL_0", "score": 0.7246878147125244, "oracion": "¿cuál?"}
-{"label": "LABEL_0", "score": 0.7197216749191284, "oracion": "¿cuáles?"}
 {"label": "LABEL_0", "score": 0.6051958799362183, "oracion": "¿cuánto creció la emisión de gases tóxicos?"}
 {"label": "LABEL_0", "score": 0.9355759620666504, "oracion": "¿cómo colabora cada uno de sus miembros?"}
 {"label": "LABEL_0", "score": 0.8405560255050659, "oracion": "¿cómo funcionaría el ecosistema?"}
-{"label": "LABEL_0", "score": 0.7728720307350159, "oracion": "¿cómo las resolví?"}
 {"label": "LABEL_0", "score": 0.7628984451293945, "oracion": "¿cómo lo hará?"}
 {"label": "LABEL_0", "score": 0.7713801264762878, "oracion": "¿cómo lo haría?"}
 {"label": "LABEL_0", "score": 0.7429441213607788, "oracion": "¿cómo lo hice?"}
@@ -17601,7 +17555,6 @@
 {"label": "LABEL_0", "score": 0.87541663646698, "oracion": "¿cómo podrían resolver el problema?"}
 {"label": "LABEL_0", "score": 0.8178339600563049, "oracion": "¿cómo se llaman?"}
 {"label": "LABEL_0", "score": 0.9000222682952881, "oracion": "¿cómo se siembra y cosecha?"}
-{"label": "LABEL_0", "score": 0.7890655398368835, "oracion": "¿cómo son?"}
 {"label": "LABEL_0", "score": 0.6156035661697388, "oracion": "¿cómo superé esa dificultad?"}
 {"label": "LABEL_0", "score": 0.8837459683418274, "oracion": "¿de dónde se obtienen?"}
 {"label": "LABEL_0", "score": 0.7462971806526184, "oracion": "¿de qué manera?"}
@@ -17626,12 +17579,10 @@
 {"label": "LABEL_0", "score": 0.77972811460495, "oracion": "¿por qué lo creemos así?"}
 {"label": "LABEL_0", "score": 0.6396294236183167, "oracion": "¿por qué lo creo así?"}
 {"label": "LABEL_0", "score": 0.8325252532958984, "oracion": "¿por qué se debe fomentar el turismo interno y externo en las comunidades para mejorar la calidad de vida de las personas?"}
-{"label": "LABEL_0", "score": 0.7314848303794861, "oracion": "¿por qué?"}
 {"label": "LABEL_0", "score": 0.9630090594291687, "oracion": "¿qué alimentos se siembran y cosechan en mi comunidad?"}
 {"label": "LABEL_0", "score": 0.7534476518630981, "oracion": "¿qué diferencia hay entre el frasco con agua limpia y el frasco que tiene agua con tierra?"}
 {"label": "LABEL_0", "score": 0.5224789977073669, "oracion": "¿qué emociones transmite Katty durante la narración de su anécdota?"}
 {"label": "LABEL_0", "score": 0.7122777700424194, "oracion": "¿qué expresaríamos en ellos?"}
-{"label": "LABEL_0", "score": 0.9429609775543213, "oracion": "¿qué hacen las personas en la feria?"}
 {"label": "LABEL_0", "score": 0.9418094158172607, "oracion": "¿qué información ofrece el primer párrafo del texto?"}
 {"label": "LABEL_0", "score": 0.9597521424293518, "oracion": "¿qué lugar aparece en las fotos?"}
 {"label": "LABEL_0", "score": 0.8869883418083191, "oracion": "¿qué materiales usaremos y qué cantidad?"}
@@ -17650,7 +17601,6 @@
 {"label": "LABEL_0", "score": 0.9008966088294983, "oracion": "¿son papas nativas?, ¿por qué?"}
 {"label": "LABEL_0", "score": 0.7875164151191711, "oracion": "¿te parece adecuado el logo de Sedapal?"}
 {"label": "LABEL_0", "score": 0.9232360124588013, "oracion": "¿usaremos diapositivas?"}
-{"label": "LABEL_0", "score": 0.7432166337966919, "oracion": "¿verdad?"}
 {"label": "LABEL_0", "score": 0.5529009699821472, "oracion": "Árboles"}
 {"label": "LABEL_0", "score": 0.7611085176467896, "oracion": "Él aprovechaba para conversar con SausaKocha, pero durante el día se mantendría dentro de sus aguas"}
 {"label": "LABEL_0", "score": 0.6139583587646484, "oracion": "Él es un reconocido pescador de paiche, pez que es conocido como el \"gigantedel Amazonas\""}

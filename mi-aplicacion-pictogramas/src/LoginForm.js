@@ -47,7 +47,7 @@ function LoginForm() {
             else
             {
                 const  userResponse  = await response.json();
-                login(userResponse["access_token"], userResponse["nombre"], userResponse["id"]);
+                login(userResponse["access_token"], userResponse["nombre"], userResponse["id"], userResponse["start"], userResponse["end"], userResponse["current"]);
             }
             
         } catch (error) {

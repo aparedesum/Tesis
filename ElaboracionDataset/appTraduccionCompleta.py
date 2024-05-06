@@ -1,5 +1,8 @@
 import json
 import warnings
+import re
+import os
+
 warnings.filterwarnings('ignore')
 
 from pprint import pprint
@@ -12,12 +15,11 @@ import spacy
 nlp = spacy.load("es_dep_news_trf")
 
 class OracionTraducida:
-    def __init__(self, id, oracion, oracion_lematizada, palabras_traducidas, palabras_compuestas):
+    def __init__(self, id, oracion, oracion_lematizada, palabras_traducidas):
         self.id = id
         self.oracion = oracion
         self.oracion_lematizada = oracion_lematizada
         self.palabras_traducidas = palabras_traducidas
-        self.palabras_compuestas = palabras_compuestas
 
 class PalabraTraducida: 
     def __init__(self, key, palabraInfo, pictogramas,usaLema):
@@ -86,7 +88,7 @@ def cargar_pictogramas():
 
 def tokenizar_lematizar_oraciones():
     try:
-        with open("OracionesConsolidado_OrdenadasComplejidad.txt", 'r', encoding='utf-8') as archivo_texto:
+        with open("OracionesConsolidadas_SimplesConRandom.txt", 'r', encoding='utf-8') as archivo_texto:
             lineas = archivo_texto.readlines()
             lineas = [linea.strip() for linea in lineas]
             oraciones_lematizadas = []
@@ -95,11 +97,14 @@ def tokenizar_lematizar_oraciones():
                 tokens_por_oracion = []
                 lemmas = []
                 for token in linea:
-                    properties = { "texto" : token.text, "lema": token.lemma_, "pos": token.pos_, "tag": token.tag_}
+                    lema_values = token.lemma_.split()
+                    lema = lema_values[0]
+
+                    properties = { "texto" : token.text, "lema": lema, "pos": token.pos_, "tag": token.tag_}
                     if(token.pos_ == "DET"):
                         lemmas.append(token.text)
                     else:
-                        lemmas.append(token.lemma_)
+                        lemmas.append(lema)
                     tokens_por_oracion.append(properties)
                 oraciones_lematizadas.append({"oracion": lineas[i].strip(), "oracion_lematizada": " ".join(lemmas),"tokens": tokens_por_oracion})
                 i = i + 1
@@ -131,29 +136,58 @@ def traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas_simples, d
                     palabras_traducidas.append(PalabraTraducida(key_simple, token, [], False))
             key_simple = key_simple + 1
         
-        palabras_compuestas = []
         frase_agregada = set()
-        key_complex = 0
+        
         for end_index, (pattern_idx, found) in automaton.iter(oracion_tokenizada["oracion"]):
             frase_agregada.add(found)
             pictograma_compuesta = dictionario_pictogramas_compuestos[found]
+
             pictogramasInfo = map(lambda picto: PictogramaInfo(found, None, None, picto, False), pictograma_compuesta)
             properties = { "texto" : found, "lema": found, "pos": None, "tag": None}
 
-            palabras_compuestas.append(PalabraTraducida(key_complex, properties, pictogramasInfo, False))
-            key_complex = key_complex + 1
+            numero_palabras = len(found.split())
+            indice = oracion_tokenizada["oracion"].find(found)
+            segmento_previo = oracion_tokenizada["oracion"][:indice]
 
-        key_complex = 0
+            palabras_y_puntuacion = re.split(r'([\s,.:;"\'()]+)', segmento_previo)
+
+            palabras_y_puntuacion = [p for p in palabras_y_puntuacion if p.strip()]
+
+            numero_palabras_antes = len(palabras_y_puntuacion)
+            newKey = palabras_traducidas[numero_palabras_antes].key
+
+            del palabras_traducidas[numero_palabras_antes:numero_palabras_antes+numero_palabras]
+
+            palabras_traducidas.insert(numero_palabras_antes, PalabraTraducida(newKey, properties, pictogramasInfo, True))
+
         for end_index, (pattern_idx, found) in automaton.iter(oracion_tokenizada["oracion_lematizada"]):
             if found not in frase_agregada:
+                cantidad_inicial = re.split(r'([\s,.:;"\'()]+)', oracion_tokenizada["oracion_lematizada"])
+                cantidad_inicial = [p for p in cantidad_inicial if p.strip()]
+                if len(cantidad_inicial) != len(palabras_traducidas):
+                    break
+
                 pictograma_compuesta = dictionario_pictogramas_compuestos[found]
+
+                numero_palabras = len(found.split())
+                indice = oracion_tokenizada["oracion_lematizada"].find(found)
+                segmento_previo = oracion_tokenizada["oracion_lematizada"][:indice]
+
+                palabras_y_puntuacion = re.split(r'([\s,.:()]+)', segmento_previo)
+                palabras_y_puntuacion = [p for p in palabras_y_puntuacion if p.strip()]
+
+                numero_palabras_antes = len(palabras_y_puntuacion)
+                newKey = palabras_traducidas[numero_palabras_antes].key
+
+                del palabras_traducidas[numero_palabras_antes:numero_palabras_antes+numero_palabras]
+
                 pictogramasInfo = map(lambda picto: PictogramaInfo(found, None, None, picto, False), pictograma_compuesta)
                 properties = { "texto" : found, "lema": found, "pos": None, "tag": None}
-                palabras_compuestas.append(PalabraTraducida(key_complex, properties, pictogramasInfo, True))
-                key_complex = key_complex + 1
-                
 
-        oraciones_traducidas.append(OracionTraducida(id = i, oracion = oracion_tokenizada["oracion"], oracion_lematizada = oracion_tokenizada["oracion_lematizada"],palabras_traducidas = palabras_traducidas, palabras_compuestas = palabras_compuestas))
+                palabras_traducidas.insert(numero_palabras_antes, PalabraTraducida(newKey, properties, pictogramasInfo, True))
+
+                
+        oraciones_traducidas.append(OracionTraducida(id = i, oracion = oracion_tokenizada["oracion"], oracion_lematizada = oracion_tokenizada["oracion_lematizada"],palabras_traducidas = palabras_traducidas))
         i = i + 1
     print(f'Fin traducción.')
     return oraciones_traducidas
@@ -164,25 +198,28 @@ def custom_serializer(obj):
         return obj.__dict__
     return obj
 
-def save_to_file(oraciones_traducidas, archivo):
+def save_to_file(oraciones_traducidas, directorio, archivo):
     oraciones_traducidas_json = json.dumps(oraciones_traducidas, default=custom_serializer, ensure_ascii=False,indent=2)
+
+    if not os.path.exists(directorio):
+        # Crear el directorio si no existe
+        os.makedirs(directorio)
 
     with open(archivo, 'w', encoding='utf-8') as file:
         file.write(oraciones_traducidas_json)
 
-def sharding():
-    shards = 800
-    total_oraciones = len(oraciones_traducidas)
-
+def sharding(oraciones_guardar):
+    total_oraciones = len(oraciones_guardar)
+    shards = 50
     print(f"total oraciones traducidas : {total_oraciones}")
 
-    for i in range(29):
+    for i in range(450):
         comienza_en = shards*i
         termina_en = shards*(i+1)
         if(termina_en > total_oraciones):
             termina_en = total_oraciones
 
-        save_to_file(oraciones_traducidas[comienza_en:termina_en], f"resultado_traduccion_{i}.json")
+        save_to_file(oraciones_guardar[comienza_en:termina_en], f"resultados/simples/", f"resultados/simples/resultado_traduccion_simple_{i}.json")
 
 def preprocesar_compuestos(dictionario_pictogramas_compuestas):
     #Usamos tries para realizar el preprocesamiento de los pictogramas compuestos
@@ -200,5 +237,5 @@ oraciones_tokenizadas = tokenizar_lematizar_oraciones()
 oraciones_traducidas = traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas_simples, dictionario_pictogramas_compuestas)
 
 print("Guardando ... ")
-sharding()
+sharding(oraciones_traducidas)
 print("Finalizado ... ")

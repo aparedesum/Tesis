@@ -4,6 +4,7 @@ from flask_jwt_extended import JWTManager, jwt_required, create_access_token, ge
 import json
 import os
 import secrets
+import threading
 
 clave_secreta = secrets.token_hex(16)
 print(clave_secreta)
@@ -18,11 +19,11 @@ jwt = JWTManager(app)
 
 
 # Simula una base de datos de usuarios
-USUARIOS = {"usuario1": {"nombre": "Chili", "id": "usuario1"}, 
-            "usuario2": {"nombre": "Mamayo", "id": "usuario2"}, 
-            "usuario3": {"nombre": "Hermano", "id": "usuario3"},
-            "usuario4": {"nombre": "Mori", "id": "usuario4"},
-            "usuario5": {"nombre": "Buitre", "id": "usuario5"}
+USUARIOS = {"usuario1": {"nombre": "Chili",   "id": "usuario1", "start" : 0,    "end": 999,  "current": 0}, 
+            "usuario2": {"nombre": "Mamayo",  "id": "usuario2", "start" : 1000, "end": 1999, "current": 1000}, 
+            "usuario3": {"nombre": "Hermano", "id": "usuario3", "start" : 2000, "end": 2999, "current": 2000}, 
+            "usuario4": {"nombre": "Mori",    "id": "usuario4", "start" : 3000, "end": 3999, "current": 3000}, 
+            "usuario5": {"nombre": "Buitre",  "id": "usuario5", "start" : 4000, "end": 4999, "current": 4000}, 
             }
 
 
@@ -33,7 +34,7 @@ def login():
         user = USUARIOS[username]
         # Si el usuario existe, crea un token JWT
         access_token = create_access_token(identity=user["id"])
-        userResponse = { "access_token": access_token, "nombre": user["nombre"], "id": user["id"] }
+        userResponse = { "access_token": access_token, "nombre": user["nombre"], "id": user["id"], "start": user["start"], "end": user["end"], "current": user["current"]}
         return jsonify(userResponse), 200
     else:
         return jsonify({"msg": "Nombre de usuario no encontrado"}), 401
@@ -43,8 +44,8 @@ def login():
 def find_element_by_id(id):
     # Calcula el nombre del archivo basado en el ID
     
-    file_index = id // 800  # Esto asume que cada archivo tiene 800 elementos, excepto el último
-    filename = f"resultado_traduccion_{file_index}.json"
+    file_index = id // 50  # Esto asume que cada archivo tiene 50 elementos, excepto el último
+    filename = f"resultados/resultado_traduccion_{file_index}.json"
     
     # Asegúrate de que el archivo exista
     if not os.path.exists(filename):
@@ -63,11 +64,6 @@ def find_element_by_id(id):
                     if palabra_traducida["pictogramas"]:
                         for pictograma in palabra_traducida["pictogramas"]:
                             pictograma["key"] = palabra_traducida["key"]
-            if item["palabras_compuestas"]:       
-                for palabraCompuesta in item["palabras_compuestas"]:
-                    if palabraCompuesta["pictogramas"]:
-                        for pictograma in palabraCompuesta["pictogramas"]:
-                            pictograma["key"] = palabraCompuesta["key"]
             return item
     
     return None
@@ -75,8 +71,8 @@ def find_element_by_id(id):
 
 def find_and_update_oracion(id, oracion_traducida, usuario, comentario, traduccionCompleja):
     # Calcula el nombre del archivo basado en el ID
-    file_index = (id-1)  // 800  # Esto asume que cada archivo tiene 800 elementos, excepto el último
-    filename = f"resultado_traduccion_{file_index}.json"
+    file_index = (id-1)  // 50  # Esto asume que cada archivo tiene 50 elementos, excepto el último
+    filename = f"resultados/resultado_traduccion_{file_index}.json"
 
     # Asegúrate de que el archivo exista
     if not os.path.exists(filename):
