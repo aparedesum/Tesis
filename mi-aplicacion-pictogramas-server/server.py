@@ -8,7 +8,7 @@ import threading
 from flask_jwt_extended import get_jwt_identity
 
 clave_secreta = secrets.token_hex(16)
-print(clave_secreta)
+usuarios_lock = threading.Lock()
 
 app = Flask(__name__)
 CORS(app, origins=["http://localhost:3000"], supports_credentials=True)
@@ -17,15 +17,6 @@ CORS(app, origins=["http://localhost:3000"], supports_credentials=True)
 app.config['JWT_SECRET_KEY'] = clave_secreta
 app.config['JWT_ACCESS_TOKEN_EXPIRES'] = 3600  # 1 hora
 jwt = JWTManager(app)
-
-
-# Simula una base de datos de usuarios
-USUARIOS = {"usuario1": {"nombre": "Chili",   "id": "usuario1", "start" : 1,    "end": 999,  "current": 1}, 
-            "usuario2": {"nombre": "Mamayo",  "id": "usuario2", "start" : 1001, "end": 1999, "current": 1001}, 
-            "usuario3": {"nombre": "Hermano", "id": "usuario3", "start" : 2001, "end": 2999, "current": 2001}, 
-            "usuario4": {"nombre": "Mori",    "id": "usuario4", "start" : 3001, "end": 3999, "current": 3001}, 
-            "usuario5": {"nombre": "Buitre",  "id": "usuario5", "start" : 4001, "end": 4999, "current": 4001}, 
-            }
 
 
 @app.route('/login', methods=['POST'])
@@ -66,6 +57,7 @@ def find_element_by_id(user, id):
                             pictograma["key"] = palabra_traducida["key"]
             if user["start"]<= id and id <= user["end"]:                             
                 user['current'] = id
+                guardar_usuarios_en_archivo(USUARIOS)
             return item
     
     return None
@@ -119,6 +111,7 @@ def save_pictogram_data():
     id = int(data["id"])
     if user["start"] <= id and id <= user["end"]:                             
         user['current'] = id
+        guardar_usuarios_en_archivo(USUARIOS)
     return jsonify({"message": "Datos guardados con éxito"}), 200
 
 
@@ -140,8 +133,16 @@ def get_elemento():
     
     return jsonify(elemento), 200
 
-if __name__ == '__main__':
-    app.run(debug=True)
+def leer_usuarios_desde_archivo(archivo):
+    with open(archivo, 'r', encoding='utf-8') as file:
+        return json.load(file)
+
+def guardar_usuarios_en_archivo(usuarios):
+    with usuarios_lock: 
+        with open("usuarios.json", 'w', encoding='utf-8') as file:
+            json.dump(usuarios, file, indent=2)
+
+USUARIOS = leer_usuarios_desde_archivo('usuarios.json')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+     app.run(debug=True)
