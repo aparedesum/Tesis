@@ -118,7 +118,7 @@ function PictogramList({ id_palabra, palabrasTraducidas, palabrasCompuestas, ora
 
             // Creando un objeto para representar la oración traducida y los items
             const dataToSave = {
-                "id": id_palabra + 1,
+                "id": id_palabra,
                 "oracion_traducida": savedData,
                 "usuario": userId,
                 "comentarios": comentarios,

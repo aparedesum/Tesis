@@ -7,7 +7,7 @@ function App() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [elementoActual, setElementoActual] = useState(null); // Estado para almacenar el elemento actual
   const [indexBusqueda, setIndexBusqueda] = useState(""); // Estado para almacenar el valor del input de búsqueda
-  const { token, userName, userId, start, end, current, logout, isLoggedIn } = useAuth();
+  const { token, userName, userId, start, end, current, setCurrent, logout, isLoggedIn } = useAuth();
 
   // Estilos en línea para botones
   const buttonStyle = {
@@ -71,15 +71,8 @@ function App() {
     console.log(newIndex);
 
     if (newIndex < start || newIndex >= end) return;
+    setCurrent(newIndex);
     setCurrentIndex(newIndex);
-  };
-
-  // Maneja la actualización del índice basado en la búsqueda
-  const handleBuscarClick = () => {
-    const indexInt = parseInt(indexBusqueda, 10);
-    if (!isNaN(indexInt)) {
-      setCurrentIndex(indexInt - 1); // Ajusta según sea necesario
-    }
   };
 
   if (!isLoggedIn) {

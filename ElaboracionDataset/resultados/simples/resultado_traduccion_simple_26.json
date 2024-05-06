@@ -1,0 +1,1621 @@
+[
+  {
+    "id": 1301,
+    "oracion": "Metropolitana",
+    "oracion_lematizada": "Metropolitana",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Metropolitana",
+          "lema": "Metropolitana",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1302,
+    "oracion": "Instrumentos",
+    "oracion_lematizada": "instrumento",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Instrumentos",
+          "lema": "instrumento",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Instrumentos",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "instrumentos",
+            "id": 8608,
+            "synsets": [
+              "03806455-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Instrumentos",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "instrumentos",
+            "id": 38091,
+            "synsets": [
+              "03806455-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1303,
+    "oracion": "vista",
+    "oracion_lematizada": "vista",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "vista",
+          "lema": "vista",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "vista",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "vista",
+            "id": 6573,
+            "synsets": [
+              "05318579-n",
+              "05662207-n"
+            ],
+            "plural": "vistas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1304,
+    "oracion": "Sierra",
+    "oracion_lematizada": "Sierra",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Sierra",
+          "lema": "Sierra",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Sierra",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "sierra",
+            "id": 5586,
+            "synsets": [
+              "04002503-n",
+              "03084908-n"
+            ],
+            "plural": "sierras",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sierra",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "sierra",
+            "id": 5587,
+            "synsets": [
+              "04002503-n"
+            ],
+            "plural": "sierras",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sierra",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "sierra",
+            "id": 5588,
+            "synsets": [
+              "04147147-n",
+              "03108670-n"
+            ],
+            "plural": "sierras",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sierra",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "sierra",
+            "id": 24404,
+            "synsets": [
+              "09426609-n"
+            ],
+            "plural": "sierras",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1305,
+    "oracion": "Practica",
+    "oracion_lematizada": "practica",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Practica",
+          "lema": "practica",
+          "pos": "ADV",
+          "tag": "ADV"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1306,
+    "oracion": "intestino",
+    "oracion_lematizada": "intestino",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "intestino",
+          "lema": "intestino",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "intestino",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "intestino",
+            "id": 2967,
+            "synsets": [
+              "05541966-n"
+            ],
+            "plural": "intestinos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1307,
+    "oracion": "Impactantes",
+    "oracion_lematizada": "impactant",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Impactantes",
+          "lema": "impactant",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1308,
+    "oracion": "Cerámica",
+    "oracion_lematizada": "Cerámica",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Cerámica",
+          "lema": "Cerámica",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Cerámica",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "cerámica",
+            "id": 36147,
+            "synsets": [
+              "00937062-n",
+              "03999061-n"
+            ],
+            "plural": "cerámicas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1309,
+    "oracion": "Día",
+    "oracion_lematizada": "día",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Día",
+          "lema": "día",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 7022,
+            "synsets": [
+              "15190004-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 26799,
+            "synsets": [
+              "15190004-n",
+              "00681933-a"
+            ],
+            "plural": "días",
+            "isSimple": true
+          },
+          {
+            "palabra": "Día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 37371,
+            "synsets": [
+              "15180180-n"
+            ],
+            "plural": "días",
+            "isSimple": true
+          },
+          {
+            "palabra": "Día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 37731,
+            "synsets": [
+              "15180180-n"
+            ],
+            "plural": "días",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1310,
+    "oracion": "capilares",
+    "oracion_lematizada": "capilar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "capilares",
+          "lema": "capilar",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1311,
+    "oracion": "Romero",
+    "oracion_lematizada": "Romero",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Romero",
+          "lema": "Romero",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Romero",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "romero",
+            "id": 14246,
+            "synsets": [
+              "12884920-n",
+              "07836121-n"
+            ],
+            "plural": "romeros",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1312,
+    "oracion": "Causas",
+    "oracion_lematizada": "causa",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Causas",
+          "lema": "causa",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Causas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "causa",
+            "id": 12295,
+            "synsets": [
+              "07341157-n",
+              "06753097-n",
+              "13580380-n",
+              "07338522-n"
+            ],
+            "plural": "causas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1313,
+    "oracion": "Destinatario",
+    "oracion_lematizada": "destinatario",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Destinatario",
+          "lema": "destinatario",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1314,
+    "oracion": "oca",
+    "oracion_lematizada": "oca",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "oca",
+          "lema": "oca",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "oca",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "oca",
+            "id": 2878,
+            "synsets": [
+              "01858313-n"
+            ],
+            "plural": "ocas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1315,
+    "oracion": "Problema",
+    "oracion_lematizada": "problema",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Problema",
+          "lema": "problema",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Problema",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "problema",
+            "id": 5556,
+            "synsets": [
+              "06796860-n"
+            ],
+            "plural": "problemas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Problema",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "problema",
+            "id": 32304,
+            "synsets": [
+              "06796860-n"
+            ],
+            "plural": "problemas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1316,
+    "oracion": "viernes",
+    "oracion_lematizada": "viernes",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "viernes",
+          "lema": "viernes",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "viernes",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "viernes",
+            "id": 6629,
+            "synsets": [
+              "15189510-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "viernes",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "viernes",
+            "id": 37727,
+            "synsets": [
+              "15189510-n",
+              "15189401-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1317,
+    "oracion": "Ahorros",
+    "oracion_lematizada": "ahorro",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Ahorros",
+          "lema": "ahorro",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Ahorros",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "ahorro",
+            "id": 36403,
+            "synsets": [
+              "13380745-n"
+            ],
+            "plural": "ahorros",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1318,
+    "oracion": "Clima",
+    "oracion_lematizada": "clima",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Clima",
+          "lema": "clima",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Clima",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "clima",
+            "id": 24721,
+            "synsets": [
+              "11445694-n"
+            ],
+            "plural": "climas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1319,
+    "oracion": "Reposapiés",
+    "oracion_lematizada": "reposapié",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Reposapiés",
+          "lema": "reposapié",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1320,
+    "oracion": "Daniela",
+    "oracion_lematizada": "Daniela",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Daniela",
+          "lema": "Daniela",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1321,
+    "oracion": "Francisco",
+    "oracion_lematizada": "Francisco",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Francisco",
+          "lema": "Francisco",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1322,
+    "oracion": "nace",
+    "oracion_lematizada": "nacer",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "nace",
+          "lema": "nacer",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 8176,
+            "synsets": [
+              "00361585-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 28409,
+            "synsets": [
+              "00062866-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 28411,
+            "synsets": [
+              "00361585-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 31158,
+            "synsets": [
+              "00062866-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 34252,
+            "synsets": [
+              "00062866-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 37980,
+            "synsets": [
+              "00361585-v"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "nace",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "nacer",
+            "id": 37981,
+            "synsets": [
+              "00361585-v"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1323,
+    "oracion": "tractor",
+    "oracion_lematizada": "tractor",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "tractor",
+          "lema": "tractor",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "tractor",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tractor",
+            "id": 2600,
+            "synsets": [
+              "04472736-n"
+            ],
+            "plural": "tractores",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1324,
+    "oracion": "constructores",
+    "oracion_lematizada": "constructor",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "constructores",
+          "lema": "constructor",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1325,
+    "oracion": "Rima",
+    "oracion_lematizada": "rima",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Rima",
+          "lema": "rima",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1326,
+    "oracion": "Tiempo",
+    "oracion_lematizada": "tiempo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Tiempo",
+          "lema": "tiempo",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Tiempo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tiempo",
+            "id": 7072,
+            "synsets": [
+              "15170131-n",
+              "07211342-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tiempo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tiempo",
+            "id": 7223,
+            "synsets": [
+              "14542968-n",
+              "11545095-n",
+              "07211342-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "Tiempo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tiempo",
+            "id": 22631,
+            "synsets": [
+              "15295388-n",
+              "00028468-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1327,
+    "oracion": "Equinodermos",
+    "oracion_lematizada": "Equinodermos",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Equinodermos",
+          "lema": "Equinodermos",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1328,
+    "oracion": "sonora",
+    "oracion_lematizada": "sonoro",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "sonora",
+          "lema": "sonoro",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1329,
+    "oracion": "Características",
+    "oracion_lematizada": "característica",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Características",
+          "lema": "característica",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1330,
+    "oracion": "Movimiento",
+    "oracion_lematizada": "movimiento",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Movimiento",
+          "lema": "movimiento",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Movimiento",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "movimiento",
+            "id": 25656,
+            "synsets": [
+              "00332776-n"
+            ],
+            "plural": "movimientos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1331,
+    "oracion": "maíz",
+    "oracion_lematizada": "maíz",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "maíz",
+          "lema": "maíz",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "maíz",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "maíz",
+            "id": 4879,
+            "synsets": [
+              "07747928-n",
+              "12165097-n"
+            ],
+            "plural": "maices",
+            "isSimple": true
+          },
+          {
+            "palabra": "maíz",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "maíz",
+            "id": 36287,
+            "synsets": [
+              "12164193-n"
+            ],
+            "plural": "maices",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1332,
+    "oracion": "Niña",
+    "oracion_lematizada": "niña",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Niña",
+          "lema": "niña",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 2484,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 10362,
+            "synsets": [
+              "08630777-n",
+              "10104064-n",
+              "10149362-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 27509,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 28283,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 32845,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 32846,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 32847,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Niña",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "niña",
+            "id": 32844,
+            "synsets": [
+              "10104064-n"
+            ],
+            "plural": "niñas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1333,
+    "oracion": "Reutiliza",
+    "oracion_lematizada": "Reutiliza",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Reutiliza",
+          "lema": "Reutiliza",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1334,
+    "oracion": "Final",
+    "oracion_lematizada": "final",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Final",
+          "lema": "final",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Final",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "final",
+            "id": 5358,
+            "synsets": [
+              "08585406-n",
+              "00211367-n",
+              "08583423-n",
+              "02615799-v"
+            ],
+            "plural": "finales",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1335,
+    "oracion": "líquido",
+    "oracion_lematizada": "líquido",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "líquido",
+          "lema": "líquido",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1336,
+    "oracion": "PUBLICACIÓN",
+    "oracion_lematizada": "publicación",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "PUBLICACIÓN",
+          "lema": "publicación",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1337,
+    "oracion": "Cuerpo",
+    "oracion_lematizada": "cuerpo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Cuerpo",
+          "lema": "cuerpo",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Cuerpo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cuerpo",
+            "id": 2728,
+            "synsets": [
+              "05557463-n"
+            ],
+            "plural": "cuerpos",
+            "isSimple": true
+          },
+          {
+            "palabra": "Cuerpo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cuerpo",
+            "id": 6473,
+            "synsets": [
+              "05223633-n"
+            ],
+            "plural": "cuerpos",
+            "isSimple": true
+          },
+          {
+            "palabra": "Cuerpo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cuerpo",
+            "id": 17018,
+            "synsets": [
+              "05224424-n",
+              "00202946-a"
+            ],
+            "plural": "cuerpos",
+            "isSimple": true
+          },
+          {
+            "palabra": "Cuerpo",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cuerpo",
+            "id": 17022,
+            "synsets": [
+              "05224424-n"
+            ],
+            "plural": "cuerpos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1338,
+    "oracion": "cabeza",
+    "oracion_lematizada": "cabeza",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "cabeza",
+          "lema": "cabeza",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "cabeza",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cabeza",
+            "id": 2673,
+            "synsets": [
+              "05546258-n"
+            ],
+            "plural": "cabezas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1339,
+    "oracion": "eléctrica",
+    "oracion_lematizada": "eléctrico",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "eléctrica",
+          "lema": "eléctrico",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1340,
+    "oracion": "uretra",
+    "oracion_lematizada": "uretra",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "uretra",
+          "lema": "uretra",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1341,
+    "oracion": "Quinua",
+    "oracion_lematizada": "Quinua",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Quinua",
+          "lema": "Quinua",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Quinua",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "quinua",
+            "id": 38527,
+            "synsets": [
+              "11704458-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1342,
+    "oracion": "Estructura",
+    "oracion_lematizada": "estructura",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Estructura",
+          "lema": "estructura",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1343,
+    "oracion": "Regla",
+    "oracion_lematizada": "regla",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Regla",
+          "lema": "regla",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Regla",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "regla",
+            "id": 2815,
+            "synsets": [
+              "04125870-n"
+            ],
+            "plural": "reglas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Regla",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "regla",
+            "id": 8165,
+            "synsets": [
+              "13534950-n"
+            ],
+            "plural": "reglas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Regla",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "regla",
+            "id": 32490,
+            "synsets": [
+              "13534950-n"
+            ],
+            "plural": "reglas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1344,
+    "oracion": "Apurímac",
+    "oracion_lematizada": "Apurímac",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Apurímac",
+          "lema": "Apurímac",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1345,
+    "oracion": "arena",
+    "oracion_lematizada": "arena",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "arena",
+          "lema": "arena",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "arena",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "arena",
+            "id": 4565,
+            "synsets": [
+              "15043597-n"
+            ],
+            "plural": "arenas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1346,
+    "oracion": "RECUERDA",
+    "oracion_lematizada": "RECUERDA",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "RECUERDA",
+          "lema": "RECUERDA",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1347,
+    "oracion": "solar",
+    "oracion_lematizada": "solar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "solar",
+          "lema": "solar",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1348,
+    "oracion": "Lambayeque",
+    "oracion_lematizada": "Lambayeque",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Lambayeque",
+          "lema": "Lambayeque",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1349,
+    "oracion": "Funcional",
+    "oracion_lematizada": "funcional",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Funcional",
+          "lema": "funcional",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 1350,
+    "oracion": "otoño",
+    "oracion_lematizada": "otoño",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "otoño",
+          "lema": "otoño",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "otoño",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "otoño",
+            "id": 5531,
+            "synsets": [
+              "15261656-n"
+            ],
+            "plural": "otoños",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  }
+]

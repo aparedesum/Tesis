@@ -1,0 +1,2578 @@
+[
+  {
+    "id": 51,
+    "oracion": "¡Bien!",
+    "oracion_lematizada": "¡ bien !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Bien",
+          "lema": "bien",
+          "pos": "ADV",
+          "tag": "ADV"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Bien",
+            "pos": "ADV",
+            "tag": "ADV",
+            "keyword": "bien",
+            "id": 5397,
+            "synsets": [
+              "00011555-r",
+              "00636250-a",
+              "02088253-s",
+              "06700446-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "oracion": "Herramientas",
+    "oracion_lematizada": "herramienta",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Herramientas",
+          "lema": "herramienta",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Herramientas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "herramientas",
+            "id": 7127,
+            "synsets": [
+              "04459089-n",
+              "03569147-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "oracion": "REUBICACIÓN",
+    "oracion_lematizada": "reubicación",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "REUBICACIÓN",
+          "lema": "reubicación",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "oracion": "Cierre",
+    "oracion_lematizada": "cierre",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Cierre",
+          "lema": "cierre",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Cierre",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cierre",
+            "id": 2723,
+            "synsets": [
+              "04245427-n"
+            ],
+            "plural": "cierres",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "oracion": "Preparación",
+    "oracion_lematizada": "preparación",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Preparación",
+          "lema": "preparación",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "oracion": "Leemos",
+    "oracion_lematizada": "leer",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Leemos",
+          "lema": "leer",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Leemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "leer",
+            "id": 7141,
+            "synsets": [
+              "00628065-v",
+              "00626756-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Leemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "leer",
+            "id": 28643,
+            "synsets": [
+              "00626756-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Leemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "leer",
+            "id": 31680,
+            "synsets": [
+              "00626756-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "oracion": "Limonada",
+    "oracion_lematizada": "limonada",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Limonada",
+          "lema": "limonada",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Limonada",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "limonada",
+            "id": 6551,
+            "synsets": [
+              "07942490-n"
+            ],
+            "plural": "limonadas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "oracion": "Reconocimientos",
+    "oracion_lematizada": "reconocimiento",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Reconocimientos",
+          "lema": "reconocimiento",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "oracion": "Ovíparo",
+    "oracion_lematizada": "Ovíparo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Ovíparo",
+          "lema": "Ovíparo",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Ovíparo",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "ovíparo",
+            "id": 25284,
+            "synsets": [
+              "02529227-a"
+            ],
+            "plural": "ovíparos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "oracion": "Vitamina",
+    "oracion_lematizada": "vitamina",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Vitamina",
+          "lema": "vitamina",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Vitamina",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "vitamina",
+            "id": 36504,
+            "synsets": [
+              "15113825-n"
+            ],
+            "plural": "vitaminas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "oracion": "Dialogamos",
+    "oracion_lematizada": "dialogar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Dialogamos",
+          "lema": "dialogar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Dialogamos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dialogar",
+            "id": 3345,
+            "synsets": [
+              "00965602-v",
+              "01040538-v",
+              "00966726-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Dialogamos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dialogar",
+            "id": 6517,
+            "synsets": [
+              "00965602-v",
+              "01040538-v",
+              "00966726-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Dialogamos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dialogar",
+            "id": 36544,
+            "synsets": [
+              "00965602-v",
+              "01040538-v",
+              "00966726-v"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "oracion": "Insecticidas",
+    "oracion_lematizada": "insecticida",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Insecticidas",
+          "lema": "insecticida",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Insecticidas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "insecticida",
+            "id": 8607,
+            "synsets": [
+              "14944099-n"
+            ],
+            "plural": "insecticidas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "oracion": "Artesanía",
+    "oracion_lematizada": "artesanía",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Artesanía",
+          "lema": "artesanía",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Artesanía",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "artesanía",
+            "id": 22769,
+            "synsets": [
+              "03490738-n"
+            ],
+            "plural": "artesanías",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "oracion": "¿Cuáles?",
+    "oracion_lematizada": "¿ cuál ?",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¿",
+          "lema": "¿",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¿",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¿",
+            "id": 3415,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Cuáles",
+          "lema": "cuál",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "?",
+          "lema": "?",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "?",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "?",
+            "id": 3418,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "oracion": "madera",
+    "oracion_lematizada": "madera",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "madera",
+          "lema": "madera",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "madera",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "madera",
+            "id": 6143,
+            "synsets": [
+              "15122728-n",
+              "15126421-n"
+            ],
+            "plural": "maderas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "oracion": "Elegimos",
+    "oracion_lematizada": "elegir",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Elegimos",
+          "lema": "elegir",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Elegimos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "elegir",
+            "id": 6483,
+            "synsets": [
+              "00681308-v",
+              "00676526-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Elegimos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "elegir",
+            "id": 11694,
+            "synsets": [
+              "00681308-v",
+              "00676526-v",
+              "00699355-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Elegimos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "elegir",
+            "id": 30510,
+            "synsets": [
+              "00681308-v",
+              "00676526-v",
+              "00699355-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "oracion": "arterias",
+    "oracion_lematizada": "arteria",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "arterias",
+          "lema": "arteria",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "arterias",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "arteria",
+            "id": 10269,
+            "synsets": [
+              "05341325-n"
+            ],
+            "plural": "arterias",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "oracion": "Célula",
+    "oracion_lematizada": "célula",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Célula",
+          "lema": "célula",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Célula",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "célula",
+            "id": 36340,
+            "synsets": [
+              "00006484-n"
+            ],
+            "plural": "células",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "oracion": "Triste",
+    "oracion_lematizada": "Triste",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Triste",
+          "lema": "Triste",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Triste",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "triste",
+            "id": 2606,
+            "synsets": [
+              "01364779-a",
+              "00707060-s",
+              "00912446-a",
+              "01152997-a"
+            ],
+            "plural": "tristes",
+            "isSimple": true
+          },
+          {
+            "palabra": "Triste",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "triste",
+            "id": 11959,
+            "synsets": [
+              "01364779-a",
+              "00155165-a",
+              "00707060-s",
+              "00912446-a",
+              "01152997-a"
+            ],
+            "plural": "tristes",
+            "isSimple": true
+          },
+          {
+            "palabra": "Triste",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "triste",
+            "id": 31939,
+            "synsets": [
+              "01364779-a",
+              "00155165-a",
+              "00707060-s",
+              "00912446-a",
+              "01152997-a"
+            ],
+            "plural": "tristes",
+            "isSimple": true
+          },
+          {
+            "palabra": "Triste",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "triste",
+            "id": 35545,
+            "synsets": [
+              "01364779-a"
+            ],
+            "plural": "tristes",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "oracion": "¿Cuál?",
+    "oracion_lematizada": "¿ cuál ?",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¿",
+          "lema": "¿",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¿",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¿",
+            "id": 3415,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Cuál",
+          "lema": "cuál",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "?",
+          "lema": "?",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "?",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "?",
+            "id": 3418,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "oracion": "proteínas",
+    "oracion_lematizada": "proteína",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "proteínas",
+          "lema": "proteína",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "proteínas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "proteína",
+            "id": 26346,
+            "synsets": [
+              "14752903-n"
+            ],
+            "plural": "proteínas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "oracion": "Plátano",
+    "oracion_lematizada": "plátano",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Plátano",
+          "lema": "plátano",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Plátano",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "plátano",
+            "id": 2530,
+            "synsets": [
+              "07769568-n"
+            ],
+            "plural": "plátanos",
+            "isSimple": true
+          },
+          {
+            "palabra": "Plátano",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "plátano",
+            "id": 9054,
+            "synsets": [
+              "07769568-n"
+            ],
+            "plural": "plátanos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "oracion": "Lugar",
+    "oracion_lematizada": "lugar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Lugar",
+          "lema": "lugar",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Lugar",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "lugar",
+            "id": 9819,
+            "synsets": [
+              "08639173-n",
+              "00722683-n",
+              "05619605-n"
+            ],
+            "plural": "lugares",
+            "isSimple": true
+          },
+          {
+            "palabra": "Lugar",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "lugar",
+            "id": 32598,
+            "synsets": [
+              "08014145-n",
+              "08530790-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "oracion": "¡Rápido!",
+    "oracion_lematizada": "¡ Rápido !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Rápido",
+          "lema": "Rápido",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Rápido",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "rápido",
+            "id": 5306,
+            "synsets": [
+              "00032846-s",
+              "00982557-s",
+              "00086161-r",
+              "00106290-r",
+              "00981390-s",
+              "00979699-a"
+            ],
+            "plural": "rápidos",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "oracion": "Selva",
+    "oracion_lematizada": "Selva",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Selva",
+          "lema": "Selva",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Selva",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "selva",
+            "id": 3385,
+            "synsets": [
+              "08456014-n"
+            ],
+            "plural": "selvas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "oracion": "¡Crac!",
+    "oracion_lematizada": "¡ Crac !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Crac",
+          "lema": "Crac",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "oracion": "¡Sí!",
+    "oracion_lematizada": "¡ Sí !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Sí",
+          "lema": "Sí",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 5583,
+            "synsets": [
+              "07218560-n",
+              "00515323-r",
+              "01013752-v",
+              "01013058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 5584,
+            "synsets": [
+              "07218560-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 6481,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 7029,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 7031,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 7033,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 31906,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 31973,
+            "synsets": [
+              "07218560-n",
+              "00515323-r",
+              "01013752-v",
+              "01013058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 34521,
+            "synsets": [
+              "07218560-n",
+              "00515323-r",
+              "01013752-v",
+              "01013058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "oracion": "Escríbela",
+    "oracion_lematizada": "escribe",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Escríbela",
+          "lema": "escribe",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "oracion": "Pregunta",
+    "oracion_lematizada": "pregunta",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Pregunta",
+          "lema": "pregunta",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Pregunta",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "pregunta",
+            "id": 7217,
+            "synsets": [
+              "07211342-n",
+              "07208256-n"
+            ],
+            "plural": "preguntas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "oracion": "Asfálticos",
+    "oracion_lematizada": "asfáltico",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Asfálticos",
+          "lema": "asfáltico",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "oracion": "Estimulo-respuesta",
+    "oracion_lematizada": "estimulo-respuesta",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Estimulo-respuesta",
+          "lema": "estimulo-respuesta",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "oracion": "Indicaciones",
+    "oracion_lematizada": "indicación",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Indicaciones",
+          "lema": "indicación",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "oracion": "Reflexiono",
+    "oracion_lematizada": "reflexiono",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Reflexiono",
+          "lema": "reflexiono",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "oracion": "Alimento",
+    "oracion_lematizada": "alimento",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Alimento",
+          "lema": "alimento",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Alimento",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "alimento",
+            "id": 4610,
+            "synsets": [
+              "07571428-n",
+              "00021445-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "oracion": "Preséntate",
+    "oracion_lematizada": "presentar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Preséntate",
+          "lema": "presentar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Preséntate",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "presentar",
+            "id": 9870,
+            "synsets": [
+              "00941308-v",
+              "02153218-v",
+              "00991634-v",
+              "02142548-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Preséntate",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "presentar",
+            "id": 11308,
+            "synsets": [
+              "02153218-v",
+              "02141597-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Preséntate",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "presentar",
+            "id": 16823,
+            "synsets": [
+              "02153218-v",
+              "02141597-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Preséntate",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "presentar",
+            "id": 31902,
+            "synsets": [
+              "02153218-v",
+              "02141597-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "oracion": "Corteza",
+    "oracion_lematizada": "corteza",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Corteza",
+          "lema": "corteza",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "oracion": "¡Tú!",
+    "oracion_lematizada": "¡ tú !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Tú",
+          "lema": "tú",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Tú",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "tú",
+            "id": 2608,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tú",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "tú",
+            "id": 6625,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tú",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "tú",
+            "id": 7290,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tú",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "tú",
+            "id": 7289,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tú",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "tú",
+            "id": 31801,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "oracion": "¡Mira!",
+    "oracion_lematizada": "¡ mirar !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Mira",
+          "lema": "mirar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Mira",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mirar",
+            "id": 2474,
+            "synsets": [
+              "02133754-v",
+              "02134989-v",
+              "02134765-v",
+              "02173796-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mira",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mirar",
+            "id": 6564,
+            "synsets": [
+              "02133754-v",
+              "02134989-v",
+              "02134765-v",
+              "02173796-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mira",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mirar",
+            "id": 28673,
+            "synsets": [
+              "02133754-v",
+              "02134989-v",
+              "02134765-v",
+              "02173796-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "oracion": "¿Crónica?",
+    "oracion_lematizada": "¿ Crónica ?",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¿",
+          "lema": "¿",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¿",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¿",
+            "id": 3415,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Crónica",
+          "lema": "Crónica",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "?",
+          "lema": "?",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "?",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "?",
+            "id": 3418,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "oracion": "Zángano",
+    "oracion_lematizada": "Zángano",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Zángano",
+          "lema": "Zángano",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "oracion": "Pasteurización",
+    "oracion_lematizada": "pasteurización",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Pasteurización",
+          "lema": "pasteurización",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "oracion": "Sustancias",
+    "oracion_lematizada": "sustancia",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Sustancias",
+          "lema": "sustancia",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "oracion": "¡Claro!",
+    "oracion_lematizada": "¡ Claro !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Claro",
+          "lema": "Claro",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Claro",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "claro",
+            "id": 4604,
+            "synsets": [
+              "01912661-s"
+            ],
+            "plural": "claros",
+            "isSimple": true
+          },
+          {
+            "palabra": "Claro",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "claro",
+            "id": 25958,
+            "synsets": [
+              "00409737-a"
+            ],
+            "plural": "claros",
+            "isSimple": true
+          },
+          {
+            "palabra": "Claro",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "claro",
+            "id": 26753,
+            "synsets": [
+              "00270855-a"
+            ],
+            "plural": "claros",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "oracion": "hoja",
+    "oracion_lematizada": "hoja",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "hoja",
+          "lema": "hoja",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "hoja",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "hoja",
+            "id": 3114,
+            "synsets": [
+              "13173519-n"
+            ],
+            "plural": "hojas",
+            "isSimple": true
+          },
+          {
+            "palabra": "hoja",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "hoja",
+            "id": 5077,
+            "synsets": [
+              "13173519-n"
+            ],
+            "plural": "hojas",
+            "isSimple": true
+          },
+          {
+            "palabra": "hoja",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "hoja",
+            "id": 5076,
+            "synsets": [
+              "13173519-n",
+              "15261656-n"
+            ],
+            "plural": "hojas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "oracion": "¡Recuerda!",
+    "oracion_lematizada": "¡ recordar !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Recuerda",
+          "lema": "recordar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Recuerda",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "recordar",
+            "id": 11357,
+            "synsets": [
+              "00609334-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Recuerda",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "recordar",
+            "id": 11358,
+            "synsets": [
+              "00609334-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Recuerda",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "recordar",
+            "id": 37369,
+            "synsets": [
+              "00609334-v"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "oracion": "¡Miren!",
+    "oracion_lematizada": "¡ miren !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Miren",
+          "lema": "miren",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "oracion": "¿Sí?",
+    "oracion_lematizada": "¿ Sí ?",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¿",
+          "lema": "¿",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¿",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¿",
+            "id": 3415,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Sí",
+          "lema": "Sí",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 5583,
+            "synsets": [
+              "07218560-n",
+              "00515323-r",
+              "01013752-v",
+              "01013058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 5584,
+            "synsets": [
+              "07218560-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 6481,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 7029,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 7031,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 7033,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 31906,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 31973,
+            "synsets": [
+              "07218560-n",
+              "00515323-r",
+              "01013752-v",
+              "01013058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Sí",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "sí",
+            "id": 34521,
+            "synsets": [
+              "07218560-n",
+              "00515323-r",
+              "01013752-v",
+              "01013058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "?",
+          "lema": "?",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "?",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "?",
+            "id": 3418,
+            "synsets": [
+              "06857090-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "oracion": "sabores",
+    "oracion_lematizada": "sabor",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "sabores",
+          "lema": "sabor",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "oracion": "Gusanos",
+    "oracion_lematizada": "gusano",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Gusanos",
+          "lema": "gusano",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Gusanos",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "gusano",
+            "id": 3344,
+            "synsets": [
+              "01924944-n"
+            ],
+            "plural": "gusanos",
+            "isSimple": true
+          },
+          {
+            "palabra": "Gusanos",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "gusano",
+            "id": 16727,
+            "synsets": [
+              "02305272-n",
+              "02311989-n",
+              "01924944-n "
+            ],
+            "plural": "gusanos",
+            "isSimple": true
+          },
+          {
+            "palabra": "Gusanos",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "gusano",
+            "id": 28485,
+            "synsets": [
+              "01924944-n"
+            ],
+            "plural": "gusanos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "oracion": "Respondemos",
+    "oracion_lematizada": "responder",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Respondemos",
+          "lema": "responder",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Respondemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "responder",
+            "id": 9030,
+            "synsets": [
+              "00817348-v",
+              "00637941-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Respondemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "responder",
+            "id": 9031,
+            "synsets": [
+              "00817348-v",
+              "00637941-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Respondemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "responder",
+            "id": 10176,
+            "synsets": [
+              "00817348-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Respondemos",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "responder",
+            "id": 28433,
+            "synsets": [
+              "00817348-v",
+              "00637941-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  }
+]

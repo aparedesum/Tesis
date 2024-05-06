@@ -1,0 +1,3511 @@
+[
+  {
+    "id": 251,
+    "oracion": "Mi autorretrato",
+    "oracion_lematizada": "Mi autorretrato",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Mi",
+          "lema": "mi",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Mi",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "mi",
+            "id": 12264,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "autorretrato",
+          "lema": "autorretrato",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "autorretrato",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "autorretrato",
+            "id": 36878,
+            "synsets": [
+              "04176996-n"
+            ],
+            "plural": "autorretratos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "oracion": "¡Qué vergüenza!",
+    "oracion_lematizada": "¡ Qué vergüenza !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Qué",
+          "lema": "qué",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22624,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22620,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "vergüenza",
+          "lema": "vergüenza",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "vergüenza",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "vergüenza",
+            "id": 25823,
+            "synsets": [
+              "07522337-n"
+            ],
+            "plural": "vergüenzas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 3,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "oracion": "Poleas fijas",
+    "oracion_lematizada": "polea fijo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Poleas",
+          "lema": "polea",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Poleas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "polea",
+            "id": 26334,
+            "synsets": [
+              "04026692-n"
+            ],
+            "plural": "poleas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "fijas",
+          "lema": "fijo",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "oracion": "¡Qué tal!",
+    "oracion_lematizada": "¡ Qué tal !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Qué",
+          "lema": "Qué",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Qué",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "qué",
+            "id": 22624,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Qué",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "qué",
+            "id": 22620,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "tal",
+          "lema": "tal",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 3,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "oracion": "Actividad 1",
+    "oracion_lematizada": "Actividad 1",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Actividad",
+          "lema": "Actividad",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Actividad",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "actividad",
+            "id": 8008,
+            "synsets": [
+              "00408356-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "Actividad",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "actividad",
+            "id": 32212,
+            "synsets": [
+              "00408356-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "Actividad",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "actividad",
+            "id": 38914,
+            "synsets": [
+              "00408356-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "1",
+          "lema": "1",
+          "pos": "NUM",
+          "tag": "NUM"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "1",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "1",
+            "id": 2627,
+            "synsets": [
+              "06820056-n",
+              "02193977-s",
+              "13764713-n",
+              "13603216-n",
+              "00916568-a"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "1",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "1",
+            "id": 4889,
+            "synsets": [
+              "02193977-s",
+              "13764713-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "1",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "1",
+            "id": 7291,
+            "synsets": [
+              "06820056-n",
+              "02193977-s",
+              "13764713-n",
+              "13603216-n",
+              "00916568-a"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "1",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "1",
+            "id": 35677,
+            "synsets": [
+              "13764713-n",
+              "02193977-s"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "oracion": "Cola larga",
+    "oracion_lematizada": "cola largo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Cola",
+          "lema": "cola",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Cola",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cola",
+            "id": 2709,
+            "synsets": [
+              "14727036-n"
+            ],
+            "plural": "colas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Cola",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cola",
+            "id": 2730,
+            "synsets": [
+              "05567360-n",
+              "05566889-n"
+            ],
+            "plural": "colas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Cola",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cola",
+            "id": 5967,
+            "synsets": [
+              "02160209-n"
+            ],
+            "plural": "colas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Cola",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "cola",
+            "id": 26030,
+            "synsets": [
+              "05567360-n",
+              "05566889-n"
+            ],
+            "plural": "colas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "larga",
+          "lema": "largo",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "larga",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "largo",
+            "id": 4675,
+            "synsets": [
+              "01436368-a"
+            ],
+            "plural": "largos",
+            "isSimple": true
+          },
+          {
+            "palabra": "larga",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "largo",
+            "id": 26162,
+            "synsets": [
+              "01436368-a",
+              "01385012-a"
+            ],
+            "plural": "largos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "oracion": "Ficha informativa",
+    "oracion_lematizada": "ficha informativo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Ficha",
+          "lema": "ficha",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Ficha",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "ficha",
+            "id": 10310,
+            "synsets": [
+              "06520807-n"
+            ],
+            "plural": "fichas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Ficha",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "ficha",
+            "id": 11263,
+            "synsets": [
+              "00731217-n"
+            ],
+            "plural": "fichas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "informativa",
+          "lema": "informativo",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "informativa",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "informativo",
+            "id": 8229,
+            "synsets": [
+              "10717864-n",
+              "06632357-n"
+            ],
+            "plural": "informativos",
+            "isSimple": true
+          },
+          {
+            "palabra": "informativa",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "informativo",
+            "id": 35389,
+            "synsets": [
+              "10717864-n",
+              "06632357-n"
+            ],
+            "plural": "informativos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "oracion": "INSTINTO MATERNAL",
+    "oracion_lematizada": "instinto maternal",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "INSTINTO",
+          "lema": "instinto",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "MATERNAL",
+          "lema": "maternal",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "oracion": "Instinto maternal",
+    "oracion_lematizada": "instinto maternal",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Instinto",
+          "lema": "instinto",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "maternal",
+          "lema": "maternal",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "oracion": "Parte central",
+    "oracion_lematizada": "parte central",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Parte",
+          "lema": "parte",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "central",
+          "lema": "central",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "central",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "central",
+            "id": 26740,
+            "synsets": [
+              "00330729-a"
+            ],
+            "plural": "centrales",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "oracion": "Me evalúo",
+    "oracion_lematizada": "yo evaluar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Me",
+          "lema": "yo",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Me",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "me",
+            "id": 2617,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Me",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "me",
+            "id": 6632,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Me",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "me",
+            "id": 7309,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Me",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "me",
+            "id": 7310,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Me",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "me",
+            "id": 31807,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "evalúo",
+          "lema": "evaluar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "oracion": "Tema explicativo",
+    "oracion_lematizada": "tema explicativo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Tema",
+          "lema": "tema",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "explicativo",
+          "lema": "explicativo",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "oracion": "Escucho atentamente",
+    "oracion_lematizada": "escuchar atentamente",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Escucho",
+          "lema": "escuchar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Escucho",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escuchar",
+            "id": 2381,
+            "synsets": [
+              "02175483-v",
+              "02174146-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Escucho",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escuchar",
+            "id": 6572,
+            "synsets": [
+              "02175483-v",
+              "02174146-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Escucho",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escuchar",
+            "id": 28659,
+            "synsets": [
+              "02175483-v",
+              "02174146-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "atentamente",
+          "lema": "atentamente",
+          "pos": "ADV",
+          "tag": "ADV"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "oracion": "¡Qué interesante!",
+    "oracion_lematizada": "¡ Qué interesante !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Qué",
+          "lema": "qué",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22624,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22620,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "interesante",
+          "lema": "interesante",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 3,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "oracion": "Dan energía",
+    "oracion_lematizada": "dar energía",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Dan",
+          "lema": "dar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Dan",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dar",
+            "id": 17038,
+            "synsets": [
+              "02204104-v",
+              "02302103-v",
+              "02235554-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Dan",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dar",
+            "id": 17040,
+            "synsets": [
+              "02204104-v",
+              "02302103-v",
+              "02235554-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Dan",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dar",
+            "id": 21583,
+            "synsets": [
+              "01367186-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Dan",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "dar",
+            "id": 28431,
+            "synsets": [
+              "02204104-v",
+              "02302103-v",
+              "02235554-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "energía",
+          "lema": "energía",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "energía",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "energía",
+            "id": 26059,
+            "synsets": [
+              "11472635-n",
+              "11472496-n"
+            ],
+            "plural": "energías",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "oracion": "Gaviotín peruano",
+    "oracion_lematizada": "Gaviotín peruano",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Gaviotín",
+          "lema": "Gaviotín",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "peruano",
+          "lema": "peruano",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "oracion": "Poleas móviles",
+    "oracion_lematizada": "polea móvil",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Poleas",
+          "lema": "polea",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Poleas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "polea",
+            "id": 26334,
+            "synsets": [
+              "04026692-n"
+            ],
+            "plural": "poleas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "móviles",
+          "lema": "móvil",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "móviles",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "móvil",
+            "id": 2586,
+            "synsets": [
+              "02995984-n"
+            ],
+            "plural": "móviles",
+            "isSimple": true
+          },
+          {
+            "palabra": "móviles",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "móvil",
+            "id": 25269,
+            "synsets": [
+              "02995984-n"
+            ],
+            "plural": "móviles",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "oracion": "Actividad 2",
+    "oracion_lematizada": "Actividad 2",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Actividad",
+          "lema": "Actividad",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Actividad",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "actividad",
+            "id": 8008,
+            "synsets": [
+              "00408356-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "Actividad",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "actividad",
+            "id": 32212,
+            "synsets": [
+              "00408356-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "Actividad",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "actividad",
+            "id": 38914,
+            "synsets": [
+              "00408356-n"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "2",
+          "lema": "2",
+          "pos": "NUM",
+          "tag": "NUM"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "2",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "2",
+            "id": 2628,
+            "synsets": [
+              "13765409-n",
+              "06820056-n",
+              "13603216-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "2",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "2",
+            "id": 4890,
+            "synsets": [
+              "02194109-s",
+              "13765409-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "2",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "2",
+            "id": 7027,
+            "synsets": [
+              "13765409-n",
+              "06820056-n",
+              "13603216-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "2",
+            "pos": "NUM",
+            "tag": "NUM",
+            "keyword": "2",
+            "id": 35679,
+            "synsets": [
+              "13765409-n",
+              "02194109-s"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "oracion": "Datos físicos",
+    "oracion_lematizada": "dato físico",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Datos",
+          "lema": "dato",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "físicos",
+          "lema": "físico",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "oracion": "Sistema digestivo",
+    "oracion_lematizada": "sistema digestivo",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Sistema",
+          "lema": "sistema",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "digestivo",
+          "lema": "digestivo",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "oracion": "Sales minerales",
+    "oracion_lematizada": "sal mineral",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Sales",
+          "lema": "sal",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Sales",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "sal",
+            "id": 25576,
+            "synsets": [
+              "07829083-n"
+            ],
+            "plural": "sales",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "minerales",
+          "lema": "mineral",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "minerales",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "minerales",
+            "id": 26226,
+            "synsets": [
+              "14686753-n",
+              "03098402-a"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "oracion": "Escribí textos",
+    "oracion_lematizada": "escribir texto",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Escribí",
+          "lema": "escribir",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Escribí",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 2380,
+            "synsets": [
+              "01694952-v",
+              "00995046-v",
+              "06371284-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Escribí",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 8107,
+            "synsets": [
+              "01694952-v",
+              "00995046-v",
+              "06371284-n",
+              "01694058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Escribí",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 21851,
+            "synsets": [
+              "01006737-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Escribí",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 27411,
+            "synsets": [
+              "15184543-n",
+              "15185626-n",
+              "01694952-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "textos",
+          "lema": "texto",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "textos",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "texto",
+            "id": 37340,
+            "synsets": [
+              "06400222-n",
+              "06399623-n"
+            ],
+            "plural": "textos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "oracion": "pegamento natural",
+    "oracion_lematizada": "pegamento natural",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "pegamento",
+          "lema": "pegamento",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "pegamento",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "pegamento",
+            "id": 2510,
+            "synsets": [
+              "14727036-n"
+            ],
+            "plural": "pegamentos",
+            "isSimple": true
+          },
+          {
+            "palabra": "pegamento",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "pegamento",
+            "id": 37499,
+            "synsets": [
+              "14727036-n",
+              "14726577-n"
+            ],
+            "plural": "pegamentos",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "natural",
+          "lema": "natural",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "oracion": "Completé tablas",
+    "oracion_lematizada": "completar tabla",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Completé",
+          "lema": "completar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Completé",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "completar",
+            "id": 13078,
+            "synsets": [
+              "01022740-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Completé",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "completar",
+            "id": 15816,
+            "synsets": [
+              "00456705-v",
+              "00485097-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "tablas",
+          "lema": "tabla",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "tablas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tabla",
+            "id": 4753,
+            "synsets": [
+              "01952309-v"
+            ],
+            "plural": "tablas",
+            "isSimple": true
+          },
+          {
+            "palabra": "tablas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tabla",
+            "id": 6143,
+            "synsets": [
+              "15122728-n",
+              "15126421-n"
+            ],
+            "plural": "tablas",
+            "isSimple": true
+          },
+          {
+            "palabra": "tablas",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "tabla",
+            "id": 9090,
+            "synsets": [
+              "03029196-n"
+            ],
+            "plural": "tablas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "oracion": "Plumón negro",
+    "oracion_lematizada": "plumón negro",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Plumón",
+          "lema": "plumón",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "negro",
+          "lema": "negro",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "negro",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "negro",
+            "id": 2886,
+            "synsets": [
+              "00393873-a"
+            ],
+            "plural": "negros",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "oracion": "intestino grueso",
+    "oracion_lematizada": "intestino grueso",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "intestino",
+          "lema": "intestino",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "intestino",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "intestino",
+            "id": 2967,
+            "synsets": [
+              "05541966-n"
+            ],
+            "plural": "intestinos",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "grueso",
+          "lema": "grueso",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "grueso",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "grueso",
+            "id": 37063,
+            "synsets": [
+              "02419189-a"
+            ],
+            "plural": "gruesos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "oracion": "Lo comento",
+    "oracion_lematizada": "él comentar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Lo",
+          "lema": "él",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Lo",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "lo",
+            "id": 6481,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Lo",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "lo",
+            "id": 7029,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "comento",
+          "lema": "comentar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "oracion": "Son cohibidos",
+    "oracion_lematizada": "ser cohibido",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Son",
+          "lema": "ser",
+          "pos": "AUX",
+          "tag": "AUX"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Son",
+            "pos": "AUX",
+            "tag": "AUX",
+            "keyword": "ser",
+            "id": 5581,
+            "synsets": [
+              "02610777-v",
+              "02622439-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Son",
+            "pos": "AUX",
+            "tag": "AUX",
+            "keyword": "ser",
+            "id": 5858,
+            "synsets": [
+              "02610777-v",
+              "02622439-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Son",
+            "pos": "AUX",
+            "tag": "AUX",
+            "keyword": "ser",
+            "id": 36480,
+            "synsets": [
+              "02610777-v"
+            ],
+            "plural": null,
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "cohibidos",
+          "lema": "cohibido",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "oracion": "Cierto día",
+    "oracion_lematizada": "Cierto día",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Cierto",
+          "lema": "cierto",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Cierto",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "cierto",
+            "id": 8715,
+            "synsets": [
+              "05827597-n",
+              "06736815-n",
+              "02469730-a",
+              "01228271-a"
+            ],
+            "plural": "ciertos",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "día",
+          "lema": "día",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 7022,
+            "synsets": [
+              "15190004-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 26799,
+            "synsets": [
+              "15190004-n",
+              "00681933-a"
+            ],
+            "plural": "días",
+            "isSimple": true
+          },
+          {
+            "palabra": "día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 37371,
+            "synsets": [
+              "15180180-n"
+            ],
+            "plural": "días",
+            "isSimple": true
+          },
+          {
+            "palabra": "día",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "día",
+            "id": 37731,
+            "synsets": [
+              "15180180-n"
+            ],
+            "plural": "días",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "oracion": "Mover motores",
+    "oracion_lematizada": "mover motor",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Mover",
+          "lema": "mover",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Mover",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mover",
+            "id": 7167,
+            "synsets": [
+              "01835473-v",
+              "01854282-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mover",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mover",
+            "id": 21397,
+            "synsets": [
+              "01079008-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mover",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mover",
+            "id": 27371,
+            "synsets": [
+              "01835473-v",
+              "01854282-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mover",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "mover",
+            "id": 28561,
+            "synsets": [
+              "01214679-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "motores",
+          "lema": "motor",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "motores",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "motor",
+            "id": 10334,
+            "synsets": [
+              "03292644-n"
+            ],
+            "plural": "motores",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "oracion": "HÁbitat natural",
+    "oracion_lematizada": "hábitat natural",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "HÁbitat",
+          "lema": "hábitat",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "natural",
+          "lema": "natural",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "oracion": "Los enumero",
+    "oracion_lematizada": "él enumerar",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Los",
+          "lema": "él",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Los",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "los",
+            "id": 7033,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Los",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "los",
+            "id": 8477,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Los",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "los",
+            "id": 31906,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "enumero",
+          "lema": "enumerar",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "oracion": "Plataforma funeraria",
+    "oracion_lematizada": "plataforma funerario",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Plataforma",
+          "lema": "plataforma",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Plataforma",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "plataforma",
+            "id": 22200,
+            "synsets": [
+              "03968233-n"
+            ],
+            "plural": "plataformas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "funeraria",
+          "lema": "funerario",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "oracion": "¡Qué difícil!",
+    "oracion_lematizada": "¡ Qué difícil !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Qué",
+          "lema": "qué",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22624,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22620,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "difícil",
+          "lema": "difícil",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "difícil",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "difícil",
+            "id": 4629,
+            "synsets": [
+              "00748528-a",
+              "02185144-s"
+            ],
+            "plural": "difíciles",
+            "isSimple": true
+          },
+          {
+            "palabra": "difícil",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "difícil",
+            "id": 31888,
+            "synsets": [
+              "00748528-a",
+              "02185144-s"
+            ],
+            "plural": "difíciles",
+            "isSimple": true
+          },
+          {
+            "palabra": "difícil",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "difícil",
+            "id": 32436,
+            "synsets": [
+              "00748528-a",
+              "02185144-s"
+            ],
+            "plural": "difíciles",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 3,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "oracion": "Veo videos",
+    "oracion_lematizada": "ver video",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Veo",
+          "lema": "ver",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "Veo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "ver",
+            "id": 2474,
+            "synsets": [
+              "02133754-v",
+              "02134989-v",
+              "02134765-v",
+              "02173796-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Veo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "ver",
+            "id": 6564,
+            "synsets": [
+              "02133754-v",
+              "02134989-v",
+              "02134765-v",
+              "02173796-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Veo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "ver",
+            "id": 28673,
+            "synsets": [
+              "02133754-v",
+              "02134989-v",
+              "02134765-v",
+              "02173796-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "videos",
+          "lema": "video",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "oracion": "PALACIO TSCHUDI",
+    "oracion_lematizada": "PALACIO TSCHUDI",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "PALACIO",
+          "lema": "PALACIO",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "PALACIO",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "palacio",
+            "id": 17279,
+            "synsets": [
+              "03883763-n"
+            ],
+            "plural": "palacios",
+            "isSimple": true
+          },
+          {
+            "palabra": "PALACIO",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "palacio",
+            "id": 38653,
+            "synsets": [
+              "03883542-n",
+              "03883763-n"
+            ],
+            "plural": "palacios",
+            "isSimple": true
+          },
+          {
+            "palabra": "PALACIO",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "palacio",
+            "id": 38882,
+            "synsets": [
+              "03883763-n"
+            ],
+            "plural": "palacios",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "TSCHUDI",
+          "lema": "TSCHUDI",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "oracion": "¡Oh, sorpresa!",
+    "oracion_lematizada": "¡ Oh , sorpresa !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Oh",
+          "lema": "Oh",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": ",",
+          "lema": ",",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": ",",
+            "id": 3189,
+            "synsets": [
+              "06855902-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 3,
+        "palabraInfo": {
+          "texto": "sorpresa",
+          "lema": "sorpresa",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "sorpresa",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "sorpresa",
+            "id": 8517,
+            "synsets": [
+              "00554692-n",
+              "07312772-n"
+            ],
+            "plural": "sorpresas",
+            "isSimple": true
+          },
+          {
+            "palabra": "sorpresa",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "sorpresa",
+            "id": 35565,
+            "synsets": [
+              "07525587-n"
+            ],
+            "plural": "sorpresas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 4,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "oracion": "Luego, pregúntale",
+    "oracion_lematizada": "luego , pregunta",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Luego",
+          "lema": "luego",
+          "pos": "ADV",
+          "tag": "ADV"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Luego",
+            "pos": "ADV",
+            "tag": "ADV",
+            "keyword": "luego",
+            "id": 13080,
+            "synsets": [
+              "00061741-r",
+              "00118527-r"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Luego",
+            "pos": "ADV",
+            "tag": "ADV",
+            "keyword": "luego",
+            "id": 32749,
+            "synsets": [
+              "00061741-r",
+              "00118527-r"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": ",",
+          "lema": ",",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": ",",
+            "id": 3189,
+            "synsets": [
+              "06855902-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "pregúntale",
+          "lema": "pregunta",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "pregúntale",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "pregunta",
+            "id": 7217,
+            "synsets": [
+              "07211342-n",
+              "07208256-n"
+            ],
+            "plural": "preguntas",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "oracion": "Tortuga charapa",
+    "oracion_lematizada": "Tortuga charapa",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Tortuga",
+          "lema": "Tortuga",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Tortuga",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "tortuga",
+            "id": 2596,
+            "synsets": [
+              "01672733-n"
+            ],
+            "plural": "tortugas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tortuga",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "tortuga",
+            "id": 10241,
+            "synsets": [
+              "01666042-n",
+              "01666423-n"
+            ],
+            "plural": "tortugas",
+            "isSimple": true
+          },
+          {
+            "palabra": "Tortuga",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "keyword": "tortuga",
+            "id": 26503,
+            "synsets": [
+              "01672733-n",
+              "01665425-n"
+            ],
+            "plural": "tortugas",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "charapa",
+          "lema": "charapa",
+          "pos": "PROPN",
+          "tag": "PROPN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "oracion": "Una noticia",
+    "oracion_lematizada": "Una noticia",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Una",
+          "lema": "uno",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Una",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "una",
+            "id": 8474,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "noticia",
+          "lema": "noticia",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "noticia",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "noticia",
+            "id": 7784,
+            "synsets": [
+              "06693922-n"
+            ],
+            "plural": "noticias",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "oracion": "Datos curiosos",
+    "oracion_lematizada": "dato curioso",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Datos",
+          "lema": "dato",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "curiosos",
+          "lema": "curioso",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "curiosos",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "curioso",
+            "id": 27705,
+            "synsets": [
+              "00786536-v",
+              "00668361-s",
+              "00667636-a"
+            ],
+            "plural": "curiosos",
+            "isSimple": true
+          },
+          {
+            "palabra": "curiosos",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "curioso",
+            "id": 27706,
+            "synsets": [
+              "00786536-v",
+              "00668361-s",
+              "00667636-a"
+            ],
+            "plural": "curiosos",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "oracion": "Subtema 2",
+    "oracion_lematizada": "subtema 2",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Subtema",
+          "lema": "subtema",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "2",
+          "lema": "2",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "2",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "2",
+            "id": 2628,
+            "synsets": [
+              "13765409-n",
+              "06820056-n",
+              "13603216-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "2",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "2",
+            "id": 4890,
+            "synsets": [
+              "02194109-s",
+              "13765409-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "2",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "2",
+            "id": 7027,
+            "synsets": [
+              "13765409-n",
+              "06820056-n",
+              "13603216-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "2",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "2",
+            "id": 35679,
+            "synsets": [
+              "13765409-n",
+              "02194109-s"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "oracion": "Conectores lógicos",
+    "oracion_lematizada": "conector lógico",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Conectores",
+          "lema": "conector",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "lógicos",
+          "lema": "lógico",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "oracion": "Una cualidad",
+    "oracion_lematizada": "Una cualidad",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Una",
+          "lema": "uno",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Una",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "una",
+            "id": 8474,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "cualidad",
+          "lema": "cualidad",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "oracion": "Mis apreciaciones",
+    "oracion_lematizada": "Mis apreciación",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Mis",
+          "lema": "mi",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Mis",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "mis",
+            "id": 12266,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "apreciaciones",
+          "lema": "apreciación",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "oracion": "Ecosistema acuático",
+    "oracion_lematizada": "ecosistema acuático",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Ecosistema",
+          "lema": "ecosistema",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "acuático",
+          "lema": "acuático",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "oracion": "¡Qué rico!",
+    "oracion_lematizada": "¡ Qué rico !",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "¡",
+          "lema": "¡",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "¡",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "¡",
+            "id": 3414,
+            "synsets": [
+              "06856067-n",
+              "06830640-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "Qué",
+          "lema": "qué",
+          "pos": "DET",
+          "tag": "DET"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22624,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Qué",
+            "pos": "DET",
+            "tag": "DET",
+            "keyword": "qué",
+            "id": 22620,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "palabraInfo": {
+          "texto": "rico",
+          "lema": "rico",
+          "pos": "INTJ",
+          "tag": "INTJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "rico",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "rico",
+            "id": 4733,
+            "synsets": [
+              "02029118-a",
+              "02029380-s"
+            ],
+            "plural": "ricos",
+            "isSimple": true
+          },
+          {
+            "palabra": "rico",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "rico",
+            "id": 32340,
+            "synsets": [
+              "02405305-s",
+              "02403682-a"
+            ],
+            "plural": null,
+            "isSimple": true
+          },
+          {
+            "palabra": "rico",
+            "pos": "INTJ",
+            "tag": "INTJ",
+            "keyword": "rico",
+            "id": 37803,
+            "synsets": [
+              "02029118-a",
+              "02029380-s"
+            ],
+            "plural": "ricos",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 3,
+        "palabraInfo": {
+          "texto": "!",
+          "lema": "!",
+          "pos": "PUNCT",
+          "tag": "PUNCT"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "!",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "keyword": "!",
+            "id": 3417,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "oracion": "Querido diario",
+    "oracion_lematizada": "querido diario",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Querido",
+          "lema": "querido",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": []
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "diario",
+          "lema": "diario",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "diario",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "diario",
+            "id": 2845,
+            "synsets": [
+              "06277798-n",
+              "03827711-n"
+            ],
+            "plural": "diarios",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "oracion": "Lo escribo",
+    "oracion_lematizada": "él escribir",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Lo",
+          "lema": "él",
+          "pos": "PRON",
+          "tag": "PRON"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Lo",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "lo",
+            "id": 6481,
+            "synsets": [
+              ""
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "Lo",
+            "pos": "PRON",
+            "tag": "PRON",
+            "keyword": "lo",
+            "id": 7029,
+            "synsets": [],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "escribo",
+          "lema": "escribir",
+          "pos": "VERB",
+          "tag": "VERB"
+        },
+        "usaLema": true,
+        "pictogramas": [
+          {
+            "palabra": "escribo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 2380,
+            "synsets": [
+              "01694952-v",
+              "00995046-v",
+              "06371284-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "escribo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 8107,
+            "synsets": [
+              "01694952-v",
+              "00995046-v",
+              "06371284-n",
+              "01694058-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "escribo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 21851,
+            "synsets": [
+              "01006737-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "escribo",
+            "pos": "VERB",
+            "tag": "VERB",
+            "keyword": "escribir",
+            "id": 27411,
+            "synsets": [
+              "15184543-n",
+              "15185626-n",
+              "01694952-v"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "oracion": "Mayor pobreza",
+    "oracion_lematizada": "mayor pobreza",
+    "palabras_traducidas": [
+      {
+        "key": 0,
+        "palabraInfo": {
+          "texto": "Mayor",
+          "lema": "mayor",
+          "pos": "ADJ",
+          "tag": "ADJ"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "Mayor",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "mayor",
+            "id": 4557,
+            "synsets": [
+              "02393670-a",
+              "01398335-a"
+            ],
+            "plural": "mayores",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mayor",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "mayor",
+            "id": 4658,
+            "synsets": [
+              "01385012-a",
+              "01398335-a"
+            ],
+            "plural": "mayores",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mayor",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "mayor",
+            "id": 10193,
+            "synsets": [
+              "02393670-a",
+              "01398335-a"
+            ],
+            "plural": "mayores",
+            "isSimple": true
+          },
+          {
+            "palabra": "Mayor",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "keyword": "mayor",
+            "id": 16119,
+            "synsets": [
+              "01398335-a"
+            ],
+            "plural": "mayores",
+            "isSimple": true
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "palabraInfo": {
+          "texto": "pobreza",
+          "lema": "pobreza",
+          "pos": "NOUN",
+          "tag": "NOUN"
+        },
+        "usaLema": false,
+        "pictogramas": [
+          {
+            "palabra": "pobreza",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "pobreza",
+            "id": 15519,
+            "synsets": [
+              "14516729-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          },
+          {
+            "palabra": "pobreza",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "keyword": "pobreza",
+            "id": 15521,
+            "synsets": [
+              "14516729-n"
+            ],
+            "plural": "",
+            "isSimple": true
+          }
+        ]
+      }
+    ]
+  }
+]
