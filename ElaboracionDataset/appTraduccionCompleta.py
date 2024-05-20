@@ -149,7 +149,7 @@ def traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas_simples, d
             indice = oracion_tokenizada["oracion"].find(found)
             segmento_previo = oracion_tokenizada["oracion"][:indice]
 
-            palabras_y_puntuacion = re.split(r'([\s,.:;"\'()]+)', segmento_previo)
+            palabras_y_puntuacion = re.split(r'([\s,.:;"\'()¿?¡!=-]+)', segmento_previo)
 
             palabras_y_puntuacion = [p for p in palabras_y_puntuacion if p.strip()]
 
@@ -162,7 +162,7 @@ def traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas_simples, d
 
         for end_index, (pattern_idx, found) in automaton.iter(oracion_tokenizada["oracion_lematizada"]):
             if found not in frase_agregada:
-                cantidad_inicial = re.split(r'([\s,.:;"\'()]+)', oracion_tokenizada["oracion_lematizada"])
+                cantidad_inicial = re.split(r'([\s,.:;"\'()¿?¡!=-]+)', oracion_tokenizada["oracion_lematizada"])
                 cantidad_inicial = [p for p in cantidad_inicial if p.strip()]
                 if len(cantidad_inicial) != len(palabras_traducidas):
                     break
@@ -173,7 +173,7 @@ def traducir_oraciones(oraciones_tokenizadas, dictionario_pictogramas_simples, d
                 indice = oracion_tokenizada["oracion_lematizada"].find(found)
                 segmento_previo = oracion_tokenizada["oracion_lematizada"][:indice]
 
-                palabras_y_puntuacion = re.split(r'([\s,.:()]+)', segmento_previo)
+                palabras_y_puntuacion = re.split(r'([\s,.:;"\'()¿?¡!=-]+)', segmento_previo)
                 palabras_y_puntuacion = [p for p in palabras_y_puntuacion if p.strip()]
 
                 numero_palabras_antes = len(palabras_y_puntuacion)
